@@ -1,0 +1,1192 @@
+{
+  "meta": {
+    "version": "1.0",
+    "language": "tr",
+    "generatedAt": "2026-01-16"
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Duyu Bütünleme Merkezi Açılışı",
+      "slug": "duyu-butunleme-merkezi-acilisi",
+      "status": "active",
+      "date": {
+        "day": "03",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "09:00 – 12:00"
+      },
+      "category": "Engelli Bireyler",
+      "organizer": "Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 533 518 53 88",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Küçükbakkalköy Mahallesi, Koca Sinan Caddesi, Evlice Sokak, No:1",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.01322833937!2d29.120927676283227!3d40.98119117135447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac61093746903%3A0x876432a5e8f1646!2zS8O8w6fDvGtiYWtrYWxrw7Z5LCBLb2Nhc2luYW4gQ2QgNTYtMSwgMzQ3NTAgQXRhxZ9laGlyL8Swc3RhbmJ1bA!5e0!3m2!1str!2str!4v1769189416621!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/banner/duyu-butunleme.jpg",
+      "gallery": [
+        "images/duyu-butunleme/01.jpg",
+        "images/duyu-butunleme/02.jpg",
+        "images/duyu-butunleme/03.jpg",
+        "images/duyu-butunleme/04.jpg",
+        "images/duyu-butunleme/05.jpg",
+        "images/duyu-butunleme/06.jpg",
+        "images/duyu-butunleme/07.jpg",
+        "images/duyu-butunleme/08.jpg",
+        "images/duyu-butunleme/09.jpg"
+      ],
+      "content": [
+        {
+          "heading": "Duyu Bütünleme Merkezi Açılışı",
+          "paragraphs": [
+            "Toplumun farklı kesimlerine yönelik sosyal projeler üretmeye devam eden Ataşehir Belediyesi, engelli ve özel gereksinimli çocuklar için kurduğu ve içerisinde <strong>Duyu Bütünleme Merkezi” ile “Engelsiz Sosyal Hizmet Merkezi</strong>”nin yer aldığı Çocuk Kampüsü’nün kapılarını <strong>3 Aralık Dünya Engelliler Günü</strong>’nde hizmete açtı. <br><br> Çocuk Kampüsü”nün içerisinde; özel gereksinimli ve duyusal gelişimde desteğe ihtiyaç duyan çocukların daha sağlıklı, mutlu ve bağımsız bireyler olarak yetişmeleri için “Duyu Bütünleme Merkezi” ve “Engelsiz Sosyal Hizmet Merkezi” hizmet sunacak. Küçükbakkalköy Mahallesi’nde bulunan Çocuk Kampüsü’nün açılışı <strong>Ataşehir Belediye Başkanı Onursal Adıgüzel</strong>’in ev sahipliğinde yoğun bir katılımla gerçekleşti. Açılışa; Başkan Onursal Adıgüzel’in eşi Elif Duygu Adıgüzel, Cumhuriyet Halk Partisi Yüksek Disiplin Kurulu Üyesi Aysemin Gülmez, CHP İstanbul İl Başkan Yardımcısı Celal Yalçın, CHP Ataşehir İlçe Başkanı Atakan Anıl Dizdaroğlu, <strong>Atlas Rotary Kulübü Dönem Başkanı Saadet Garan</strong> ile engellilere önelik STK’ların temsilcileri, Ataşehirli belediye meclis üyeleri, muhtarlar ve çok sayıda vatandaş katıldı."
+          ]
+        },
+        {
+          "heading": "Atlas Rotary Kulübü",
+          "paragraphs": [
+            "Her çocuk aynı yeteneklere, aynı özelliklere sahip değildir. Her çocuğun öğrenme süreci bir diğerinden farklı olabilir. Bu yüzden farklılıkları olan çocukların gelişimlerini tamamlamak üzere hizmete sunulan “Duyu Bütünleme Merkezi” onların yaşamında önemli bir eğitim merkezi olacaktır. <br /><br />  Bu merkezin hayata geçmesinde, bu projeye destek sağlayan Rotary Kulüplerimiz ve eğitime önem veren bağışçılarımızla bu proje gerçekleşmiştir.<br /><br /> Bu amaçla katkı sağlayan; <strong>Fenerbahçe RK, Bursa RK, Ordu RK, Atlas RK,RotArt, Sn.İnan Aydınlıoğlu, Sn.Hüseyin Öktem, Sn.Nursen Özen, Sn.Ümit Kıncal Sn. Güven Topçu, Sn. Cem Öncer ve Sn. Özlem Engin dostlarımıza gönülden teşekkür ederiz.</strong>"
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "Ataşehir Belediyesi Sosyal Hizmetler Müdürlüğü",
+        "items": [
+          { "label": "Saat", "value": "09:00 – 12:00" },
+          { "label": "Tarih", "value": "03 Aralık 2025" },
+          { "label": "Kategori", "value": "Engelli Bireyler" },
+          { "label": "İletişim", "value": "0216 570 50 00" },
+          { "label": "Website", "value": "atlasrotary.org" },
+          { "label": "Yer", "value": "Ataşehir / İstanbul" }
+        ]
+      },
+      "seo": {
+        "title": "Duyu Bütünleme Merkezi Açılışı | Atlas Rotary",
+        "description": "Atlas Rotary Kulübü tarafından gerçekleştirilen Duyu Bütünleme Merkezi açılışı etkinliği.",
+        "keywords": ["rotary", "duyu bütünleme", "sosyal sorumluluk"]
+      }
+    },
+    {
+      "id": 2,
+      "title": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+      "slug": "olagan-toplanti-kasim",
+      "status": "active",
+      "date": {
+        "day": "11",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:00"
+      },
+      "category": "Genel Kurul",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 533 518 53 88",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/banner/meeting.jpg",
+      "gallery": ["images/banner/meeting.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+          "paragraphs": [
+            "İstanbul Atlas Rotary Kulübü’nün Kasım ayı olağan toplantısı, Kulüp Başkanımız Saadet Garan’ın ev sahipliğinde ve üyelerimizin değerli katılımıyla gerçekleştirildi. Toplantıda Rotary’nin Öncelikli 7 Odak Alanı kapsamında yürütülen hizmet projeleri ele alınarak mevcut çalışmalar değerlendirildi, yeni dönem proje planları oluşturuldu ve görev dağılımları yapıldı."
+          ]
+        },
+
+        {
+          "heading": "Katılımcılar",
+          "paragraphs": [
+            "Toplantıya Candan Balto, Ebru Demirhan, Belgin Büyük, Nur Topçu, Selcan Aslan, Vildan Elmacıoğlu, Özlem Abacı, Mehmet Abacı, Sinem Sandıkçı, Yücel Turan, Nazik Alanbay, Leyla Terzi ve Cem Beyhan’ın yanı sıra Kulüp Başkanımız Saadet Garan katılım sağladı. Toplam 16 kişinin yer aldığı toplantıda, kulübümüzün topluma sürdürülebilir katkı sağlayacak projeleri için ortak yol haritası belirlendi."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "11 Kasım 2025" },
+          { "label": "Kategori", "value": "Genel Kurul Toplantısı" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Kasım Ayı Olağan Toplantısı",
+        "description": "İstanbul Atlas Rotary Kulübü’nün 11 Kasım 2025 tarihinde gerçekleştirdiği olağan toplantıda, Rotary’nin Öncelikli 7 Odak Alanı kapsamında proje planları ve görev dağılımları ele alındı.",
+        "keywords": ["İstanbul Atlas Rotary", "Rotary toplantısı", "Kasım ayı olağan toplantı", "sosyal sorumluluk", "Rotary projeleri"]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Müzikli Tiyatro Gösterimi ‘Sakın Geç Kalma Erken Gel’",
+      "slug": "muzikli-tiyatro-gosterimi",
+      "status": "active",
+      "date": {
+        "day": "20",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 533 518 53 88",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Caddebostan Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.639680289373!2d29.062057476282632!3d40.967471671356414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1769192006526!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/tyatros.webp",
+      "gallery": ["images/etkinlikler/tyatros.webp", "images/etkinlikler/tiyatro/01.jpeg", "images/etkinlikler/tiyatro/02.png", "images/etkinlikler/tiyatro/03.png", "images/etkinlikler/tiyatro/06.png", "images/etkinlikler/tiyatro/07.png"],
+
+      "content": [
+        {
+          "heading": "Müzikli Tiyatro Gösterimi ‘Sakın Geç Kalma Erken Gel’",
+          "paragraphs": ["“Sakın Geç Kalma Erken Gel” adlı müzikli tiyatro oyunu, Duyu Bütünleme Merkezi’ne katkı sağlamak ve sanatsever Rotaryenleri bir araya getirerek dostluk bağlarını güçlendirmek amacıyla Kulüp Başkanımız Saadet Garan’ın öncülüğünde hayata geçirilmiştir."]
+        },
+
+        {
+          "heading": "Katılımcılar",
+          "paragraphs": [
+            "Üyemiz, Devlet Sanatçısı Özlem Abacı’nın sanat yönetmenliğinde sahnelenen oyunda; Kreata Kadın Topluluğu, Fenerbahçe Rotary Kulübü, Kozyatağı Rotary Kulübü, Marmara Rotary Kulübü ve Suadiye Rotary Kulübü iş birliği yapmıştır. Geniş katılım ve güçlü dayanışma ile gerçekleştirilen proje, Rotary kulüpleri arasındaki iş birliğinin güzel bir örneğini oluşturmuştur."
+          ]
+        },
+
+        {
+          "heading": " 'Sakın Geç Kalma Erken Gel' Caddebostan’da Yeniden Sahnelendi",
+          "paragraphs": ["Oyun, 20 Kasım 2025 tarihinde Caddebostan Kültür Merkezi’nde ikinci kez sahnelenerek sanat ve sosyal sorumluluğu bir araya getiren anlamlı bir buluşmaya daha ev sahipliği yapmıştır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "20 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzikli Tiyatro Gösterimi" }
+        ]
+      },
+      "seo": {
+        "title": "Sakın Geç Kalma Erken Gel | Müzikli Tiyatro Gösterimi | İstanbul Atlas Rotary",
+        "description": "‘Sakın Geç Kalma Erken Gel’ müzikli tiyatro oyunu, Duyu Bütünleme Merkezi’ne katkı sağlamak amacıyla İstanbul Atlas Rotary Kulübü öncülüğünde sahnelendi. Gösterim, 20 Kasım 2025’te Caddebostan Kültür Merkezi’nde ikinci kez izleyiciyle buluştu.",
+        "keywords": ["Sakın Geç Kalma Erken Gel", "müzikli tiyatro gösterimi", "İstanbul Atlas Rotary", "Rotary sosyal sorumluluk", "Caddebostan Kültür Merkezi", "Rotary etkinlikleri", "sanat ve sosyal sorumluluk"]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bir Ömürlük Dönüşüm",
+      "slug": "bir-omurluk-donusum",
+      "status": "active",
+      "date": {
+        "day": "24",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Evlenme Dairesi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4485.987599438107!2d29.0363580127341!3d40.99084987123357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab8715cd98a4b%3A0xa523d695dac6cf16!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Evlendirme%20Dairesi!5e1!3m2!1str!2str!4v1772840243862!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/etkinlik-04.jpg",
+      "gallery": ["images/etkinlikler/etkinlik-04.jpg"],
+
+      "content": [
+        {
+          "heading": "BİR ÖMÜRLÜK DÖNÜŞÜM",
+          "paragraphs": [
+            "“Bir Ömürlük Dönüşüm” projesi; belediyemiz bünyesinde hizmet alan yaşlı bireylerin aktif katılımıyla gerçekleştirilecek olup, kadın emeğini tasarım ve üretimde destekleyerek, çevre bilinci ve farkındalığına dikkat çekerek, kuşaklararası etkileşimi güçlendiren, Devlet kuruluşları ile iş birliği oluşturarak kültürel hafızayı görünür kılan ve sürdürülebilirlik bilincini artırmayı hedefleyen çok disiplinli bir kültür ve sanat çalışmasıdır.",
+            "Proje; sahne performansları, tematik defileler, müzik, dans, tiyatro ve yapay zekâ destekli içeriklerin bütüncül bir kurguda bir araya getirilmesiyle tasarlanmıştır. Temel yaklaşımın çatısında, yaşlı bireylerin pasif hizmet alıcı konumundan çıkarılarak üretim sürecinin merkezine yerleştirilmesi vardır ki; bu eksende tüm bileşenlerin tetikleyici unsuru ‘’dönüşüm’’ kavramının döngüsüdür."
+          ]
+        },
+
+        {
+          "heading": " Geçmişten günümüze kadar uzanan bir yaşam örüntüsü",
+          "paragraphs": [
+            "Bir Ömürlük Değişim” projesi; geçmişi onurlandıran, bugünü sorgulayan ve geleceği bilinçli şekilde inşa etmeyi hedefleyen kapsamlı bir sosyal ve kültürel dönüşüm çalışmasıdır.",
+            "Bu proje ile belediyemiz çatısı altında; üretken, kapsayıcı ve kuşaklar arası dayanışmayı temel alan örnek bir uygulamanın hayata geçirilmesi hedeflenmektedir",
+            "Gerçek fayda; üretilen hizmet merkezinde bir sacayağı oluşturmak ve ihtiyaç odağı doğrultusunda ortak bir payda yaratmaktır. Döngü ve dönüşümün katmanlı ivmesi de budur."
+          ]
+        },
+
+        {
+          "heading": "Rezervasyon için;",
+          "paragraphs": ["İstanbul Atlas Rotary Kulübü Derneği,","İşbankası Selamiçeşme Şb, İstanbul", "TR70 0006 4000 0011 1080 8264 87"]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "24 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Bir Ömürlük Dönüşüm | Müzik, Dans ve Defile Gösterisi | İstanbul Atlas Rotary",
+        "description": "İstanbul Atlas Rotary Kulübü ve Kadıköy Belediyesi iş birliğiyle düzenlenen 'Bir Ömürlük Dönüşüm' etkinliği, yaşlı bireylerin aktif katılımıyla gerçekleştirilen müzik, dans ve defile gösterisini sanat ve sosyal sorumlulukla buluşturuyor.",
+        "keywords": ["Bir Ömürlük Dönüşüm", "İstanbul Atlas Rotary", "Kadıköy etkinlik", "Rotary sosyal sorumluluk projeleri", "müzik dans defile gösterisi", "Kadıköy Belediyesi etkinlik", "Rotary etkinlikleri", "İstanbul kültür etkinlikleri"]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Eylül ayı kulüp olağan toplantısı",
+      "slug": "eylul-toplanti",
+      "status": "active",
+      "date": {
+        "day": "17",
+        "month": "Eylül",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Evlenme Dairesi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4485.987599438107!2d29.0363580127341!3d40.99084987123357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab8715cd98a4b%3A0xa523d695dac6cf16!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Evlendirme%20Dairesi!5e1!3m2!1str!2str!4v1772840243862!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/eylul-meeting.jpg",
+      "gallery": ["images/etkinlikler/eylul-meeting.jpg"],
+
+      "content": [
+        {
+          "heading": "Eylül ayı kulüp olağan toplantısı",
+          "paragraphs": [
+            "Kulübümüzün Eylül ayı olağan toplantısını gerçekleştirdik. Birlikte nasıl yol alabileceğimiz konusunda fikir alışverişleri yaptık. Programlar belirledik. Rotary, dünyayı daha yaşanabilir kılmak için yola çıkan gönüllü yüreklerin ortak ritmidir."
+          ]
+        },
+
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "17 Eylül 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Eylül ayı kulüp olağan toplantısı",
+        "description": "Eylül ayı kulüp olağan toplantısı",
+        "keywords": ["Eylül ayı kulüp olağan toplantısı"]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Ekim ayı kulüp olağan toplantısı",
+      "slug": "ekim-toplanti",
+      "status": "active",
+      "date": {
+        "day": "7",
+        "month": "Ekim",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/ekim-meeting.jpg",
+      "gallery": ["images/etkinlikler/ekim-meeting.jpg"],
+
+      "content": [
+        {
+          "heading": "Ekim ayı kulüp olağan toplantısı",
+          "paragraphs": ["Ekim ayı olağan toplantımızı gerçekleştirdik. Bugünkü buluşmamızda bir arada olmak, düşüncelerimizi paylaşmak ve ortak hedefler etrafında kenetlenmek hepimize güç ve motivasyon verdi.","Her bir üyemizin katkısı, enerjisi ve yapıcı yaklaşımı toplantımızı daha da değerli ve anlamlı bir hale getirdi."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "7 Ekim 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Ekim ayı kulüp olağan toplantısı",
+        "description": "Ekim ayı kulüp olağan toplantısı",
+        "keywords": ["Ekim ayı kulüp olağan toplantısı"]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Atlas Rotary Kulübü RYLA Eğitimi",
+      "slug": "RYLA-egitimi",
+      "status": "active",
+      "date": {
+        "day": "19",
+        "month": "Ekim",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/RYLA-egitimi.jpg",
+      "gallery": ["images/etkinlikler/RYLA-egitimi.jpg"],
+
+      "content": [
+        {
+          "heading": "",
+          "paragraphs": [
+            ""
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "19 Ekim 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü RYLA Eğitimi",
+        "description": "Atlas Rotary Kulübü RYLA Eğitimi",
+        "keywords": ["Atlas Rotary Kulübü RYLA Eğitimi"]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+      "slug": "kasim-toplanti",
+      "status": "active",
+      "date": {
+        "day": "4",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/kasim-meeting.jpg",
+      "gallery": ["images/etkinlikler/kasim-meeting.jpg","images/etkinlikler/kasim-meeting-2.jpg","images/etkinlikler/kasim-meeting-3.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Olağan Toplantısı",
+          "paragraphs": ["4.11.2025 tarihli kulübümüzün olağan toplantısıdır. Kulübümüz tarafından yürütülmesi planlanan sosyal sorumluluk projeleri kapsamındaki çalışmalarımızın hayata geçirilmesi konusunda görüştük ve kararlar aldık.", "Kasım ayı Olağan Toplantımızı tamamladık. Kulübümüzün planladığı sosyal sorumluluk projelerini değerlendirdik;","Bu projelerin hayata geçirilmesi için atılacak adımları ele alarak önemli kararlar aldık.", "Birlikte ürettiğimiz her fikir ve attığımız her adım, topluma fayda sağlama hedefimize bizi biraz daha yaklaştırıyor."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "4 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "description": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "keywords": ["Atlas Rotary Kulübü Olağan Toplantısı"]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+      "slug": "kasim-toplanti-2",
+      "status": "active",
+      "date": {
+        "day": "13",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/kasim-meeting-4.jpg",
+      "gallery": ["images/etkinlikler/kasim-meeting-4.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Olağan Toplantısı",
+          "paragraphs": [
+            "Kulübümüzün Kasım Ayı olağan toplantısında Rotary’nin ‘Öncelikli 7 Odak Alanımız’ başlığı altındaki hizmet projelerimizde yol aldık.","Proje planları ve görev dağılımlarını gerçekleştirdik."
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "13 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "description": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "keywords": ["Atlas Rotary Kulübü Olağan Toplantısı"]
+      }
+    },
+    {
+      "id": 10,
+      "title": "İstanbul Atlas Rotary Kulübü Guvernör Yardımcısı Ziyareti",
+      "slug": "guvernor-ziyareti",
+      "status": "active",
+      "date": {
+        "day": "14",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/guvernor-ziyareti.jpg",
+      "gallery": ["images/etkinlikler/guvernor-ziyareti.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Guvernör Yardımcısı Ziyareti",
+          "paragraphs": [ "Guvernör Yardımcımız Serhad Bil’i ofisinde sponsor kulübümüz olan Tarım Rotary Kulübü’nün Dönem Başkanı Aylin Kar ile birlikte ziyaret ettik."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "14 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Guvernör Yardımcısı Ziyareti",
+        "description": "İstanbul Atlas Rotary Kulübü Guvernör Yardımcısı Ziyareti",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Guvernör Yardımcısı Ziyareti"]
+      }
+    },
+    {
+      "id": 11,
+      "title": "Kulüp Ziyareti-Tarım Rotary Kulübüne Ziyaret-Ataşehir",
+      "slug": "tarim-rotary-ziyareti",
+      "status": "active",
+      "date": {
+        "day": "15",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/tarim-rotary.jpg",
+      "gallery": ["images/etkinlikler/tarim-rotary.jpg","images/etkinlikler/tarim-rotary-2.jpg"],
+
+      "content": [
+        {
+          "heading": "Kulüp Ziyareti-Tarım Rotary Kulübüne Ziyaret-Ataşehir",
+          "paragraphs": ["Kulübümüzün Dönem Başkanı Saadet Garan, Tarım Rotary Kulübü’nü ziyaret ederek dönem projeleri ve iş birliği hakkında görüşülmüştür."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "15 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Kulüp Ziyareti-Tarım Rotary Kulübüne Ziyaret-Ataşehir",
+        "description": "Kulüp Ziyareti-Tarım Rotary Kulübüne Ziyaret-Ataşehir",
+        "keywords": ["Kulüp Ziyareti-Tarım Rotary Kulübüne Ziyaret-Ataşehir"]
+      }
+    },
+    {
+      "id": 12,
+      "title": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+      "slug": "kasim-toplanti-3",
+      "status": "active",
+      "date": {
+        "day": "23",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Büyük Kulüp",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9995.097092713107!2d29.052586200888435!3d40.967225285425265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac77941ffbcfb%3A0xcdc91cd4f0a48964!2zQsO8ecO8ayBLdWzDvHAgRGVybmXEn2k!5e1!3m2!1sen!2str!4v1773320934163!5m2!1sen!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""},
+      "heroImage": "images/etkinlikler/kasim-toplanti-3.jpg",
+      "gallery": ["images/etkinlikler/kasim-toplanti-3.jpg", "images/etkinlikler/kasim-toplanti-3-2.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+          "paragraphs": ["Kasım  23.11.2025 tarihli kulübümüzün olağan toplantısını gerçekleştirdik.","Toplantımıza Rotaract üye adaylarımız katıldı. Interact ve Rotaract kurulması için çalışmalara başladık.","Kulübümüz tarafından yürütülmesi planlanan sosyal sorumluluk projelerimiz üzerine kararlar alındı."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "23 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+        "description": "İstanbul Atlas Rotary Kulübü Olağan Toplantımız",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Olağan Toplantımız"]
+      }
+    },
+    {
+      "id": 13,
+      "title": "İstanbul Atlas Rotary Kulübü Online Toplantı",
+      "slug": "online-meeting",
+      "status": "active",
+      "date": {
+        "day": "26",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/online-meeting.jpg",
+      "gallery": ["images/etkinlikler/online-meeting.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Online Toplantı",
+          "paragraphs": [
+            "Tarım RK, Eşit ve Erişilebilir Yaşam RK, Dolmabahçe RK, Çekmeköy RK,ve Moda RK işbirliği ile düzenlenen online toplantıda Kulüp Başkanımız Dr. Saadet Garan “1923’ten Günümüze Eğitim Yolculuğu ve Atatürk’ün Eğitim Anlayışı’’ üzerine bir konuşma yapmıştır."
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "26 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Online Toplantı",
+        "description": "İstanbul Atlas Rotary Kulübü Online Toplantı",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Online Toplantı"]
+      }
+    },
+    {
+      "id": 14,
+      "title": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+      "slug": "ortak-toplanti",
+      "status": "active",
+      "date": {
+        "day": "27",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Ataşehir",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/ortak-toplanti.jpg",
+      "gallery": ["images/etkinlikler/ortak-toplanti.jpg","images/etkinlikler/ortak-toplanti-2.jpg","images/etkinlikler/ortak-toplanti-3.jpg","images/etkinlikler/ortak-toplanti-4.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+          "paragraphs": ["Acıbadem Rotary Kulübü, Tarım Rotary Kulübü ve Atlas Rotary Kulüp’leri ortak toplantısı.","Bölge 2420 Vakıf Komitesi Başkanı GDG Gülperi Gürpınar’ın Rotary Vakıf’ı sunumunu izledik. Toplantıya kulübümüzden Başkan Saadet Garan, Vakıf Komitesi Başkanı Erkan Çiftçi ve üyemiz Belgin Aydın katılım sağlamıştır."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "27 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+        "description": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir"]
+      }
+    },
+    {
+      "id": 15,
+      "title": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti-CNDN TASARIM STÜDYOSU",
+      "slug": "cndn-tasarim",
+      "status": "active",
+      "date": {
+        "day": "28",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/cndn.jpg",
+      "gallery": ["images/etkinlikler/cndn.jpg", "images/etkinlikler/cndn-2.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti-CNDN TASARIM STÜDYOSU",
+          "paragraphs": [
+            "Rotary Meslek Hizmet Komitesi iş yeri ziyareti kapsamında CNDN Tasarım Stüdyosu üyemiz Candan Balto’nun çalışmalarını yakından görmek ve kendisinin anlatımıyla dinlemek bizler için çok değerliydi.",
+            "Ziyarete katılan Rotaryenler; Yücel Turan, Leyla Terzi, Belgin Büyük, Mehmet Zeki Kanadıkırık."
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "28 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti-CNDN TASARIM STÜDYOSU",
+        "description": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti-CNDN TASARIM STÜDYOSU",
+        "keywords": ["İstanbul Atlas Rotary Kulübü İşyeri Ziyareti-CNDN TASARIM STÜDYOSU"]
+      }
+    },
+    {
+      "id": 16,
+      "title": "İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)",
+      "slug": "gelecek-donem-baskanlar",
+      "status": "active",
+      "date": {
+        "day": "29",
+        "month": "Kasım",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Çorlu",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/gelecek-donem-baskanlar.jpg",
+      "gallery": ["images/etkinlikler/gelecek-donem-baskanlar.jpg", "images/etkinlikler/gelecek-donem-baskanlar-2.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)",
+          "paragraphs": [
+            "Dönem başkanı Saadet Garan ve üyemiz Esma Altay Gelecek Dönem Başkanlar Eğitimine katıldılar." ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "29 Kasım 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)",
+        "description": "İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)"]
+      }
+    },
+    {
+      "id": 17,
+      "title": "İstanbul Atlas Rotary Kulübü İlk Asamble - Genel Kurul Toplantısı Marmara Yelken Kulübü",
+      "slug": "ilk-asamble",
+      "status": "active",
+      "date": {
+        "day": "2",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/ilk-asamble.jpg",
+      "gallery": ["images/etkinlikler/ilk-asamble.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü İlk Asamble - Genel Kurul Toplantısı Marmara Yelken Kulübü",
+          "paragraphs": ["Atlas Rotary Kulübü İlk Asamblesini Gerçekleştirdi. Asambleye katılarak bizleri onurlandıran;","Sayın Guvernör Yardımcımız Serhad Bil’e, paylaştığı değerli görüşler ve yol gösterici katkıları için teşekkür ederiz. ","Asamble sonrasında kulübümüzün Genel Kurul Toplantısını gerçekleştirdik."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "2 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü İlk Asamble - Genel Kurul Toplantısı Marmara Yelken Kulübü",
+        "description": "İstanbul Atlas Rotary Kulübü İlk Asamble - Genel Kurul Toplantısı Marmara Yelken Kulübü",
+        "keywords": ["İstanbul Atlas Rotary Kulübü İlk Asamble - Genel Kurul Toplantısı Marmara Yelken Kulübü"]
+      }
+    },
+    {
+      "id": 18,
+      "title": "Atlas Rotary Kulübü Charter Belgemizi Aldık",
+      "slug": "charter-belgesi",
+      "status": "active",
+      "date": {
+        "day": "6",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Bölge Ofisi",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/charter-belgesi.jpg",
+      "gallery": ["images/etkinlikler/charter-belgesi.jpg","images/etkinlikler/charter-belgesi-2.jpg","images/etkinlikler/charter-belgesi-3.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Charter Belgemizi Aldık",
+          "paragraphs": [
+            " Aralık Ayı’nın 6.12.2025 tarihinde UR Bölge 2420 Ofisimizde, Moda Rotary Kulübü ev sahipliğinde ve Bölge Üyelik Hizmetleri Komitemizin koordinasyonunda Yeni Üye Uyum Semineri için bir araya geldik. Bu seminer, yeni üyelerin Rotary’nin değerlerini, hizmet anlayışını ve oluşturduğu toplumsal etkiyi yakından tanımalarını sağlamak üzere bizlere bilgiler verdi."
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "6 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Charter Belgemizi Aldık-Bölge Ofisi",
+        "description": "Atlas Rotary Kulübü Charter Belgemizi Aldık-Bölge Ofisi",
+        "keywords": ["Atlas Rotary Kulübü Charter Belgemizi Aldık-Bölge Ofisi"]
+      }
+    },
+    {
+      "id": 19,
+      "title": "Atlas Rotary Kulübü Genç  Üye Adaylarımız İle Fikir Toplantısı",
+      "slug": "fikir-toplantisi",
+      "status": "active",
+      "date": {
+        "day": "8",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/fikir-toplantisi.jpg",
+      "gallery": ["images/etkinlikler/fikir-toplantisi.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Genç  Üye Adaylarımız İle Fikir Toplantısı",
+          "paragraphs": [
+            "Gençlerimizin fikirlerinden yararlanıyoruz. Katılan Rotaryenler Leyla Terzi,Yücel Çağdaş Turan, Selcan Arslan"
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "8 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Genç  Üye Adaylarımız İle Fikir Toplantısı-Kadıköy",
+        "description": "Atlas Rotary Kulübü Genç  Üye Adaylarımız İle Fikir Toplantısı-Kadıköy",
+        "keywords": ["Atlas Rotary Kulübü Genç  Üye Adaylarımız İle Fikir Toplantısı-Kadıköy"]
+      }
+    },
+    {
+      "id": 20,
+      "title": "Atlas Rotary Kulübü Çevrimiçi Toplantı",
+      "slug": "cevrimici-toplanti",
+      "status": "active",
+      "date": {
+        "day": "9",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/cevrimici-toplanti.jpg",
+      "gallery": ["images/etkinlikler/cevrimici-toplanti.jpg","images/etkinlikler/cevrimici-toplanti-2.jpg","images/etkinlikler/cevrimici-toplanti-3.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Çevrimiçi Toplantı",
+          "paragraphs": ["Aralık Ayı’nın 8.12.2025 tarihinde kulübümüzün Kazım İşmen Anadolu Lisesi müdür yardımcısı Berna Demirkol ve iş kadını Esra Hanım ile gerçekleşen online toplantımız. Berna Hanımın okulunda teknoloji bağımlılığı, sağlık ve RYLA eğitimleri vermeyi planladık. " ," Aralık Ayı’nın 9.12.2025 tarihinde üyelerimiz Vildan Elmacıoğlu,İpek Elmacıoğlu Rotary Club de Barcelona Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. ", " 1922 yılında kurulan ve 103 yıllık köklü bir geçmişe sahip olan Barcelona Rotary Kulübü, ziyaret sırasında kulübümüze bayraklarını hediye etti."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "9 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Çevrimiçi Toplantı",
+        "description": "Atlas Rotary Kulübü Çevrimiçi Toplantı",
+        "keywords": ["Atlas Rotary Kulübü Çevrimiçi Toplantı"]
+      }
+    },
+    {
+      "id": 21,
+      "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+      "slug": "aralik-toplanti",
+      "status": "active",
+      "date": {
+        "day": "9",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+      },
+      "heroImage": "images/etkinlikler/aralik-toplanti.jpg",
+      "gallery": ["images/etkinlikler/aralik-toplanti.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Olağan Toplantısı",
+          "paragraphs": [
+            " 9.12.2025 tarihinde kulübümüzün olağan toplantısını gerçekleştirdik. Kulübümüz tarafından yürütülmesi planlanan sosyal sorumluluk projeleri kapsamındaki çalışmalarımızın hayata geçirilmesi konusunda görüştük ve kararlar aldık."
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "9 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "description": "Atlas Rotary Kulübü Olağan Toplantısı",
+        "keywords": ["Atlas Rotary Kulübü Olağan Toplantısı"]
+      }
+    },
+    {
+      "id": 22,
+      "title": "Atlas Rotary Kulübü Ocakbaşı Etkinliği - Abacı Ailesine Konuk Olduk",
+      "slug": "abaci-ailesi",
+      "status": "active",
+      "date": {
+        "day": "14",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/abaci-ailesi.jpg",
+      "gallery": ["images/etkinlikler/abaci-ailesi.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Ocakbaşı Etkinliği - Abacı Ailesine Konuk Olduk",
+          "paragraphs": ["Kulübümüzün ilk Ocakbaşı etkinliğini Sevgili Abacı ailesinin evinde gerçekleştirdik. Aday üyelerimiz de etkinliğimize katıldı. Kulüp üyelerimizin bir arada olduğu keyifli bir gün geçirdik."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "14 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Ocakbaşı Etkinliği - Abacı Ailesine Konuk Olduk",
+        "description": "Atlas Rotary Kulübü Ocakbaşı Etkinliği - Abacı Ailesine Konuk Olduk",
+        "keywords": ["Atlas Rotary Kulübü Ocakbaşı Etkinliği - Abacı Ailesine Konuk Olduk"]
+      }
+    },
+    {
+      "id": 23,
+      "title": "Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi",
+      "slug": "yariyil-degerlendirmesi",
+      "status": "active",
+      "date": {
+        "day": "17",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/yariyil-degerlendirmesi.jpg",
+      "gallery": ["images/etkinlikler/yariyil-degerlendirmesi.jpg"],
+
+      "content": [
+        {
+          "heading": "Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi",
+          "paragraphs": [" Dönemin yarıyıl değerlendirilmesi Guvernör Yardımcımız Serhad Bil’in ofisinde Tutku Grubu Başkanları katılımları ile gerçekleşti."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "17 Aralık 2025" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi",
+        "description": "Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi",
+        "keywords": ["Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi"]
+      }
+    }
+  ]
+}
