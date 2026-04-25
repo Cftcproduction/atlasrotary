@@ -1834,6 +1834,368 @@
         "description": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
         "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali"]
       }
+    },
+    {
+      "id": 35,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
+      "slug": "ortak-toplanti-sisli",
+      "status": "active",
+      "date": {
+        "day": "11",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
+          "paragraphs": ["Diğer sivil toplum örgütleriyle dostluk ilişkileri: Başkanımız Saadet Garan, ‘’Lions T Yönetim Çevresi’’ nin konuk onuşmacısı olarak ‘’Atatürk’ün Eğitime ve Kadına Bakış Açısı’’ üzerine sunum yapmıştır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "11 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli"]
+      }
+    },
+    {
+      "id": 36,
+      "title": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
+      "slug": "bir-omurluk-donusum-projesi-provalari-kreta-kadinlari",
+      "status": "active",
+      "date": {
+        "day": "15",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
+          "paragraphs": [
+            "24.03.2026 tarihinde gerçekleştirmeyi planladığımız ‘’Bir Ömürlük Dönüşüm’’ projemizin kostüm üretim provaları Sevgili Yücel ve Kreta Kadınları ile devam etmektedir.",
+            "Diğer kurumlarla iş birliği: Sevgili Esra’nın fikri ile gelişen Central Hospital ile iş birliği bağlamında görüşmelerimiz devam etmektedir."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "15 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
+        "description": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
+        "keywords": ["İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları"]
+      }
+    },
+    {
+      "id": 37,
+      "title": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+      "slug": "ebru-demirhan-ile-bolluk-ve-bereket-hazinesi-cevrimici-zoom",
+      "status": "active",
+      "date": {
+        "day": "17",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+          "paragraphs": [
+            "Sevgili Ebru’nun düzenlediği Ebru Demirhan ile Bolluk & Bereket Hazinesi adlı çalışmada bolluk bilincini, bereket akışını ve zihinsel engelleri ele alınarak hem içsel temizlik hem de farkındalık çalışmalarıyla hayat akışının yeniden düzenlenmesi amaçlanmıştır. Çalışmanın geliri Kanuni Sultan Süleyman Hastanesi Erken Doğum Ünitesi’ne bağışlanacaktır. Böylece yapılan her katılım, hayata erken başlayan minik kalplere destek olacaktır."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "17 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+        "description": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+        "keywords": ["İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom"]
+      }
+    },
+    {
+      "id": 38,
+      "title": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+      "slug": "istanbul-atlas-rotary-kulubu-is-yeri-ziyareti-turkan-saylan-kultur-merkezi",
+      "status": "active",
+      "date": {
+        "day": "21",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+          "paragraphs": ["Sevgili Opera Sanatçısı- Oyuncu üyemiz Nazik’in yer aldığı ‘‘Yüksek Dozda Mutluluk Oyunu’’ adlı oyunu Türkan Saylan Kültür Merkezi’nde izleme fırsatı bulduk. Performansıyla bizleri büyüled"]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "21 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+        "description": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+        "keywords": ["İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi"]
+      }
+    },
+    {
+      "id": 39,
+      "title": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+      "slug": "istanbul-atlas-rotary-kulubu-navigasyonlu-bastonlar-gorme-engelli-vatandaslara-teslim-edildi",
+      "status": "active",
+      "date": {
+        "day": "22",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+          "paragraphs": ["RotArt Tiyatro Grubu Sanat Yönetmeni Özlem Abacı’nın yönettiği ‘’Sakın Geç Kalma Erken Gel’’ oyunuyla Adıyaman’da görme engelli vatandaşlarımıza navigasonlu baston armağan etmişlerdir."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "22 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+        "description": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi."]
+      }
+    },
+    {
+      "id": 40,
+      "title": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+      "slug": "istanbul-atlas-rotary-kulubu-navigasyonlu-bastonlar-gorme-engelli-vatandaslara-teslim-edildi",
+      "status": "active",
+      "date": {
+        "day": "23",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+          "paragraphs": [
+            "23 Şubat 1905’te bir masa etrafında başlayan dostluk, bugün milyonlarca insanın hayatına dokunan küresel bir iyilik hareketine dönüşmüş durumda. Rotary International, 121 yıldır farklı mesleklerden ve kültürlerden insanları bir araya getirerek topluma değer üretmeye, kalıcı çözümler geliştirmeye ve daha iyi bir dünya için çalışmaya devam ediyor. Bu anlamlı günü, UR Bölge 2420 Dünya Rotary Günü Kokteyli ile birlikte, yüksek katılım ve güçlü bir birliktelik ruhu eşliğinde gerçekleştirdik. Rotary ruhunu, dostluğu ve dayanışmayı aynı masa etrafında paylaşma fırsatı bulduğumuz bu özel buluşmada; kültür ve lezzet deneyimiyle zenginleşen keyifli bir akşam yaşandı. 23 Şubat akşamı Litera Beyoğlu’nda düzenlenen KULÜBÜMÜZDEN HABERLER İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu 23.02.2026 etkinlikte, tümRotaryenler bir araya gelerek güçlü bir aidiyet ve ortak vizyon atmosferi oluşturmuştur. Kulübümüz 10 üyemiz ile katılım sağlamıştır."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "23 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+        "description": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+        "keywords": ["İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu"]
+      }
+    },
+    {
+      "id": 41,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+      "slug": "istanbul-atlas-rotary-kulubu-toplanti-kalamis-is-bankasi-lokali",
+      "status": "active",
+      "date": {
+        "day": "24",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+          "paragraphs": [
+            "24.02.2026 tarihli toplantımızda sanat dünyamızın iki kıymetli ismini onurlandırdığımız çok özel bir gece gerçekleştirdik. İstanbul Devlet Opera ve Balesi Müdürü ve Genel Sanat Yönetmeni Sayın Kerim Soysal ile tiyatro sanatçısı, rejisör, eğitmen ve düşünce insanı Sayın Tamer Levent’e ‘’Meslekte Üstün Hizmet Ödülleri’’ni takdim ettik.",
+            "4. Asamblemizin sunumunu  erçekleştirdik. Asamble ve ‘’Meslekte Üstün Hizmet Ödülü’’ Töreni gecemizde Sayın Guvernör Yardımcımız Serhad Bil ile  eslekte Üstün Hizmet Ödülü Komite Başkanı Mehtap Sartık aramızdaydı. Toplantımıza katılımları bizleri mutlu etti ve geceye değer kattı."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "24 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali"]
+      }
+    },
+    {
+      "id": 42,
+      "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+      "slug": "istanbul-atlas-rotary-kulubu-rotary-ortak-toplantisi-cevrimici-zoom",
+      "status": "active",
+      "date": {
+        "day": "26",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+          "paragraphs": ["26.02.2026 tarihli ortak toplantımızda konuşmacı Prof. Dr. Oğuzhan Doğanlar idi. Bizlere ‘’Bir filizle yaşama dokunmak: Kanserde beslenmeye moleküler bir bakış’’ konulu sunumunu yaptı."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "26 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "description": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
+      }
     }
   ]
 }
