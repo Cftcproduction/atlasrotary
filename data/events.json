@@ -2196,6 +2196,460 @@
         "description": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
         "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
       }
+    },
+    {
+      "id": 43,
+      "title": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
+      "slug": "dunya-baskani-sayin-francesco-arezzonun-istanbul-ziyareti-istanbul-hilton-bosphorus",
+      "status": "active",
+      "date": {
+        "day": "03",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
+          "paragraphs": ["UR Bölge 2420 Guvernörümüz Fuat Yalçın’ın ev sahipliğinde, 3 Mart 2026 tarihinde Uluslararası Rotary 2025-2026 Dönem Dünya Başkanı Sayın Francesco Arezzo’nun katıldığı davete katılım sağladık."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "03 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
+        "description": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
+        "keywords": ["Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus"]
+      }
+    },
+    {
+      "id": 44,
+      "title": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+      "slug": "istanbul-atlas-rotary-kulubu-seramik-workshoplari-ile-egitime-destek-projesi-abd-virginia",
+      "status": "active",
+      "date": {
+        "day": "07",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+          "paragraphs": [
+            "Projemizi 7 Mart 2026 ve 14 Mart 2026 tarihlerinde iki ayrı oturumda Clay&Kiln Club Stüdyosu Virginia, ABD’de gerçekleştirdik. Her oturum 2 saat sürdü ve etkinlikte toplam 24 katılımcı vardı. Katılımcılara temel seramik teknikleri hakkında bilgi verildi ve atölye boyunca uygulamalı etkinliklere katıldılar. Atölye sırasında katılımcılara aşağıdaki konular tanıtıldı. Atölyeden toplanan tüm gelir Türkiye'deki Okul Destek Derneği'ne aktarıldı.Bu bağış, eğitim girişimlerini desteklemeyi ve  ihtiyaç sahibi öğrencilere yardım sağlamayı amaçlamaktadır."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "07 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+        "description": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia"]
+      }
+    },
+    {
+      "id": 45,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+      "slug": "istanbul-atlas-rotary-kulubu-toplanti-davet-etiler-central-hospital",
+      "status": "active",
+      "date": {
+        "day": "10",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+          "paragraphs": [
+            "10.03.2026 tarihinde toplantımızı Monik Hanım’ın daveti üzerine Etiler Central Hospital’da gerçekleştirdik. Hem işyeri ziyareti hem de “Ülkesel Olanaklar Protokolü” yapıldı. Tüm Rotaryen’lere ve ailelerine Central Hospital şubelerinde özel indirimler sağlandı. ‘’Ülkesel Olanaklar’’ programının amacı çeşitli işyerleri ile Rotary’i biraraya getirmek, iş birliği sağlamak, birbirlerine sunulan imkanlardan yararlanabilmektir. GDG İlter Ergürbüz ile GDG Nezih Bayındır bizlerle  irlikteydi. Toplantımıza katılımları bizleri mutlu etti ve geceye değer kattı."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "10 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital"]
+      }
+    },
+    {
+      "id": 46,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantısı- Kebapçı Arcadium",
+      "slug": "istanbul-atlas-rotary-kulubu-toplanti-kebapci-arcadium",
+      "status": "active",
+      "date": {
+        "day": "16",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantısı- Kebapçı Arcadium",
+          "paragraphs": ["16.03.2026 tarihindeki toplantımızda kulübümüzle ve gerçekleştirdiğimiz, hedeflediğimiz projeler ile ilgili kararlar aldık."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "16 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantısı- Kebapçı Arcadium",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantısı- Kebapçı Arcadium",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantısı- Kebapçı Arcadium"]
+      }
+    },
+    {
+      "id": 47,
+      "title": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
+      "slug": "istanbul-atlas-rotary-kulubu-hpv-farkindalik-semineri-ckm",
+      "status": "active",
+      "date": {
+        "day": "17",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
+          "paragraphs": ["17.03.2026 tarihinde Sevgili Nur ile Sevgili Ebru yürütücülüğünde Kreta Kadınları gösterisiyle birlikte CKM A salonunda HPV’ye Dur De! Kanseri Önle! Hpv Farkındalık Semineri gerçekleştirdik."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "17 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
+        "description": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM"]
+      }
+    },
+    {
+      "id": 48,
+      "title": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
+      "slug": "istanbul-atlas-rotary-kulubu-bir-omurluk-donusum-projesi-ckm",
+      "status": "active",
+      "date": {
+        "day": "24",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
+          "paragraphs": [
+            "İstanbul Atlas Rotary Kulübü ve Kadıköy Belediyesi işbirliği ile topladığımız geliri deprem bölgesinde eğitime aktarılacak olan ‘’Bir Ömürlük Dönüşüm’’ projemizde, yaşlılar haftası kapsamında çok anlamlı bir geceye imza attık. Etkinliğimizde kıymetli büyüklerimize geri dönüşümden hazırlanan kıyafetler giydirildi. Yapay zeka desteği ile gençlik yılları yeniden canlandırılarak onlara unutulmaz bir hatıra yaşatıldı. Gecemizin açılışı Sevgili Dr. Nur ile Bilinçaltı Dönüşüm Uzmanı Sevgili Ebru’nun bilgilendirici ve ilham verici konuşmalarıyla ve sonrasında Sevgili Zeki’nin projemizi kısaca anlatan konuşmasıyla gerçekleşti. Devlet Opera Sanatcısı Sevgili Nazik’in muhteşem sesine Ataşehir Belediye Başkan Yardımcısı Sevgili Leyla zarif tango performansıyla eşlik etti. Bu anlamlı geceyi büyük bir emek, özen ve sanat anlayışıyla hazırlayan Devlet Opera Sanatçısı ve Sanat Yönetmenimiz Sevgili Özlem’e, Sevgili Yücel’e, gecenin enerjisini yükselten Sevgili Mehmet’e, Rotaract üye adaylarımıza ve bizleri yalnız bırakmayan tüm üyelerimize, bilet alarak destek olan dostlarımıza gönülden teşekkür ederiz. Bir dönüşüm bazen bir gecede başlar. Ama etkisi nesiller boyu sürer."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "24 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
+        "description": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM"]
+      }
+    },
+    {
+      "id": 49,
+      "title": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
+      "slug": "istanbul-atlas-rotary-kulubu-bir-omurluk-donusum-projesi-ckm",
+      "status": "active",
+      "date": {
+        "day": "28",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
+          "paragraphs": [
+            "28.03.2026 tarihinde gerçekleşen Asamble’de Gelecek Dönem Başkanımız Sevgili Nur İstanbul Atlas Rotary Kulübü adına bayrağını büyük bir onurla teslim aldı. Bu bayrak sadece bir sembol değil, iyilik için birleşen güçlü bir niyetin, hizmete adanmış bir yolculuğun temsilidir. İlhan veren bir başlangıca, kalpten hizmetlere.."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "28 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
+        "description": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi"]
+      }
+    },
+    {
+      "id": 50,
+      "title": "İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
+      "slug": "istanbul-atlas-rotary-kulubu-latin-all-stars-gosterisi-ckm",
+      "status": "active",
+      "date": {
+        "day": "28",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
+          "paragraphs": [
+            "28 Mart gecesi Ckm’de Sevgili Vildan’nın kulübümüz adına katkılarının olduğu Ayhan Sicimoğlu - Latin All Stars Gösterisi, müziğin ritmiyle enerjimizi yükselten, keyifli ve unutulmaz bir geceye dönüştü. Sanatın, dostluğu ve paylaşımı nasıl derinleştirdiğine bir kez daha tanıklık ettik."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "28 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
+        "description": "İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM"]
+      }
+    },
+    {
+      "id": 51,
+      "title": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+      "slug": "istanbul-atlas-rotary-kulubu-360-stil-projesi-etiler-central-hospital",
+      "status": "active",
+      "date": {
+        "day": "30",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+          "paragraphs": [
+            "30.03.2026 tarihinde 360° Stil: Moda ve Stil programımızın ilk buluşmasını Etiler Central Hospital’ın ev sahipliğinde gerçekleştirdik. Etiler Central Hospital’dan Aslı Hanım program boyunca moderetorlük yaptı. Eğitmenlerimiz Cansu Şekerci (Moda ve Stil Danışmanı), Beyza Doğan (Makyaj Artisti). Projemiz 3 etaptan oluşmaktadır. İlk dersimizde vücut tipine uygun giyinme, siluet oluşturma ve beden dengesini doğru kullanarak kendi stilimizi keşfetmeye adım attık. Her bir katılımcının kendine özgü stilini fark etmesi ve bunu doğru şekilde ifade edebilmesi üzerine güçlü bir başlangıç yaptık. Bir sonraki buluşmalarımız 6 Nisan Pazartesi ile 13 Nisan Pazartesi olacaktır."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "30 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+        "description": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+        "keywords": ["İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital"]
+      }
+    },
+    {
+      "id": 52,
+      "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+      "slug": "istanbul-atlas-rotary-kulubu-konuk-konusmacili-toplanti-asamble-ve-yeni-uye-kabul-töreni",
+      "status": "active",
+      "date": {
+        "day": "30",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+          "paragraphs": [
+            "31.03.2026 tarihli kulübümüzün olağan toplantısında Asamble ve Üye Kabul Törenimizi gerçekleştirdik. Yeni değerli üyemiz Sevgili Serkan Rotary yeminini ederek aramıza katıldı. İlk üyelerimizden Sevgili Zeliha Amerika’da yaşadığından üye kabul töreni dün gerçekleşti. Toplantımızda konuk konuşmacımız GDG Gaye Binark Rotary Bölge 2420 Üyelik Ana Komitesi Komite Başkanı’ydı. Bizlere Rotary’de Üyelik sunumunu gerçekleştirdi. Tarım Rotary kulübünden Semra Demircan aramızdaydı."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "30 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+        "description": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni"]
+      }
     }
   ]
 }
