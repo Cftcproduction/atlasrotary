@@ -1566,6 +1566,274 @@
         "description": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri",
         "keywords": ["İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri"]
       }
+    },
+    {
+      "id": 30,
+      "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+      "slug": "ocakbasi-toplanti",
+      "status": "active",
+      "date": {
+        "day": "01",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+          "paragraphs": [" 01.02.2026 tarihinde kulübümüz üyeleri toplanarak eğlenceli bir gece geçirmiştir. Bu tarz toplantılar kulübün kaynaşması amacıyla yapılmaktadır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "01 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+        "description": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı"]
+      }
+    },
+    {
+      "id": 31,
+      "title": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
+      "slug": "genç-üye-adaylarımız-ile-fikir-toplantısı-kadıköy",
+      "status": "active",
+      "date": {
+        "day": "04",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
+          "paragraphs": [" Sevgili Yücel’in katılımıyla gençlerimizin fikirlerinden yararlanıyoruz."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "04 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
+        "description": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy"]
+      }
+    },
+    {
+      "id": 32,
+      "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+      "slug": "rotary-ortak-toplantısı-çevrimici-zoom",
+      "status": "active",
+      "date": {
+        "day": "04",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+          "paragraphs": [" 04.02.2026 tarihli Türkiye Rotary E- Kulübü Rotary ortak toplantımızda konuşmacı GDG.Mehmet Sabri Görkey idi. Bizlere ‘’Kulüp Hizmet Projeleri Yapımı ve Fon Yaratma’’ konulu sunumu sundu"]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "04 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "description": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
+      }
+    },
+    {
+      "id": 33,
+      "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
+      "slug": "ryla-egitimi-keystone-international-schools",
+      "status": "active",
+      "date": {
+        "day": "05",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
+          "paragraphs": [" 05.02.2026 tarihinde ‘’Keystone International Schools’’ da gerçekleşen RYLA eğitimimize başkanımız Saadet Garan eğitimci olarak katılmıştır. RYLA eğitimimiz lise öğrencilerine verilmiştir. 33 öğrenci ile eğitim tamamlanmıştır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "05 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
+        "description": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
+        "keywords": ["İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools"]
+      }
+    },
+    {
+      "id": 34,
+      "title": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
+      "slug": "semineri-2026-2027",
+      "status": "active",
+      "date": {
+        "day": "08",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
+          "paragraphs": [" 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "08 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
+        "description": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
+        "keywords": ["2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri"]
+      }
+    },
+    {
+      "id": 35,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+      "slug": "toplanti-ve-uye-kabul-toreni",
+      "status": "active",
+      "date": {
+        "day": "10",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+          "paragraphs": [
+            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
+            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
+            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "10 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali"]
+      }
     }
   ]
 }
