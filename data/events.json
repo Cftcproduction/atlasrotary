@@ -1170,8 +1170,8 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/yariyil-degerlendirmesi.jpg",
-      "gallery": ["images/etkinlikler/yariyil-degerlendirmesi.jpg"],
+      "heroImage": "images/etkinlikler/17-aralik.jpg",
+      "gallery": ["images/etkinlikler/17-aralik.jpg"],
 
       "content": [
         {
@@ -1200,7 +1200,7 @@
     },
     {
       "id": 24,
-      "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
+      "title": "Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
       "slug": "konuk-konusmacili-toplanti-marmara-yelken-kulubu",
       "status": "active",
       "date": {
@@ -1219,8 +1219,8 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/13-ocak2.png",
+      "gallery": ["images/etkinlikler/13-ocak1.jpg", "images/etkinlikler/13-ocak3.jpg", "images/etkinlikler/13-ocak4.jpg"],
 
       "content": [
         {
