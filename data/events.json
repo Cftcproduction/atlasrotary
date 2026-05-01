@@ -864,10 +864,10 @@
       },
       "location": {
         "address": "Marmara Yelken Kulübü",
-        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2str\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\""
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.80712681744!2d29.063772087692755!3d40.96380389750252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1769189624156!5m2!1str!2strwidth=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-      "heroImage": "images/etkinlikler/ilk-asamble.jpg",
-      "gallery": ["images/etkinlikler/ilk-asamble.jpg"],
+      "heroImage": "images/etkinlikler/02-aralik5.jpg",
+      "gallery": ["images/etkinlikler/02-aralik5.jpg", "images/etkinlikler/02-aralik4.jpg", "images/etkinlikler/02-aralik3.jpg", "images/etkinlikler/02-aralik2.jpg", "images/etkinlikler/02-aralik1.jpg"],
 
       "content": [
         {
@@ -889,7 +889,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "2 Aralık 2025" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -907,10 +907,10 @@
         "day": "6",
         "month": "Aralık",
         "year": "2025",
-        "time": "19:00 – 21:30"
+        "time": "09:00 – 12:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "Bölge 2420 Ofisi",
       "contact": {
         "phone": "+90 530 830 53 03",
         "website": "https://atlasrotary.org"
@@ -919,8 +919,8 @@
         "address": "Bölge Ofisi",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/charter-belgesi.jpg",
-      "gallery": ["images/etkinlikler/charter-belgesi.jpg", "images/etkinlikler/charter-belgesi-2.jpg", "images/etkinlikler/charter-belgesi-3.jpg"],
+      "heroImage": "images/etkinlikler/06-aralik11.jpg",
+      "gallery": ["images/etkinlikler/06-aralik11.jpg", "images/etkinlikler/06-aralik10.jpg", "images/etkinlikler/06-aralik09.jpg","images/etkinlikler/06-aralik08.jpg"],
 
       "content": [
         {
@@ -1250,83 +1250,34 @@
       }
     },
     {
-      "id": 24,
-      "title": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-      "slug": "club-bangkok-dach-ziyareti-thailand",
-      "status": "active",
-      "date": {
-        "day": "14",
-        "month": "Ocak",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 530 830 53 03",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-          "paragraphs": [" Aralık Ayı’nın 14.01.2026 tarihinde üyemiz Mehmet Zeki Kanadıkırık Rotary Club Bangkok DACH Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. Sevgili Zeki kulüplerin takdim bayraklarının değişimini gerçekleştirmiştir."]
-        },
-
-        {
-          "heading": "",
-          "paragraphs": [""]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "14 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-        "description": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand"]
-      }
-    },
-    {
       "id": 25,
-      "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-      "slug": "ocak-basi-toplantisi",
+      "title": "Yeni Kulüp Görevlileri Çalıştayı ",
+      "slug": "yeni-kulup-gorevlileri-calistayi",
       "status": "active",
       "date": {
-        "day": "16",
-        "month": "Ocak",
-        "year": "2026",
+        "day": "21",
+        "month": "Aralık",
+        "year": "2025",
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "Yeni Kulüp Görevlileri Çalıştayı",
       "contact": {
         "phone": "+90 530 830 53 03",
         "website": "https://atlasrotary.org"
       },
       "location": {
         "address": "",
-        "mapEmbedSrc": ""
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.5510025947115!2d29.032687977455968!3d40.96941397135619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab880a0fc85e9%3A0xfe6e657c16885ef!2zxLBzdGFuYnVsIFllbGtlbiBLdWzDvGLDvA!5e0!3m2!1str!2str!4v1777623205096!5m2!1str!2str width=600 height=450 style=border:0;allowfullscreen=loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/calistay.jpg",
+      "gallery": ["images/etkinlikler/calistay.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+          "heading": "Yeni Kulüp Görevlileri Çalıştayı",
           "paragraphs": [
-            " Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır. Belgin Büyük üyemiz ise muhteşem sesiyle üyelerimize keyifli bir gece yaşatmıştır. Hepimizde güzel bir hatıra olarak kalacaktır. Ev sahipliği yapan üyelerimize teşekkür ederiz. Daha nice buluşmalara!"
+            "Aralık Ayı’nın 22.12.2025 tarihinde gerçekleşen Yeni Kulüp Görevlileri Çalıştayı'nda, Bölge Komiteler Koordinatörümüz Özgür Çevik, Bölge Saymanımız Jale Orhun Genç ve Bölge Hukuk Komitesi Başkanımız Barkın Gültekin'in sunumları ile Rotary bilgilerimizi tazeleme ve tanışıklıklarımızı artırmak fırsatı bulduk. Yeni Kulüp Görevlileri Çalıştayı’nda başta Kulüp Sekreteri ve Kulüp Saymanı olmak üzere, kulüp yönetimi konularını ele alınmıştır."
           ]
         },
 
@@ -1339,14 +1290,14 @@
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "16 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Tarih", "value": "21 Aralık 2025" },
+          { "label": "Kategori", "value": "Toplantı, Eğitim" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "description": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı"]
+        "title": "Yeni Kulüp Görevlileri Çalıştayı",
+        "description": "Yeni Kulüp Görevlileri Çalıştayı",
+        "keywords": ["Yeni Kulüp Görevlileri Çalıştayı"]
       }
     },
     {
@@ -1785,54 +1736,6 @@
         "title": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
         "description": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
         "keywords": ["2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri"]
-      }
-    },
-    {
-      "id": 35,
-      "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
-      "slug": "toplanti-ve-uye-kabul-toreni",
-      "status": "active",
-      "date": {
-        "day": "10",
-        "month": "Şubat",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 530 830 53 03",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
-          "paragraphs": [
-            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
-            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
-            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
-          ]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "10 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
-        "description": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali"]
       }
     },
     {
@@ -2649,6 +2552,251 @@
         "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
         "description": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
         "keywords": ["İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni"]
+      }
+    },
+    {
+      "id": 53,
+      "title": "Bangkok South Rotary Club Ziyareti  - Thailand",
+      "slug": "bangkok-south-rotary-club ",
+      "status": "active",
+      "date": {
+        "day": "19",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Bangkok South Rotary Club ",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.547735478557!2d100.53922897691368!3d13.74580938664552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ec54c5b9045%3A0x40ac612eb0ee02d8!2sRotary%20Club%20of%20Bangkok%20Foundation!5e0!3m2!1str!2str!4v1777622567880!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
+      },
+      "heroImage": "images/etkinlikler/19-aralik2.png",
+      "gallery": ["images/etkinlikler/19-aralik2.png", "images/etkinlikler/19-aralik1.png", "images/etkinlikler/19-aralik3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+          "paragraphs": [" Aralık Ayı’nın 19.12.2025 tarihinde üyelerimiz Mehmet Zeki Kanadıkırık Bangkok South Rotary Club Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. 7 Ağustos 1961'de kurulan Bangkok South Rotary Kulübünün yılın son toplantısı gerçekleşmiştir."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "19 Aralık 2025" },
+          { "label": "Kategori", "value": "Toplantı, Müzik, Dans, Kültürel Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Bangkok South Rotary Club Ziyareti - Thailand",
+        "description": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand"]
+      }
+    },
+    {
+      "id": 54,
+      "title": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+      "slug": "club-bangkok-dach-ziyareti-thailand",
+      "status": "active",
+      "date": {
+        "day": "14",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+          "paragraphs": [" Aralık Ayı’nın 14.01.2026 tarihinde üyemiz Mehmet Zeki Kanadıkırık Rotary Club Bangkok DACH Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. Sevgili Zeki kulüplerin takdim bayraklarının değişimini gerçekleştirmiştir."]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "14 Ocak 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+        "description": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand"]
+      }
+    },
+    {
+      "id": 55,
+      "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+      "slug": "ocak-basi-toplantisi",
+      "status": "active",
+      "date": {
+        "day": "16",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+          "paragraphs": [
+            " Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır. Belgin Büyük üyemiz ise muhteşem sesiyle üyelerimize keyifli bir gece yaşatmıştır. Hepimizde güzel bir hatıra olarak kalacaktır. Ev sahipliği yapan üyelerimize teşekkür ederiz. Daha nice buluşmalara!"
+          ]
+        },
+
+        {
+          "heading": "",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "16 Ocak 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+        "description": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı"]
+      }
+    },
+    {
+      "id": 56,
+      "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+      "slug": "toplanti-ve-uye-kabul-toreni",
+      "status": "active",
+      "date": {
+        "day": "10",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+          "paragraphs": [
+            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
+            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
+            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "10 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali"]
+      }
+    },
+    {
+      "id": 57,
+      "title": "Üye Kabul Töreni ve Kuruluş Gecemizi Gerçekleştirdik. ",
+      "slug": "charter-toreni",
+      "status": "active",
+      "date": {
+        "day": "22",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Moda Deniz Kulübü",
+      "contact": {
+        "phone": "+90 530 830 53 03",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "İstanbul Moda Deniz Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.105543763689!2d29.02080987734305!3d40.97916967135458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab88b20d190d1%3A0x7b32841b661dc25f!2sModa%20Deniz%20Kul%C3%BCb%C3%BC%201935!5e0!3m2!1str!2str!4v1777625663600!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
+      },
+      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
+      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+
+      "content": [
+        {
+          "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+          "paragraphs": [
+            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
+            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
+            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "10 Şubat 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "description": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
+        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali"]
       }
     }
   ]
