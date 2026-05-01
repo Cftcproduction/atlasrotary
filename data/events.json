@@ -1198,57 +1198,7 @@
         "keywords": ["Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi"]
       }
     },
-    {
-      "id": 24,
-      "title": "Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
-      "slug": "konuk-konusmacili-toplanti-marmara-yelken-kulubu",
-      "status": "active",
-      "date": {
-        "day": "13",
-        "month": "Ocak",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/13-ocak2.png",
-      "gallery": ["images/etkinlikler/13-ocak1.jpg", "images/etkinlikler/13-ocak3.jpg", "images/etkinlikler/13-ocak4.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
-          "paragraphs": [
-            " 13.01.2026 tarihli kulübümüzün olağan toplantısını gerçekleştirdik. Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında gerçekleşti. Kulübümüzün 2 üyesisunumları ve performansları ile bize keyifli bir toplantı akşamı yaşattılar. Sevgili Ebru ve Sevgili Nazik kendilerini ve mesleklerini tanıtan bilgilendirmenin yanı sıra meslekleri ile ilgili performanslarını sundular. Ayrıca toplantımızda değerli bir konuğumuz vardı. Bölge 2420 Kurumsal İletişim Ana Komite Başkanımız Tolga Cihan Artan bizlere ‘Rotary Yaşam Programı hakkında bilgi verdi. Çok verimli olan bu sunumu ilgiyle dinledik."
-          ]
-        },
-
-        {
-          "heading": "",
-          "paragraphs": [""]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "13 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
-        "description": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı - Marmara Yelken Kulübü"]
-      }
-    },
+    
     {
       "id": 25,
       "title": "Yeni Kulüp Görevlileri Çalıştayı ",
@@ -2622,15 +2572,16 @@
       },
       "location": {
         "address": "",
-        "mapEmbedSrc": ""
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.547735478557!2d100.53922897691368!3d13.74580938664552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ec54c5b9045%3A0x40ac612eb0ee02d8!2sRotary%20Club%20of%20Bangkok%20Foundation!5e0!3m2!1str!2str!4v1777622567880!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+    
+      "heroImage": "images/etkinlikler/14-ocak/01.jpg",
+      "gallery": ["images/etkinlikler/14-ocak/01.jpg", "images/etkinlikler/14-ocak/02.jpg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-          "paragraphs": [" Aralık Ayı’nın 14.01.2026 tarihinde üyemiz Mehmet Zeki Kanadıkırık Rotary Club Bangkok DACH Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. Sevgili Zeki kulüplerin takdim bayraklarının değişimini gerçekleştirmiştir."]
+          "paragraphs": ["14.01.2026 tarihinde üyemiz Mehmet Zeki Kanadıkırık Rotary Club Bangkok DACH Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. Sevgili Zeki kulüplerin takdim bayraklarının değişimini gerçekleştirmiştir."]
         },
 
         {
@@ -2643,7 +2594,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "14 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -2772,16 +2723,14 @@
         "address": "İstanbul Moda Deniz Kulübü",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.105543763689!2d29.02080987734305!3d40.97916967135458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab88b20d190d1%3A0x7b32841b661dc25f!2sModa%20Deniz%20Kul%C3%BCb%C3%BC%201935!5e0!3m2!1str!2str!4v1777625663600!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/22-aralik/01.jpg",
+      "gallery": ["images/etkinlikler/22-aralik/01.jpg", "images/etkinlikler/22-aralik/02.jpg", "images/etkinlikler/22-aralik/03.jpg", "images/etkinlikler/22-aralik/04.jpg", "images/etkinlikler/22-aralik/05.jpg", "images/etkinlikler/22-aralik/06.jpg", "images/etkinlikler/22-aralik/07.jpg", "images/etkinlikler/22-aralik/08.jpg", "images/etkinlikler/22-aralik/09.jpg", "images/etkinlikler/22-aralik/10.jpg", "images/etkinlikler/22-aralik/11.jpg", "images/etkinlikler/22-aralik/12.jpg", "images/etkinlikler/22-aralik/13.jpg", "images/etkinlikler/22-aralik/14.jpg", "images/etkinlikler/22-aralik/15.jpg", "images/etkinlikler/22-aralik/16.jpg", "images/etkinlikler/22-aralik/17.jpg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Moda Deniz Kulübü",
           "paragraphs": [
-            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
-            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
-            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
+            " Aralık Ayı’nın 22.12.2025 tarihinde Guvarnör Yardımcımız Serhad Bil’in katılımlarıyla yaptığımız Üye Kabul Törenimiz, Kuruluş Gecesi kutlamamız kulübümüz adına yeni yıla yüksek motivasyonla girmemizi sağladı."
           ]
         }
       ],
@@ -2789,8 +2738,8 @@
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
           { "label": "Saat", "value": "19:30 – 23:30" },
-          { "label": "Tarih", "value": "10 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Tarih", "value": "22 Aralık 2025" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -2835,7 +2784,7 @@
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "10 Şubat 2026" },
+          { "label": "Tarih", "value": "09 Aralık 2025" },
           { "label": "Kategori", "value": "Meeting, Gösteri" }
         ]
       },
@@ -2843,6 +2792,186 @@
         "title": "Rotary Club de Barcelona Ziyareti - Spain",
         "description": "Rotary Club de Barcelona Ziyareti - Spain",
         "keywords": ["Rotary Club de Barcelona Ziyareti - Spain"]
+      }
+    },
+    {
+      "id": 59,
+      "title": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)",
+      "slug": "yonetim-kurulu-toplantisi-ocakbasi-etkinligi-buyuk-kulup",
+      "status": "active",
+      "date": {
+        "day": "26",
+        "month": "Aralık",
+        "year": "2025",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Büyük Kulüp",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6023.16549278456!2d29.052191629975162!3d40.968460454541066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac77941ffbcfb%3A0xcdc91cd4f0a48964!2zQsO8ecO8ayBLdWzDvHAgRGVybmXEn2k!5e0!3m2!1str!2str!4v1777666328976!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/26-aralik/01.png",
+      "gallery": ["images/etkinlikler/26-aralik/01.png", "images/etkinlikler/26-aralik/02.png"],
+
+      "content": [
+        {
+          "heading": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)",
+          "paragraphs": [
+            "   2025 yılının son toplantısını Büyük Kulüp’te iki yeni üye adayımızı davet ederek gerçekleştirdik. Verimli bir toplantı oldu. Konuklarımıza Rotary’i anlattık. Onlar da aramızda olmaktan memnun olduklarını ifade ettiler. İyi yıllar dilekleri ile toplantımızı tamamladık."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "26 Aralık 2025" },
+          { "label": "Kategori", "value": "Meeting, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)",
+        "description": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)",
+        "keywords": ["Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)"]
+      }
+    },
+    {
+      "id": 60,
+      "title": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı",
+      "slug": "konuk-konusmacili-olagan-toplanti-ve-yonetim-kurulu-toplantisi-marmara-yelken-kulubu",
+      "status": "active",
+      "date": {
+        "day": "13",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.807123445861!2d29.066068077342642!3d40.96380397135681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1777667054300!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/13-Ocak/13-ocak2.png",
+      "gallery": ["images/etkinlikler/13-Ocak/13-ocak2.png", "images/etkinlikler/13-Ocak/13-ocak1.jpg", "images/etkinlikler/13-Ocak/13-ocak3.jpg", "images/etkinlikler/13-Ocak/13-ocak4.jpg"],
+
+      "content": [
+        {
+          "heading": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı",
+          "paragraphs": [" Toplantımız Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında  gerçekleşti. İki üyemiz sunumları ve performansları ile bize keyifli bir toplantı akşamı yaşattılar.  Sevgili Ebru ve Sevgili Nazik kendilerini ve mesleklerini tanıtan bilgilendirmenin yanı sıra meslekleri ile ilgili harika performansları ile harikaydılar. Ayrıca toplantımızda değerli  bir konuğumuz vardı. Bölge 2420 Kurumsal İletişim Ana Komite Başkanımız Tolga Cihan Artan bizlere Rotary Yaşam Programını derinlemesine anlattı. Çok verimli olan bu sunumu ilgiyle dinledik. Kendilerine çok teşekkür ederiz."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "13 Ocak 2026" },
+          { "label": "Kategori", "value": "Meeting, Davet" }
+        ]
+      },
+      "seo": {
+        "title": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı (Marmara Yelken Kulübü)",
+        "description": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı (Marmara Yelken Kulübü)",
+        "keywords": ["Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı (Marmara Yelken Kulübü)"]
+      }
+    },
+    {
+      "id": 61,
+      "title": "Ocakbaşı Etkinliği",
+      "slug": "ocak-basi-etkinligi-marmara-yelken-kulubu",
+      "status": "active",
+      "date": {
+        "day": "16",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "19:00 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Ocakbaşı Etkinliği",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Marmara Yelken Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.807123445861!2d29.066068077342642!3d40.96380397135681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab875974b644b%3A0x5d3710a014bfcb99!2sMarmara%20Yelken%20Kul%C3%BCb%C3%BC!5e0!3m2!1str!2str!4v1777667054300!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/16-ocak/01.jpg",
+      "gallery": ["images/etkinlikler/16-ocak/01.jpg", "images/etkinlikler/16-ocak/02.jpg"],
+
+      "content": [
+        {
+          "heading": "Ocakbaşı Etkinliği",
+          "paragraphs": [
+            "  Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "16 Ocak 2026" },
+          { "label": "Kategori", "value": "Meeting, Davet" }
+        ]
+      },
+      "seo": {
+        "title": "Ocakbaşı Etkinliği ",
+        "description": "Ocakbaşı Etkinliği ",
+        "keywords": ["Ocakbaşı Etkinliği "]
+      }
+    },
+    {
+      "id": 62,
+      "title": "İşyeri Ziyareti (AKM)",
+      "slug": "isyeri-ziyareti-akm",
+      "status": "active",
+      "date": {
+        "day": "20",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "13:00 – 15:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "İşyeri Ziyareti (AKM)",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Atatürk Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.4797807762466!2d28.985221977344906!3d41.036635971346726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76534821173%3A0x4921da7bada2608!2zQXRhdMO8cmsgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777668989119!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/16-ocak/01.jpg",
+      "gallery": ["images/etkinlikler/16-ocak/01.jpg", "images/etkinlikler/16-ocak/02.jpg"],
+
+      "content": [
+        {
+          "heading": "İşyeri Ziyareti (AKM)",
+          "paragraphs": ["  Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "13:00 – 15:30" },
+          { "label": "Tarih", "value": "20 Ocak 2026" },
+          { "label": "Kategori", "value": "Meeting, Davet" }
+        ]
+      },
+      "seo": {
+        "title": "İşyeri Ziyareti (AKM) ",
+        "description": "İşyeri Ziyareti (AKM) ",
+        "keywords": ["İşyeri Ziyareti (AKM) "]
       }
     }
   ]
