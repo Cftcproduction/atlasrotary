@@ -1250,59 +1250,7 @@
         "keywords": ["Yeni Kulüp Görevlileri Çalıştayı"]
       }
     },
-    {
-      "id": 26,
-      "title": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti - Atatürk Kültür Merkezi",
-      "slug": "isyeri-ziyareti-ataturk-kultur-merkezi",
-      "status": "active",
-      "date": {
-        "day": "20",
-        "month": "Ocak",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti - Atatürk Kültür Merkezi",
-          "paragraphs": [
-            " İstanbul Atlas Rotary Kulübü olarak Atatürk Kültür Merkezi’ndeydik. Kapıda bizleri nazik ev sahipliğiyle karşılayan AKM Sanat Yönetmeni Remzi Bey bizlere eşlik ederek AKM’nin tarihçesini, ince detaylarını, birikimini ve ruhunu aktaran kurum müdürü bizlere eşsiz bir deneyim yaşattılar. Sergilerden çalışma alanlarına, konser salonlarından kütüphaneye ve çok sayıda atölyeye uzanan bu kültür ve sanat yolculuğunu büyük birhayranlıkla tamamladık."
-          ]
-        },
-
-        {
-          "heading": "",
-          "paragraphs": [
-            "‘’Saklı Zamanlar’’ Selahattin Kara Resminde Soyut İzler sergisini gezme şansımız oldu. Ayrıca Aliya 100 Yaşında: Hayat, Fikir ve Mücadele Sergisi’ni Aliya İzetbegoviç’in yüz yıllık mirasını yalnızca kronolojik bir anlatıyla değil; duygu, düşünce ve tanıklıklarla aktarmayı amaçlayan çok katmanlı bir sergiyi gezdik. Bu anlamlı programın mimarı, Sevgili kulüp üyemiz Nazik’ti. Ev sahipliği yapan sevgili üyelerimiz Erkan, Leyla, Ebru ve Sinem teşekkür ederiz. Ayrıca aramıza atılan konuk Rotary kulüp başkanları ve üyeleri vardı. Gezimizin son durağı olan 6. katta ise nefis tatlılar, büyülü Boğaz manzarası ve derinleşen sohbetler eşliğinde anın tadını çıkardık. "
-          ]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "20 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti - Atatürk Kültür Merkezi",
-        "description": "İstanbul Atlas Rotary Kulübü İşyeri Ziyareti - Atatürk Kültür Merkezi",
-        "keywords": ["İstanbul Atlas Rotary Kulübü İşyeri Ziyareti - Atatürk Kültür Merkezi"]
-      }
-    },
+    
     {
       "id": 27,
       "title": "İstanbul Atlas Rotary Kulübü Yönetim Kurulu Toplantısı - Büyük Kulüp",
@@ -1324,8 +1272,8 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/22-ocak/01.jpg",
+      "gallery": ["images/etkinlikler/22-ocak/01.jpg"],
 
       "content": [
         {
@@ -1343,7 +1291,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "22 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Eğitim" }
         ]
       },
       "seo": {
@@ -2603,57 +2551,7 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand"]
       }
     },
-    {
-      "id": 55,
-      "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-      "slug": "ocak-basi-toplantisi",
-      "status": "active",
-      "date": {
-        "day": "16",
-        "month": "Ocak",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-          "paragraphs": [
-            " Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır. Belgin Büyük üyemiz ise muhteşem sesiyle üyelerimize keyifli bir gece yaşatmıştır. Hepimizde güzel bir hatıra olarak kalacaktır. Ev sahipliği yapan üyelerimize teşekkür ederiz. Daha nice buluşmalara!"
-          ]
-        },
-
-        {
-          "heading": "",
-          "paragraphs": [""]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "16 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "description": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı"]
-      }
-    },
+    
     {
       "id": 56,
       "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
@@ -2951,8 +2849,8 @@
         "address": "Atatürk Kültür Merkezi",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.4797807762466!2d28.985221977344906!3d41.036635971346726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76534821173%3A0x4921da7bada2608!2zQXRhdMO8cmsgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777668989119!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/16-ocak/01.jpg",
-      "gallery": ["images/etkinlikler/16-ocak/01.jpg", "images/etkinlikler/16-ocak/02.jpg"],
+      "heroImage": "images/etkinlikler/20-ocak/04.png",
+      "gallery": ["images/etkinlikler/20-ocak/04.png", "images/etkinlikler/20-ocak/01.jpg", "images/etkinlikler/20-ocak/02.jpg", "images/etkinlikler/20-ocak/03.jpg"],
 
       "content": [
         {
@@ -2972,6 +2870,96 @@
         "title": "İşyeri Ziyareti (AKM) ",
         "description": "İşyeri Ziyareti (AKM) ",
         "keywords": ["İşyeri Ziyareti (AKM) "]
+      }
+    },
+    {
+      "id": 63,
+      "title": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
+      "slug": "don-quixote-don-kisot-muzikali",
+      "status": "active",
+      "date": {
+        "day": "22",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "13:00 – 15:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Zorlu PSM Turkcell Sahnesi",
+        "mapEmbedSrc":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.105303084742!2d29.011370594891062!3d41.066690797451216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab645fb9fd1a5%3A0x272558825cc8e0dd!2sZorlu%20Performans%20Sanatlar%C4%B1%20Merkezi!5e0!3m2!1str!2str!4v1777669964428!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/22-ocak/02.jpg",
+      "gallery": ["images/etkinlikler/22-ocak/02.jpg", "iimages/etkinlikler/22-ocak/03.jpg"],
+
+      "content": [
+        {
+          "heading": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
+          "paragraphs": [" Başrollerinde Selçuk Yöntem, Zuhal Olcay ve Cengiz Bozkurt’un olduğu Don Quixote (Don Kişot) Müzikali’ne katılım sağladık. Don Quixote (Don Kişot) Müzikali, Zorlu PSM Turkcell Sahnesi’nde gerçekleşti. Müzikal, Miguel de Cervantes'in ünlü romanı 'Don Quixote'un sahne uyarlaması olarak izleyicilere unutulmaz bir deneyim sundu. Selçuk Yöntem'in Don Quixote rolündeki performansı, Zuhal Olcay'ın Dulcinea karakterindeki etkileyici oyunculuğu ve Cengiz Bozkurt'un Sancho Panza rolündeki komik dokunuşlarıyla müzikal, izleyicilerden büyük beğeni topladı. Sahne tasarımı ve kostümler de eserin atmosferini başarıyla yansıtarak seyircilere görsel bir şölen sundu."]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "13:00 – 15:30" },
+          { "label": "Tarih", "value": "20 Ocak 2026" },
+          { "label": "Kategori", "value": "Müzikli Tiyatro Gösterimi" }
+        ]
+      },
+      "seo": {
+        "title": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
+        "description": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
+        "keywords": ["Don Quixote (Don Kişot) Müzikali", "Zorlu PSM Turkcell Sahnesi"]
+      }
+    },
+    {
+      "id": 64,
+      "title": "Konuk Konuşmacılı Olağan Toplantı",
+      "slug": "konuk-konusmacili-olagan-toplanti",
+      "status": "active",
+      "date": {
+        "day": "27",
+        "month": "Ocak",
+        "year": "2026",
+        "time": "19:30 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Konuk Konuşmacılı Olağan Toplantı",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "iş Bankası Kalamış Lokali",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.0404415717153!2d29.036575377343063!3d40.98059527135445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab87c3a0961a7%3A0x20f4d1846aae9200!2zxLDFnyBCYW5rYXPEsSBLYWxhbcSxxZ8gTG9rYWxp!5e0!3m2!1str!2str!4v1777715166975!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/27-ocak/04.jpg",
+      "gallery": ["images/etkinlikler/27-ocak/04.jpg", "images/etkinlikler/27-ocak/02.jpg", "images/etkinlikler/27-ocak/03.jpg", "images/etkinlikler/27-ocak/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
+          "paragraphs": [
+            " 27.01.2026 tarihli kulübümüzün olağan toplantısını gerçekleştirdik. GDG. Özcan Albak'ı konuşmacı olarak ağırladık. Özcan Guvernörümüzün, 'My Rotary Kullanımının Dayanılmaz Hafifliği' konulu sunumunu dinledik. Kendisi bizlere MyRotary’nin önemini anlattı. Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında Sevgili Özlem, Sevgili Nazik ve Sevgili Ebru meslekleri ile ilgili anlatımları oldu."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "27 Ocak 2026" },
+          { "label": "Kategori", "value": "Konuk Konuşmacılı Olağan Toplantı" }
+        ]
+      },
+      "seo": {
+        "title": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
+        "description": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
+        "keywords": ["Konuk Konuşmacılı Olağan Toplantı", "İş Bankası Kalamış Lokali"]
       }
     }
   ]
