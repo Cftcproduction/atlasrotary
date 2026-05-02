@@ -1300,69 +1300,10 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü Yönetim Kurulu Toplantısı - Büyük Kulüp"]
       }
     },
-    {
-      "id": 28,
-      "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı- Kalamış İş Bankası Lokali",
-      "slug": "konuk-konusmacili-toplanti-kalamis-is-bankasi-lokali",
-      "status": "active",
-      "date": {
-        "day": "27",
-        "month": "Ocak",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı- Kalamış İş Bankası Lokali",
-          "paragraphs": [
-            " 27.01.2026 tarihli kulübümüzün olağan toplantısını gerçekleştirdik. Geçmiş dönem guvernörümüz Özcan Albak'ı konuşmacı olarak ağırladık. Özcan Guvernörümüzün, \"My Rotary Kullanımının Dayanılmaz Hafifliği\" konulu sunumunu dinledik. Kendisi bizlere MyRotary’nin önemini anlattı."
-          ]
-        },
-
-        {
-          "heading": "",
-          "paragraphs": [
-            "Toplantımıza Türkiye Rotary E-Kulübü başkan yardımcısı Doç. Dr. Hamdi Özcan ile Bodrum KARIA Rotary Kulübünden İlknur Özer ve oğlu Mert Özer konuğumuz olarak katıldılar. Toplantımızda komite başkanlarımız kulübümüz tarafından hayata geçirilmesi planlanan sosyal sorumluluk projelerini detaylıca anlattılar. Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında Sevgili Özlem, Sevgili Nazik ve Sevgili Ebru meslekleri ile ilgili anlatımları oldu."
-          ]
-        },
-        {
-          "heading": "",
-          "paragraphs": [
-            "Kulübümüz tarafından hayata geçirilmesi planlanan sosyal sorumluluk projelerimizden bahsedildi. Sevgili Nur bize Anne ve Bebek Vakfı iş birliği ile ‘Geleceğin Işık Tutan Anneleri’ projesini aktardı. Aynı zamanda ‘KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!’ projesinin ilk 6 ay faaliyet özetini bizlere detaylı sunumu ile anlattı. Projenin amacını, medya, kurumsal ve toplumsal iş birliklerini Maltepe, Ataşehir ve Kadıköy Belediyeleri ile birlikte bilgilendirici toplantılar, salon etkinlikleri ve görsel sunumlar yapıldığını belirtti. AVM’ler, oteller, kulüpler ve sosyal alanlarda dijital ekranlar, billboardlar, ayakta pano ve çerçeveli afiş sergilemeleri gerçekleştirilmiş; bilgilendirici broşürlerle yüz yüze farkındalık sağlanmıştır.  Billboardların yerleri Kemer Country Club, Büyük Kulüp, Ataşehir Golf Club, Barbaros Mah. Habire Yahşi Lisesi, Atatürk Mah. Anaokullar Bölgesi, İçerenköy Nuri Cıngıllı Lise duvarı, Yenişehir Yunus Emre İlköğretim Okulu. Dijital içerik üretimi ise projenin önemli ayaklarından birini oluşturmuştur. Instagram üzerinden yapılan post, story, Reels ve canlı yayınlar ile HPV, aşı şemaları, erken tanı ve yanlış bilinen doğrular sade ve bilimsel bir dille aktarılmıştır.",
-            "Sevgili Yücel Kadıköy Belediyesi ve belediye bünyesinde 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile 24 Mart Yaşlılar Haftası’nda Alan Kadıköy’de seyirci ile buluşacak olan ‘’Bir Ömürlük Değişim’’ projesinin devam eden provalarını, program akışını bizlere aktardı."
-          ]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "27 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı- Kalamış İş Bankası Lokali",
-        "description": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı- Kalamış İş Bankası Lokali",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı- Kalamış İş Bankası Lokali"]
-      }
-    },
+    
     {
       "id": 29,
-      "title": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri",
+      "title": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! ",
       "slug": "konuk-konusmacili-toplanti-kalamis-is-bankasi-lokali",
       "status": "active",
       "date": {
@@ -1372,7 +1313,7 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü,",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
@@ -1381,12 +1322,12 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/27-ocak-hpv/01.jpeg",
+      "gallery": ["images/etkinlikler/27-ocak-hpv/01.jpeg", "images/etkinlikler/27-ocak-hpv/02.jpeg", "images/etkinlikler/27-ocak-hpv/03.jpeg", "images/etkinlikler/27-ocak-hpv/04.jpeg", "images/etkinlikler/27-ocak-hpv/05.jpeg", "images/etkinlikler/27-ocak-hpv/06.jpeg", "images/etkinlikler/27-ocak-hpv/07.jpeg", "images/etkinlikler/27-ocak-hpv/08.jpeg", "images/etkinlikler/27-ocak-hpv/09.jpeg", "images/etkinlikler/27-ocak-hpv/10.jpeg", "images/etkinlikler/27-ocak-hpv/11.jpeg", "images/etkinlikler/27-ocak-hpv/12.jpeg", "images/etkinlikler/27-ocak-hpv/13.jpeg", "images/etkinlikler/27-ocak-hpv/14.jpeg", "images/etkinlikler/27-ocak-hpv/15.jpeg", "images/etkinlikler/27-ocak-hpv/16.jpeg", "images/etkinlikler/27-ocak-hpv/17.jpeg", "images/etkinlikler/27-ocak-hpv/18.jpeg", "images/etkinlikler/27-ocak-hpv/19.jpeg", "images/etkinlikler/27-ocak-hpv/20.jpeg", "images/etkinlikler/27-ocak-hpv/21.jpeg", "images/etkinlikler/27-ocak-hpv/22.jpeg", "images/etkinlikler/27-ocak-hpv/23.jpeg", "images/etkinlikler/27-ocak-hpv/24.jpeg", "images/etkinlikler/27-ocak-hpv/25.jpeg", "images/etkinlikler/27-ocak-hpv/26.jpeg", "images/etkinlikler/27-ocak-hpv/27.jpeg", "images/etkinlikler/27-ocak-hpv/28.jpeg", "images/etkinlikler/27-ocak-hpv/29.jpeg", "images/etkinlikler/27-ocak-hpv/30.jpeg", "images/etkinlikler/27-ocak-hpv/31.jpeg", "images/etkinlikler/27-ocak-hpv/32.jpeg", "images/etkinlikler/27-ocak-hpv/33.jpeg", "images/etkinlikler/27-ocak-hpv/34.jpeg"], 
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri",
+          "heading": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle!",
           "paragraphs": [" Ataşehir Belediyesi’ nin billboardlarında yer aldık."]
         },
 
@@ -1395,13 +1336,30 @@
           "paragraphs": ["Kemer Country Club’ taki billboardlarda yer aldık", "Büyük Kulüp’ teki billboardlarda yer aldık"]
         },
         {
-          "heading": "",
+          "heading": "Sosyal Sorumluluk Projelerimiz",
           "paragraphs": [
-            "Kulübümüz tarafından hayata geçirilmesi planlanan sosyal sorumluluk projelerimizden bahsedildi. Sevgili Nur bize Anne ve Bebek Vakfı iş birliği ile ‘Geleceğin Işık Tutan Anneleri’ projesini aktardı. Aynı zamanda ‘KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!’ projesinin ilk 6 ay faaliyet özetini bizlere detaylı sunumu ile anlattı. Projenin amacını, medya, kurumsal ve toplumsal iş birliklerini Maltepe, Ataşehir ve Kadıköy Belediyeleri ile birlikte bilgilendirici toplantılar, salon etkinlikleri ve görsel sunumlar yapıldığını belirtti. AVM’ler, oteller, kulüpler ve sosyal alanlarda dijital ekranlar, billboardlar, ayakta pano ve çerçeveli afiş sergilemeleri gerçekleştirilmiş; bilgilendirici broşürlerle yüz yüze farkındalık sağlanmıştır.  Billboardların yerleri Kemer Country Club, Büyük Kulüp, Ataşehir Golf Club, Barbaros Mah. Habire Yahşi Lisesi, Atatürk Mah. Anaokullar Bölgesi, İçerenköy Nuri Cıngıllı Lise duvarı, Yenişehir Yunus Emre İlköğretim Okulu. Dijital içerik üretimi ise projenin önemli ayaklarından birini oluşturmuştur. Instagram üzerinden yapılan post, story, Reels ve canlı yayınlar ile HPV, aşı şemaları, erken tanı ve yanlış bilinen doğrular sade ve bilimsel bir dille aktarılmıştır.",
-            "Sevgili Yücel Kadıköy Belediyesi ve belediye bünyesinde 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile 24 Mart Yaşlılar Haftası’nda Alan Kadıköy’de seyirci ile buluşacak olan ‘’Bir Ömürlük Değişim’’ projesinin devam eden provalarını, program akışını bizlere aktardı."
+            "Kulübümüz tarafından hayata geçirilmesi planlanan sosyal sorumluluk projeleri toplantımızda detaylı şekilde paylaşıldı.",
+
+            "Dr. Nur Topcu, Anne ve Bebek Vakfı iş birliğiyle yürütülen “Geleceğin Işık Tutan Anneleri” projesini aktardı. Ayrıca “KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!” projesinin ilk 6 aylık faaliyetlerini kapsamlı bir sunumla değerlendirdi.",
+
+            "Projenin amacı doğrultusunda; medya, kurumsal ve toplumsal iş birlikleri kapsamında Maltepe Belediyesi, Ataşehir Belediyesi ve Kadıköy Belediyesi ile birlikte bilgilendirici toplantılar, salon etkinlikleri ve görsel sunumlar gerçekleştirildi.",
+
+            "Farkındalık çalışmaları kapsamında:",
+
+            "AVM’ler, oteller, kulüpler ve çeşitli sosyal alanlarda dijital ekranlar, billboardlar ve afiş uygulamaları hayata geçirildi. Bilgilendirici broşürler aracılığıyla yüz yüze iletişim sağlandı.",
+
+            "Billboard uygulamaları; Kemer Country Club, Büyük Kulüp, Ataşehir Golf Club, Barbaros Mahallesi Habire Yahşi Lisesi, Atatürk Mahallesi Anaokulları Bölgesi, İçerenköy Nuri Cıngıllı Lisesi ve Yenişehir Yunus Emre İlköğretim Okulu gibi farklı noktalarda konumlandırıldı.",
+
+            "Dijital içerik üretimi de projenin önemli bir ayağını oluşturdu. Instagram üzerinden yapılan paylaşımlar (post, story, Reels ve canlı yayınlar) aracılığıyla HPV, aşı şemaları, erken tanı ve doğru bilinen yanlışlar sade ve bilimsel bir dil ile geniş kitlelere ulaştırıldı.",
+
+            "Yücel Turan, Kadıköy Belediyesi ve belediye bünyesindeki 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile birlikte hazırlanan “Bir Ömürlük Değişim” projesinin devam eden provaları ve program akışı hakkında bilgi verdi. Proje, 24 Mart Yaşlılar Haftası kapsamında Alan Kadıköy’de seyirciyle buluşacak."
           ]
         }
       ],
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=pzbgvz-ogns"
+      },
       "sidebar": {
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
@@ -2894,7 +2852,7 @@
         "mapEmbedSrc":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.105303084742!2d29.011370594891062!3d41.066690797451216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab645fb9fd1a5%3A0x272558825cc8e0dd!2sZorlu%20Performans%20Sanatlar%C4%B1%20Merkezi!5e0!3m2!1str!2str!4v1777669964428!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/22-ocak/02.jpg",
-      "gallery": ["images/etkinlikler/22-ocak/02.jpg", "iimages/etkinlikler/22-ocak/03.jpg"],
+      "gallery": ["images/etkinlikler/22-ocak/02.jpg", "images/etkinlikler/22-ocak/03.jpg"],
 
       "content": [
         {
@@ -2938,14 +2896,20 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.0404415717153!2d29.036575377343063!3d40.98059527135445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab87c3a0961a7%3A0x20f4d1846aae9200!2zxLDFnyBCYW5rYXPEsSBLYWxhbcSxxZ8gTG9rYWxp!5e0!3m2!1str!2str!4v1777715166975!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/27-ocak/04.jpg",
-      "gallery": ["images/etkinlikler/27-ocak/04.jpg", "images/etkinlikler/27-ocak/02.jpg", "images/etkinlikler/27-ocak/03.jpg", "images/etkinlikler/27-ocak/01.jpg"],
+      "gallery": ["images/etkinlikler/27-ocak/04.jpg", "images/etkinlikler/27-ocak/02.jpg", "images/etkinlikler/27-ocak/03.jpg", "images/etkinlikler/27-ocak/01.jpg","images/etkinlikler/27-ocak/05.jpg", "images/etkinlikler/27-ocak/06.jpg","images/etkinlikler/27-ocak/07.jpg","images/etkinlikler/27-ocak/08.jpg"],
 
       "content": [
         {
           "heading": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
           "paragraphs": [
-            " 27.01.2026 tarihli kulübümüzün olağan toplantısını gerçekleştirdik. GDG. Özcan Albak'ı konuşmacı olarak ağırladık. Özcan Guvernörümüzün, 'My Rotary Kullanımının Dayanılmaz Hafifliği' konulu sunumunu dinledik. Kendisi bizlere MyRotary’nin önemini anlattı. Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında Sevgili Özlem, Sevgili Nazik ve Sevgili Ebru meslekleri ile ilgili anlatımları oldu."
+            " 27.01.2026 tarihli kulübümüzün olağan toplantısını gerçekleştirdik. GDG. Özcan Albak'ı konuşmacı olarak ağırladık. Özcan Guvernörümüzün, 'My Rotary Kullanımının Dayanılmaz Hafifliği' konulu sunumunu dinledik. Kendisi bizlere MyRotary’nin önemini anlattı.  Toplantımıza Türkiye Rotary E-Kulübü başkan yardımcısı Doç. Dr. Hamdi Özcan ile Bodrum KARIA Rotary Kulübünden İlknur Özer ve oğlu Mert Özer konuğumuz olarak katıldılar. "
           ]
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            " Sevgili Nur bize Anne ve Bebek Vakfı iş birliği ile ‘Geleceğin Işık Tutan Anneleri’ projesini aktardı. Aynı zamanda ‘KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!’ projesinin ilk  6 ay faaliyet özetini bizlere detaylı sunumu ile anlattı.  Sevgili Yücel Kadıköy Belediyesi ve belediye bünyesinde 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile 24 Mart Yaşlılar Haftası’nda Alan Kadıköy’de seyirci ile buluşacak olan ‘’Bir Ömürlük Değişim’’ projesinin devam eden provalarını, program akışını bizlere aktardı."]
+          
         }
       ],
       "sidebar": {
