@@ -1705,14 +1705,14 @@
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
-        "description": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
-        "keywords": ["İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi"]
+        "title": " İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+        "description": " İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
+        "keywords": [" İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi"]
       }
     },
     {
       "id": 39,
-      "title": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+      "title": "Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
       "slug": "istanbul-atlas-rotary-kulubu-navigasyonlu-bastonlar-gorme-engelli-vatandaslara-teslim-edildi",
       "status": "active",
       "date": {
@@ -1722,22 +1722,47 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, RotArt",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
         "address": "",
-        "mapEmbedSrc": ""
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25231.72653306496!2d38.255314500601074!3d37.76739970716449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15331388daa5b1ab%3A0xdb1596e4c5f547e!2zQWTEsXlhbWFuLCBBZMSxeWFtYW4gTWVya2V6L0FkxLF5YW1hbg!5e0!3m2!1str!2str!4v1777745816704!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
+      "heroImage": "images/etkinlikler/22-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/22-Subat/01.jpg", 
+                  "images/etkinlikler/22-Subat/02.jpg", 
+                  "images/etkinlikler/22-Subat/03.jpg",
+                  "images/etkinlikler/22-Subat/04.jpg",
+                  "images/etkinlikler/22-Subat/05.jpg",
+                  "images/etkinlikler/22-Subat/06.jpg",
+                  "images/etkinlikler/22-Subat/07.jpg",
+                  "images/etkinlikler/22-Subat/08.jpg",
+                  "images/etkinlikler/22-Subat/09.jpg",
+                  "images/etkinlikler/22-Subat/10.jpg",
+                  "images/etkinlikler/22-Subat/11.jpg",
+                  "images/etkinlikler/22-Subat/12.jpg",
+                  "images/etkinlikler/22-Subat/13.jpg",
+                  "images/etkinlikler/22-Subat/14.jpg",
+                  "images/etkinlikler/22-Subat/15.jpg",
+                  "images/etkinlikler/22-Subat/16.jpg",
+                  "images/etkinlikler/22-Subat/17.jpg",
+                  "images/etkinlikler/22-Subat/18.jpg",
+                  "images/etkinlikler/22-Subat/19.jpg",
+                  "images/etkinlikler/22-Subat/20.jpg",
+                  "images/etkinlikler/22-Subat/21.jpg",
+                  "images/etkinlikler/22-Subat/22.jpg",
+                  "images/etkinlikler/22-Subat/23.jpg"
+                ],
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
-          "paragraphs": ["RotArt Tiyatro Grubu Sanat Yönetmeni Özlem Abacı’nın yönettiği ‘’Sakın Geç Kalma Erken Gel’’ oyunuyla Adıyaman’da görme engelli vatandaşlarımıza navigasonlu baston armağan etmişlerdir."]
+          "heading": "Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+          "paragraphs": ["Başkanımız Saadet Garan’ın hayaliyle temelleri atılan RotArt Tiyatro Grubu öncülüğünde yürütülen proje kapsamında, görme engelli bireylerin günlük yaşamlarını kolaylaştırmak amacıyla temin edilen navigasyonlu bastonlar, Adıyaman’da ihtiyaç sahiplerine teslim edilmiştir.",
+                        "Fenerbahçe, Kozyatağı, Marmara ve Suadiye Rotary Kulüplerinden gönüllü rotaryenlerin destek verdiği bu anlamlı proje; dayanışma, sosyal sorumluluk ve toplumsal fayda odaklı güçlü bir iş birliği örneği olmuştur.", 
+                        
+                        "Gerçekleştirilen bu teslimat ile görme engelli bireylerin bağımsız hareket kabiliyetlerinin artırılması hedeflenirken, Rotary’nin “İyilik için birleşin” anlayışı sahada somut bir etkiye dönüşmüştür."]
         }
       ],
       "sidebar": {
@@ -1745,19 +1770,19 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "22 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "RotArt ve Rotary Etkinliği" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
-        "description": "İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi."]
+        "title": "Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+        "description": "Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
+        "keywords": ["Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi."]
       }
     },
     {
       "id": 40,
-      "title": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
-      "slug": "istanbul-atlas-rotary-kulubu-navigasyonlu-bastonlar-gorme-engelli-vatandaslara-teslim-edildi",
+      "title": "23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+      "slug": "23-subat-dunya-rotary-gunu-daveti-litera-beyoglu",
       "status": "active",
       "date": {
         "day": "23",
@@ -1766,23 +1791,31 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Lirtera Beyoğlu",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
         "address": "",
-        "mapEmbedSrc": ""
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.6742272834936!2d28.975322977344856!3d41.032382671347165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76039512f3d%3A0x37ef49716a1d54e2!2sLitera%20Restaurant%20%2F%20Lounge-Bar!5e0!3m2!1str!2str!4v1777746835822!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/23-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/23-Subat/01.jpg", 
+                  "images/etkinlikler/23-Subat/02.jpg", 
+                  "images/etkinlikler/23-Subat/03.jpg",
+                  "images/etkinlikler/23-Subat/04.jpg",
+                  "images/etkinlikler/23-Subat/05.jpg",
+                  "images/etkinlikler/23-Subat/06.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+          "heading": "23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
           "paragraphs": [
-            "23 Şubat 1905’te bir masa etrafında başlayan dostluk, bugün milyonlarca insanın hayatına dokunan küresel bir iyilik hareketine dönüşmüş durumda. Rotary International, 121 yıldır farklı mesleklerden ve kültürlerden insanları bir araya getirerek topluma değer üretmeye, kalıcı çözümler geliştirmeye ve daha iyi bir dünya için çalışmaya devam ediyor. Bu anlamlı günü, UR Bölge 2420 Dünya Rotary Günü Kokteyli ile birlikte, yüksek katılım ve güçlü bir birliktelik ruhu eşliğinde gerçekleştirdik. Rotary ruhunu, dostluğu ve dayanışmayı aynı masa etrafında paylaşma fırsatı bulduğumuz bu özel buluşmada; kültür ve lezzet deneyimiyle zenginleşen keyifli bir akşam yaşandı. 23 Şubat akşamı Litera Beyoğlu’nda düzenlenen KULÜBÜMÜZDEN HABERLER İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu 23.02.2026 etkinlikte, tümRotaryenler bir araya gelerek güçlü bir aidiyet ve ortak vizyon atmosferi oluşturmuştur. Kulübümüz 10 üyemiz ile katılım sağlamıştır."
+            "23 Şubat Dünya Rotary Günü kapsamında düzenlenen davetin ardından, kulüp üyelerimizin katılımıyla Litera Beyoğlu’nda keyifli bir ocakbaşı etkinliği gerçekleştirildi.",
+            "Rotary’nin 121. yılını kutladığımız bu özel günde, farklı kulüplerden rotaryenlerle bir araya gelinerek dostluk, dayanışma ve birlik ruhu pekiştirildi.", 
+            "Etkinlik süresince yapılan paylaşımlar ve çevrim içi bağlantılarla uluslararası Rotary topluluğunun bir parçası olmanın gururu bir kez daha hissedildi.",
+            "Samimi bir atmosferde gerçekleşen bu buluşma, hem anlamlı bir kutlama hem de kulüpler arası bağları güçlendiren değerli bir organizasyon oldu."
           ]
         }
       ],
@@ -1795,9 +1828,9 @@
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
-        "description": "İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
-        "keywords": ["İstanbul Atlas Rotary Kulübü 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu"]
+        "title": " 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+        "description": " 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
+        "keywords": [" 23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu"]
       }
     },
     {
