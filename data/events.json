@@ -694,13 +694,13 @@
     },
     {
       "id": 14,
-      "title": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+      "title": "Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)",
       "slug": "ortak-toplanti",
       "status": "active",
       "date": {
-        "day": "27",
-        "month": "Kasım",
-        "year": "2025",
+        "day": "04",
+        "month": "Şubat",
+        "year": "2026",
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
@@ -713,15 +713,14 @@
         "address": "Ataşehir",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/ortak-toplanti.jpg",
-      "gallery": ["images/etkinlikler/ortak-toplanti.jpg", "images/etkinlikler/ortak-toplanti-2.jpg", "images/etkinlikler/ortak-toplanti-3.jpg", "images/etkinlikler/ortak-toplanti-4.jpg"],
+      "heroImage": "images/etkinlikler/04-Subat/02.jpg",
+      "gallery": ["images/etkinlikler/04-Subat/02.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
+          "heading": "Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)",
           "paragraphs": [
-            "Acıbadem Rotary Kulübü, Tarım Rotary Kulübü ve Atlas Rotary Kulüp’leri ortak toplantısı.",
-            "Bölge 2420 Vakıf Komitesi Başkanı GDG Gülperi Gürpınar’ın Rotary Vakıf’ı sunumunu izledik. Toplantıya kulübümüzden Başkan Saadet Garan, Vakıf Komitesi Başkanı Erkan Çiftçi ve üyemiz Belgin Aydın katılım sağlamıştır."
+            " Türkiye Rotary E- Kulübü Rotary ortak toplantımızda konuşmacı GDG. Mehmet Sabri Görkey idi.", "Bizlere ’Kulüp Hizmet Projeleri Yapımı ve Fon Yaratma’ konulu sunumu sundu."
           ]
         },
 
@@ -734,14 +733,14 @@
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "27 Kasım 2025" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Tarih", "value": "04 Şubat 2026" },
+          { "label": "Kategori", "value": "Online Meeting" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
-        "description": "İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Ortak Toplantı Rotary Vakfı Toplantısı Ataşehir"]
+        "title": "Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)",
+        "description": "Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)",
+        "keywords": ["Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)"]
       }
     },
     {
@@ -920,7 +919,19 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.1900689507934!2d28.9871121!3d41.0648378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab0255e59f621%3A0x6f7f295a840575c6!2sRotary%202420.B%C3%B6lge%20Federasyonu!5e0!3m2!1str!2str!4v1777630041853!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
       "heroImage": "images/etkinlikler/06-Aralik/11.jpg",
-      "gallery": ["images/etkinlikler/06-Aralik/01.jpg", "images/etkinlikler/06-Aralik/02.jpg", "images/etkinlikler/06-Aralik/03.jpg", "images/etkinlikler/06-Aralik/04.jpg", "images/etkinlikler/06-Aralik/05.jpg", "images/etkinlikler/06-Aralik/06.jpg", "images/etkinlikler/06-Aralik/07.jpg", "images/etkinlikler/06-Aralik/08.jpg", "images/etkinlikler/06-Aralik/09.jpg", "images/etkinlikler/06-Aralik/10.jpg", "images/etkinlikler/06-Aralik/11.jpg"],
+      "gallery": [
+        "images/etkinlikler/06-Aralik/01.jpg",
+        "images/etkinlikler/06-Aralik/02.jpg",
+        "images/etkinlikler/06-Aralik/03.jpg",
+        "images/etkinlikler/06-Aralik/04.jpg",
+        "images/etkinlikler/06-Aralik/05.jpg",
+        "images/etkinlikler/06-Aralik/06.jpg",
+        "images/etkinlikler/06-Aralik/07.jpg",
+        "images/etkinlikler/06-Aralik/08.jpg",
+        "images/etkinlikler/06-Aralik/09.jpg",
+        "images/etkinlikler/06-Aralik/10.jpg",
+        "images/etkinlikler/06-Aralik/11.jpg"
+      ],
 
       "content": [
         {
@@ -1198,7 +1209,7 @@
         "keywords": ["Atlas Rotary Kulübü Dönemin Yarıyıl Değerlendirilmesi"]
       }
     },
-    
+
     {
       "id": 25,
       "title": "Yeni Kulüp Görevlileri Çalıştayı ",
@@ -1250,7 +1261,7 @@
         "keywords": ["Yeni Kulüp Görevlileri Çalıştayı"]
       }
     },
-    
+
     {
       "id": 27,
       "title": "İstanbul Atlas Rotary Kulübü Yönetim Kurulu Toplantısı - Büyük Kulüp",
@@ -1300,7 +1311,7 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü Yönetim Kurulu Toplantısı - Büyük Kulüp"]
       }
     },
-    
+
     {
       "id": 29,
       "title": "İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! ",
@@ -1323,40 +1334,42 @@
         "mapEmbedSrc": ""
       },
       "heroImage": "images/etkinlikler/27-ocak-hpv/01.jpeg",
-      "gallery": ["images/etkinlikler/27-ocak-hpv/01.jpeg",
-       "images/etkinlikler/27-ocak-hpv/02.jpeg",
+      "gallery": [
+        "images/etkinlikler/27-ocak-hpv/01.jpeg",
+        "images/etkinlikler/27-ocak-hpv/02.jpeg",
         "images/etkinlikler/27-ocak-hpv/03.jpeg",
-         "images/etkinlikler/27-ocak-hpv/04.jpeg",
-          "images/etkinlikler/27-ocak-hpv/05.jpeg",
-           "images/etkinlikler/27-ocak-hpv/06.jpeg",
-            "images/etkinlikler/27-ocak-hpv/07.jpeg",
-             "images/etkinlikler/27-ocak-hpv/08.jpeg",
-              "images/etkinlikler/27-ocak-hpv/09.jpeg",
-               "images/etkinlikler/27-ocak-hpv/10.jpeg",
-                "images/etkinlikler/27-ocak-hpv/11.jpeg",
-                 "images/etkinlikler/27-ocak-hpv/12.jpeg",
-                  "images/etkinlikler/27-ocak-hpv/13.jpeg",
-                   "images/etkinlikler/27-ocak-hpv/14.jpeg",
-                    "images/etkinlikler/27-ocak-hpv/15.jpeg",
-                     "images/etkinlikler/27-ocak-hpv/16.jpeg",
-                      "images/etkinlikler/27-ocak-hpv/17.jpeg",
-                       "images/etkinlikler/27-ocak-hpv/18.jpeg",
-                        "images/etkinlikler/27-ocak-hpv/19.jpeg",
-                         "images/etkinlikler/27-ocak-hpv/20.jpeg",
-                          "images/etkinlikler/27-ocak-hpv/21.jpeg",
-                           "images/etkinlikler/27-ocak-hpv/22.jpeg",
-                            "images/etkinlikler/27-ocak-hpv/23.jpeg",
-                             "images/etkinlikler/27-ocak-hpv/24.jpeg",
-                              "images/etkinlikler/27-ocak-hpv/25.jpeg",
-                               "images/etkinlikler/27-ocak-hpv/26.jpeg",
-                                "images/etkinlikler/27-ocak-hpv/27.jpeg",
-                                 "images/etkinlikler/27-ocak-hpv/28.jpeg",
-                                  "images/etkinlikler/27-ocak-hpv/29.jpeg",
-                                   "images/etkinlikler/27-ocak-hpv/30.jpeg",
-                                    "images/etkinlikler/27-ocak-hpv/31.jpeg",
-                                     "images/etkinlikler/27-ocak-hpv/32.jpeg",
-                                      "images/etkinlikler/27-ocak-hpv/33.jpeg",
-                                       "images/etkinlikler/27-ocak-hpv/34.jpeg"], 
+        "images/etkinlikler/27-ocak-hpv/04.jpeg",
+        "images/etkinlikler/27-ocak-hpv/05.jpeg",
+        "images/etkinlikler/27-ocak-hpv/06.jpeg",
+        "images/etkinlikler/27-ocak-hpv/07.jpeg",
+        "images/etkinlikler/27-ocak-hpv/08.jpeg",
+        "images/etkinlikler/27-ocak-hpv/09.jpeg",
+        "images/etkinlikler/27-ocak-hpv/10.jpeg",
+        "images/etkinlikler/27-ocak-hpv/11.jpeg",
+        "images/etkinlikler/27-ocak-hpv/12.jpeg",
+        "images/etkinlikler/27-ocak-hpv/13.jpeg",
+        "images/etkinlikler/27-ocak-hpv/14.jpeg",
+        "images/etkinlikler/27-ocak-hpv/15.jpeg",
+        "images/etkinlikler/27-ocak-hpv/16.jpeg",
+        "images/etkinlikler/27-ocak-hpv/17.jpeg",
+        "images/etkinlikler/27-ocak-hpv/18.jpeg",
+        "images/etkinlikler/27-ocak-hpv/19.jpeg",
+        "images/etkinlikler/27-ocak-hpv/20.jpeg",
+        "images/etkinlikler/27-ocak-hpv/21.jpeg",
+        "images/etkinlikler/27-ocak-hpv/22.jpeg",
+        "images/etkinlikler/27-ocak-hpv/23.jpeg",
+        "images/etkinlikler/27-ocak-hpv/24.jpeg",
+        "images/etkinlikler/27-ocak-hpv/25.jpeg",
+        "images/etkinlikler/27-ocak-hpv/26.jpeg",
+        "images/etkinlikler/27-ocak-hpv/27.jpeg",
+        "images/etkinlikler/27-ocak-hpv/28.jpeg",
+        "images/etkinlikler/27-ocak-hpv/29.jpeg",
+        "images/etkinlikler/27-ocak-hpv/30.jpeg",
+        "images/etkinlikler/27-ocak-hpv/31.jpeg",
+        "images/etkinlikler/27-ocak-hpv/32.jpeg",
+        "images/etkinlikler/27-ocak-hpv/33.jpeg",
+        "images/etkinlikler/27-ocak-hpv/34.jpeg"
+      ],
 
       "content": [
         {
@@ -1398,7 +1411,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "27 Ocak 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "proje, Seminer" }
         ]
       },
       "seo": {
@@ -1407,138 +1420,7 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri"]
       }
     },
-    {
-      "id": 30,
-      "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-      "slug": "ocakbasi-toplanti",
-      "status": "active",
-      "date": {
-        "day": "01",
-        "month": "Şubat",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-          "paragraphs": [" 01.02.2026 tarihinde kulübümüz üyeleri toplanarak eğlenceli bir gece geçirmiştir. Bu tarz toplantılar kulübün kaynaşması amacıyla yapılmaktadır."]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "01 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "description": "İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Ocakbaşı Toplantısı"]
-      }
-    },
-    {
-      "id": 31,
-      "title": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
-      "slug": "genç-üye-adaylarımız-ile-fikir-toplantısı-kadıköy",
-      "status": "active",
-      "date": {
-        "day": "04",
-        "month": "Şubat",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
-          "paragraphs": [" Sevgili Yücel’in katılımıyla gençlerimizin fikirlerinden yararlanıyoruz."]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "04 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
-        "description": "İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Genç Üye Adaylarımız İle Fikir Toplantısı- Kadıköy"]
-      }
-    },
-    {
-      "id": 32,
-      "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-      "slug": "rotary-ortak-toplantısı-çevrimici-zoom",
-      "status": "active",
-      "date": {
-        "day": "04",
-        "month": "Şubat",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-          "paragraphs": [" 04.02.2026 tarihli Türkiye Rotary E- Kulübü Rotary ortak toplantımızda konuşmacı GDG.Mehmet Sabri Görkey idi. Bizlere ‘’Kulüp Hizmet Projeleri Yapımı ve Fon Yaratma’’ konulu sunumu sundu"]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "04 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-        "description": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
-      }
-    },
+    
     {
       "id": 33,
       "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
@@ -2513,7 +2395,7 @@
         "address": "",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.547735478557!2d100.53922897691368!3d13.74580938664552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ec54c5b9045%3A0x40ac612eb0ee02d8!2sRotary%20Club%20of%20Bangkok%20Foundation!5e0!3m2!1str!2str!4v1777622567880!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-    
+
       "heroImage": "images/etkinlikler/14-ocak/01.jpg",
       "gallery": ["images/etkinlikler/14-ocak/01.jpg", "images/etkinlikler/14-ocak/02.jpg"],
 
@@ -2542,7 +2424,7 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand"]
       }
     },
-    
+
     {
       "id": 56,
       "title": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
@@ -2613,14 +2495,30 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.105543763689!2d29.02080987734305!3d40.97916967135458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab88b20d190d1%3A0x7b32841b661dc25f!2sModa%20Deniz%20Kul%C3%BCb%C3%BC%201935!5e0!3m2!1str!2str!4v1777625663600!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
       "heroImage": "images/etkinlikler/22-aralik/01.jpg",
-      "gallery": ["images/etkinlikler/22-aralik/01.jpg", "images/etkinlikler/22-aralik/02.jpg", "images/etkinlikler/22-aralik/03.jpg", "images/etkinlikler/22-aralik/04.jpg", "images/etkinlikler/22-aralik/05.jpg", "images/etkinlikler/22-aralik/06.jpg", "images/etkinlikler/22-aralik/07.jpg", "images/etkinlikler/22-aralik/08.jpg", "images/etkinlikler/22-aralik/09.jpg", "images/etkinlikler/22-aralik/10.jpg", "images/etkinlikler/22-aralik/11.jpg", "images/etkinlikler/22-aralik/12.jpg", "images/etkinlikler/22-aralik/13.jpg", "images/etkinlikler/22-aralik/14.jpg", "images/etkinlikler/22-aralik/15.jpg", "images/etkinlikler/22-aralik/16.jpg", "images/etkinlikler/22-aralik/17.jpg"],
+      "gallery": [
+        "images/etkinlikler/22-aralik/01.jpg",
+        "images/etkinlikler/22-aralik/02.jpg",
+        "images/etkinlikler/22-aralik/03.jpg",
+        "images/etkinlikler/22-aralik/04.jpg",
+        "images/etkinlikler/22-aralik/05.jpg",
+        "images/etkinlikler/22-aralik/06.jpg",
+        "images/etkinlikler/22-aralik/07.jpg",
+        "images/etkinlikler/22-aralik/08.jpg",
+        "images/etkinlikler/22-aralik/09.jpg",
+        "images/etkinlikler/22-aralik/10.jpg",
+        "images/etkinlikler/22-aralik/11.jpg",
+        "images/etkinlikler/22-aralik/12.jpg",
+        "images/etkinlikler/22-aralik/13.jpg",
+        "images/etkinlikler/22-aralik/14.jpg",
+        "images/etkinlikler/22-aralik/15.jpg",
+        "images/etkinlikler/22-aralik/16.jpg",
+        "images/etkinlikler/22-aralik/17.jpg"
+      ],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Moda Deniz Kulübü",
-          "paragraphs": [
-            " Aralık Ayı’nın 22.12.2025 tarihinde Guvarnör Yardımcımız Serhad Bil’in katılımlarıyla yaptığımız Üye Kabul Törenimiz, Kuruluş Gecesi kutlamamız kulübümüz adına yeni yıla yüksek motivasyonla girmemizi sağladı."
-          ]
+          "paragraphs": [" Aralık Ayı’nın 22.12.2025 tarihinde Guvarnör Yardımcımız Serhad Bil’in katılımlarıyla yaptığımız Üye Kabul Törenimiz, Kuruluş Gecesi kutlamamız kulübümüz adına yeni yıla yüksek motivasyonla girmemizi sağladı."]
         }
       ],
       "sidebar": {
@@ -2710,9 +2608,7 @@
       "content": [
         {
           "heading": "Yönetim Kurulu Toplantısı, Ocakbaşı Etkinliği (Büyük Kulüp)",
-          "paragraphs": [
-            "   2025 yılının son toplantısını Büyük Kulüp’te iki yeni üye adayımızı davet ederek gerçekleştirdik. Verimli bir toplantı oldu. Konuklarımıza Rotary’i anlattık. Onlar da aramızda olmaktan memnun olduklarını ifade ettiler. İyi yıllar dilekleri ile toplantımızı tamamladık."
-          ]
+          "paragraphs": ["   2025 yılının son toplantısını Büyük Kulüp’te iki yeni üye adayımızı davet ederek gerçekleştirdik. Verimli bir toplantı oldu. Konuklarımıza Rotary’i anlattık. Onlar da aramızda olmaktan memnun olduklarını ifade ettiler. İyi yıllar dilekleri ile toplantımızı tamamladık."]
         }
       ],
       "sidebar": {
@@ -2756,7 +2652,9 @@
       "content": [
         {
           "heading": "Konuk Konuşmacılı Olağan Toplantı ve Yönetim Kurulu Toplantısı",
-          "paragraphs": [" Toplantımız Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında  gerçekleşti. İki üyemiz sunumları ve performansları ile bize keyifli bir toplantı akşamı yaşattılar.  Sevgili Ebru ve Sevgili Nazik kendilerini ve mesleklerini tanıtan bilgilendirmenin yanı sıra meslekleri ile ilgili harika performansları ile harikaydılar. Ayrıca toplantımızda değerli  bir konuğumuz vardı. Bölge 2420 Kurumsal İletişim Ana Komite Başkanımız Tolga Cihan Artan bizlere Rotary Yaşam Programını derinlemesine anlattı. Çok verimli olan bu sunumu ilgiyle dinledik. Kendilerine çok teşekkür ederiz."]
+          "paragraphs": [
+            " Toplantımız Rotary’nin Ocak Ayı Teması olan “Meslek Hizmetleri Ayı” kapsamında  gerçekleşti. İki üyemiz sunumları ve performansları ile bize keyifli bir toplantı akşamı yaşattılar.  Sevgili Ebru ve Sevgili Nazik kendilerini ve mesleklerini tanıtan bilgilendirmenin yanı sıra meslekleri ile ilgili harika performansları ile harikaydılar. Ayrıca toplantımızda değerli  bir konuğumuz vardı. Bölge 2420 Kurumsal İletişim Ana Komite Başkanımız Tolga Cihan Artan bizlere Rotary Yaşam Programını derinlemesine anlattı. Çok verimli olan bu sunumu ilgiyle dinledik. Kendilerine çok teşekkür ederiz."
+          ]
         }
       ],
       "sidebar": {
@@ -2800,9 +2698,7 @@
       "content": [
         {
           "heading": "Ocakbaşı Etkinliği",
-          "paragraphs": [
-            "  Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır."
-          ]
+          "paragraphs": ["  Kulübümüz üyelerimizin kaynaşması amacıyla düzenlenen eğlenceli buluşmaya kulüp üyelerimizden Sevgili, Nur Topçu, Sevgili Belgin Aydın ve Sevgili Belgin Büyük ev sahipliği yapmışlardır."]
         }
       ],
       "sidebar": {
@@ -2882,7 +2778,7 @@
       },
       "location": {
         "address": "Zorlu PSM Turkcell Sahnesi",
-        "mapEmbedSrc":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.105303084742!2d29.011370594891062!3d41.066690797451216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab645fb9fd1a5%3A0x272558825cc8e0dd!2sZorlu%20Performans%20Sanatlar%C4%B1%20Merkezi!5e0!3m2!1str!2str!4v1777669964428!5m2!1str!2str"
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.105303084742!2d29.011370594891062!3d41.066690797451216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab645fb9fd1a5%3A0x272558825cc8e0dd!2sZorlu%20Performans%20Sanatlar%C4%B1%20Merkezi!5e0!3m2!1str!2str!4v1777669964428!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/22-ocak/02.jpg",
       "gallery": ["images/etkinlikler/22-ocak/02.jpg", "images/etkinlikler/22-ocak/03.jpg"],
@@ -2890,7 +2786,9 @@
       "content": [
         {
           "heading": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
-          "paragraphs": [" Başrollerinde Selçuk Yöntem, Zuhal Olcay ve Cengiz Bozkurt’un olduğu Don Quixote (Don Kişot) Müzikali’ne katılım sağladık. Don Quixote (Don Kişot) Müzikali, Zorlu PSM Turkcell Sahnesi’nde gerçekleşti. Müzikal, Miguel de Cervantes'in ünlü romanı 'Don Quixote'un sahne uyarlaması olarak izleyicilere unutulmaz bir deneyim sundu. Selçuk Yöntem'in Don Quixote rolündeki performansı, Zuhal Olcay'ın Dulcinea karakterindeki etkileyici oyunculuğu ve Cengiz Bozkurt'un Sancho Panza rolündeki komik dokunuşlarıyla müzikal, izleyicilerden büyük beğeni topladı. Sahne tasarımı ve kostümler de eserin atmosferini başarıyla yansıtarak seyircilere görsel bir şölen sundu."]
+          "paragraphs": [
+            " Başrollerinde Selçuk Yöntem, Zuhal Olcay ve Cengiz Bozkurt’un olduğu Don Quixote (Don Kişot) Müzikali’ne katılım sağladık. Don Quixote (Don Kişot) Müzikali, Zorlu PSM Turkcell Sahnesi’nde gerçekleşti. Müzikal, Miguel de Cervantes'in ünlü romanı 'Don Quixote'un sahne uyarlaması olarak izleyicilere unutulmaz bir deneyim sundu. Selçuk Yöntem'in Don Quixote rolündeki performansı, Zuhal Olcay'ın Dulcinea karakterindeki etkileyici oyunculuğu ve Cengiz Bozkurt'un Sancho Panza rolündeki komik dokunuşlarıyla müzikal, izleyicilerden büyük beğeni topladı. Sahne tasarımı ve kostümler de eserin atmosferini başarıyla yansıtarak seyircilere görsel bir şölen sundu."
+          ]
         }
       ],
       "sidebar": {
@@ -2905,6 +2803,52 @@
         "title": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
         "description": "Don Quixote (Don Kişot) Müzikali – Zorlu PSM Turkcell Sahnesi’nde",
         "keywords": ["Don Quixote (Don Kişot) Müzikali", "Zorlu PSM Turkcell Sahnesi"]
+      }
+    },
+    {
+      "id": 64,
+      "title": "Ocakbaşı Etkinliği",
+      "slug": "ocakbasi-etkinligi",
+      "status": "active",
+      "date": {
+        "day": "01",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:30 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Ocakbaşı Etkinliği",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Retoran Ocakbaşı",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/01-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/01-Subat/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Ocakbaşı Etkinliği",
+          "paragraphs": [
+            "Atlas Rotary Kulübü Başkanı Saadet Garan, Dr. Nur Topcu, Özlem Abacı, Mehmet Abacı, Belgin Aydın, Vildan Elmacıoğlu, Ebru Demirhan, Yücel Turan ve Belgin Büyük’ün katılımıyla gerçekleşen ocakbaşı etkinliğimizde, keyifli sohbetler eşliğinde bir araya gelindi. Samimi bir ortamda gerçekleşen buluşmada kulüp üyeleri arasındaki bağlar güçlenirken, birlik ve dayanışma duygusu pekiştirildi."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "01 Şubat 2026" },
+          { "label": "Kategori", "value": "Etkinlik" }
+        ]
+      },
+      "seo": {
+        "title": "Ocakbaşı Etkinliği – İstanbul Atlas Rotary Kulübü",
+        "description": "Ocakbaşı Etkinliği – İstanbul Atlas Rotary Kulübü",
+        "keywords": ["Ocakbaşı Etkinliği", "İstanbul Atlas Rotary Kulübü"]
       }
     },
     {
@@ -2929,7 +2873,16 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.0404415717153!2d29.036575377343063!3d40.98059527135445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab87c3a0961a7%3A0x20f4d1846aae9200!2zxLDFnyBCYW5rYXPEsSBLYWxhbcSxxZ8gTG9rYWxp!5e0!3m2!1str!2str!4v1777715166975!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/27-ocak/04.jpg",
-      "gallery": ["images/etkinlikler/27-ocak/04.jpg", "images/etkinlikler/27-ocak/02.jpg", "images/etkinlikler/27-ocak/03.jpg", "images/etkinlikler/27-ocak/01.jpg","images/etkinlikler/27-ocak/05.jpg", "images/etkinlikler/27-ocak/06.jpg","images/etkinlikler/27-ocak/07.jpg","images/etkinlikler/27-ocak/08.jpg"],
+      "gallery": [
+        "images/etkinlikler/27-ocak/04.jpg",
+        "images/etkinlikler/27-ocak/02.jpg",
+        "images/etkinlikler/27-ocak/03.jpg",
+        "images/etkinlikler/27-ocak/01.jpg",
+        "images/etkinlikler/27-ocak/05.jpg",
+        "images/etkinlikler/27-ocak/06.jpg",
+        "images/etkinlikler/27-ocak/07.jpg",
+        "images/etkinlikler/27-ocak/08.jpg"
+      ],
 
       "content": [
         {
@@ -2941,8 +2894,8 @@
         {
           "heading": "",
           "paragraphs": [
-            " Sevgili Nur bize Anne ve Bebek Vakfı iş birliği ile ‘Geleceğin Işık Tutan Anneleri’ projesini aktardı. Aynı zamanda ‘KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!’ projesinin ilk  6 ay faaliyet özetini bizlere detaylı sunumu ile anlattı.  Sevgili Yücel Kadıköy Belediyesi ve belediye bünyesinde 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile 24 Mart Yaşlılar Haftası’nda Alan Kadıköy’de seyirci ile buluşacak olan ‘’Bir Ömürlük Değişim’’ projesinin devam eden provalarını, program akışını bizlere aktardı."]
-          
+            " Sevgili Nur bize Anne ve Bebek Vakfı iş birliği ile ‘Geleceğin Işık Tutan Anneleri’ projesini aktardı. Aynı zamanda ‘KANSER OLMA, AŞI OL! HPV’ye Dur De, Kanseri Önle!’ projesinin ilk  6 ay faaliyet özetini bizlere detaylı sunumu ile anlattı.  Sevgili Yücel Kadıköy Belediyesi ve belediye bünyesinde 19 Mayıs Sosyal Yaşam Merkezi üyeleri ile 24 Mart Yaşlılar Haftası’nda Alan Kadıköy’de seyirci ile buluşacak olan ‘’Bir Ömürlük Değişim’’ projesinin devam eden provalarını, program akışını bizlere aktardı."
+          ]
         }
       ],
       "sidebar": {
@@ -2957,6 +2910,58 @@
         "title": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
         "description": "Konuk Konuşmacılı Olağan Toplantı (İş Bankası Kalamış Lokali)",
         "keywords": ["Konuk Konuşmacılı Olağan Toplantı", "İş Bankası Kalamış Lokali"]
+      }
+    },
+    {
+      "id": 65,
+      "title": "Genç Üye Adaylarımız İle Fikir Toplantısı ",
+      "slug": "genc-uye-adaylarimiz-ile-fikir-toplantisi",
+      "status": "active",
+      "date": {
+        "day": "04",
+        "month": "Şubat",
+        "year": "2026",
+        "time": "19:30 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Genç Üye Adaylarımız İle Fikir Toplantısı ",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Retoran Ocakbaşı",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/04-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/04-Subat/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Genç Üye Adaylarımız İle Fikir Toplantısı ",
+          "paragraphs": [
+            "Üyemiz Yücel Turan’ın gençlerle bir araya geldiği bu buluşmada, kulübümüzün çalışmaları, değerleri ve geleceğe yönelik hedefleri üzerine keyifli bir fikir alışverişi gerçekleştirildi.",
+
+            "Samimi bir ortamda gerçekleşen toplantıda, gençlerin bakış açıları dinlenerek birlikte üretilebilecek projeler üzerine değerlendirmelerde bulunuldu.",
+
+            "Bu tür etkinlikler, kulübümüzün genç üyelerle daha güçlü bağlar kurmasına ve onların enerjisiyle yeni projeler geliştirmesine olanak tanımaktadır.",
+
+            "Gençlerin katılımıyla gerçekleşen bu toplantı, kulübümüzün gelecekteki çalışmalarına yön verecek önemli bir adım olarak değerlendirildi."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "04 Şubat 2026" },
+          { "label": "Kategori", "value": "Etkinlik" }
+        ]
+      },
+      "seo": {
+        "title": "Genç Üye Adaylarımız İle Fikir Toplantısı  – İstanbul Atlas Rotary Kulübü",
+        "description": "Genç Üye Adaylarımız İle Fikir Toplantısı  – İstanbul Atlas Rotary Kulübü",
+        "keywords": ["Genç Üye Adaylarımız İle Fikir Toplantısı ", "İstanbul Atlas Rotary Kulübü"]
       }
     }
   ]
