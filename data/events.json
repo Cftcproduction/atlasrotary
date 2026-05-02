@@ -1423,7 +1423,7 @@
     
     {
       "id": 33,
-      "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
+      "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
       "slug": "ryla-egitimi-keystone-international-schools",
       "status": "active",
       "date": {
@@ -1439,16 +1439,20 @@
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Keystone International Schools",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88236.74325344947!2d29.17858723008684!3d41.01145351274316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac3ff8c4eb4ad%3A0x3450588f66ef5e7f!2sKeystone%20International%20Schools!5e0!3m2!1str!2str!4v1777732805587!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/05-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/05-Subat/01.jpg", 
+                  "images/etkinlikler/05-Subat/02.jpg", 
+                  "images/etkinlikler/05-Subat/03.jpg",
+                  "images/etkinlikler/05-Subat/04.jpg",
+                  "images/etkinlikler/05-Subat/05.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
-          "paragraphs": [" 05.02.2026 tarihinde ‘’Keystone International Schools’’ da gerçekleşen RYLA eğitimimize başkanımız Saadet Garan eğitimci olarak katılmıştır. RYLA eğitimimiz lise öğrencilerine verilmiştir. 33 öğrenci ile eğitim tamamlanmıştır."]
+          "heading": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
+          "paragraphs": [" 05.02.2026 tarihinde Keystone International Schools’da düzenlenen RYLA eğitim programı, Kulüp Başkanımız Saadet Garan ve RYLA Eğitmeni Can Gedik’in katkılarıyla başarıyla gerçekleştirilmiştir.", "Lise öğrencilerine yönelik düzenlenen eğitimde; liderlik, iletişim ve kişisel farkındalık konularında kapsamlı içerikler sunulmuş, toplam 33 öğrenci programı başarıyla tamamlamıştır.", "Eğitim sürecinde, öğrencilerin aktif katılımını teşvik eden interaktif oturumlar ve grup çalışmaları düzenlenmiş, böylece katılımcıların liderlik becerilerini geliştirmeleri sağlanmıştır.", "RYLA programı, gençlerin potansiyellerini keşfetmelerine ve toplumlarına daha etkili bir şekilde katkıda bulunmalarına olanak tanımıştır.", "Eğitim sonunda, katılımcılara sertifikaları takdim edilmiş ve programın başarıyla tamamlanması kutlanmıştır. Bu etkinlik, İstanbul Atlas Rotary Kulübü’nün gençlerin gelişimine verdiği önemi bir kez daha göstermiştir. "]
         }
       ],
       "sidebar": {
@@ -1456,13 +1460,13 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "05 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Liderlik Eğitimi" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
-        "description": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools",
-        "keywords": ["İstanbul Atlas Rotary Kulübü RYLA Eğitimi- Keystone International Schools"]
+        "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
+        "description": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
+        "keywords": ["İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools"]
       }
     },
     {
@@ -1486,13 +1490,16 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/08-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/08-Subat/01.jpg", 
+                  "images/etkinlikler/08-Subat/02.jpg"
+                  ],
 
       "content": [
         {
           "heading": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
-          "paragraphs": [" 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır."]
+          "paragraphs": [" 08.02.2026 tarihinde, Bölge 2420 koordinasyonunda Suadiye Rotary Kulübü ev sahipliğinde gerçekleştirilen Başkanlar, Sekreterler ve Saymanlar Öğrenim Semineri’ne kulübümüzü temsilen gelecek dönem sekreterimiz Nur Topcu ve saymanımız Leyla Terzi katılmıştır.", 
+          "Seminer süresince, yeni dönem sorumluluklarına yönelik kapsamlı eğitimler alınmış; kulüp yönetimi, stratejik planlama ve Rotary değerleri doğrultusunda önemli bilgi ve deneyim paylaşımları gerçekleştirilmiştir."]
         }
       ],
       "sidebar": {
@@ -1530,13 +1537,14 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/11-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/11-Subat/01.jpg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
-          "paragraphs": ["Diğer sivil toplum örgütleriyle dostluk ilişkileri: Başkanımız Saadet Garan, ‘’Lions T Yönetim Çevresi’’ nin konuk onuşmacısı olarak ‘’Atatürk’ün Eğitime ve Kadına Bakış Açısı’’ üzerine sunum yapmıştır."]
+          "paragraphs": ["Şişli’de gerçekleştirilen ortak toplantıda, farklı sivil toplum kuruluşlarıyla kurulan dostluk ve iş birliği bağları güçlendirildi.", "Başkanımız Saadet Garan, Lions Yönetim Çevresi’nin davetlisi olarak katıldığı programda, “Atatürk’ün Eğitime ve Kadına Bakış Açısı” başlıklı sunumunu gerçekleştirdi.",
+          "Sunumda, Atatürk’ün eğitim vizyonu ve kadının toplumsal hayattaki yeri üzerine önemli vurgular yapılırken, katılımcılarla değerli bir fikir paylaşımı ortamı oluştu.", "Bu anlamlı buluşma, kurumlar arası iletişimin ve ortak değerler etrafında bir araya gelmenin güçlü bir örneği oldu."]
         }
       ],
       "sidebar": {
@@ -1544,7 +1552,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "11 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Meeting, Davet" }
         ]
       },
       "seo": {
@@ -1574,15 +1582,26 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/15-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/15-Subat/01.jpg", 
+                  "images/etkinlikler/15-Subat/02.jpg", 
+                  "images/etkinlikler/15-Subat/03.jpg",
+                  "images/etkinlikler/15-Subat/04.jpg",
+                  "images/etkinlikler/15-Subat/05.jpg",
+                  "images/etkinlikler/15-Subat/06.jpg",
+                  "images/etkinlikler/15-Subat/07.jpg",
+                  "images/etkinlikler/15-Subat/08.jpg",
+                  "images/etkinlikler/15-Subat/09.jpg",
+                  "images/etkinlikler/15-Subat/10.jpg",
+                  "images/etkinlikler/15-Subat/11.jpg",
+                  "images/etkinlikler/15-Subat/12.jpg",
+                  "images/etkinlikler/15-Subat/13.jpg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
           "paragraphs": [
-            "24.03.2026 tarihinde gerçekleştirmeyi planladığımız ‘’Bir Ömürlük Dönüşüm’’ projemizin kostüm üretim provaları Sevgili Yücel ve Kreta Kadınları ile devam etmektedir.",
-            "Diğer kurumlarla iş birliği: Sevgili Esra’nın fikri ile gelişen Central Hospital ile iş birliği bağlamında görüşmelerimiz devam etmektedir."
+            "Yücel Turan ve Kreta Kadınları ile birlikte hayata geçirilen “Bir Ömürlük Değişim” projesi kapsamında, kostüm üretimine yönelik prova çalışmaları yoğun bir şekilde sürdürülmektedir.", "Projenin sahne hazırlık sürecine katkı sağlayan bu çalışmalar, ekip ruhunu ve üretim sürecinin yaratıcılığını yansıtmaktadır.", "Prova sürecinde, kostüm tasarımlarının detayları üzerinde titizlikle çalışılmakta, her bir parçanın sahne performansına uyumlu ve estetik açıdan etkileyici olması hedeflenmektedir.", "Bu yoğun prova süreci, projenin sahneye yansıyan görsel zenginliğini ve izleyicilere sunacağı etkileyici deneyimi güçlendirmektedir." 
           ]
         }
       ],
@@ -2443,19 +2462,45 @@
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "İş Bankası Kalamış Lokali",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.040441571722!2d29.036575377343063!3d40.98059527135445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab87c3a0961a7%3A0x20f4d1846aae9200!2zxLDFnyBCYW5rYXPEsSBLYWxhbcSxxZ8gTG9rYWxp!5e0!3m2!1str!2str!4v1777737520830!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/10-Subat/01.jpeg",
+      "gallery": ["images/etkinlikler/10-Subat/01.jpeg", 
+                  "images/etkinlikler/10-Subat/01a.jpeg", 
+                  "images/etkinlikler/10-Subat/02.jpeg",
+                  "images/etkinlikler/10-Subat/03.jpeg",
+                  "images/etkinlikler/10-Subat/04.jpeg",
+                  "images/etkinlikler/10-Subat/05.jpeg",
+                  "images/etkinlikler/10-Subat/06.jpeg",
+                  "images/etkinlikler/10-Subat/07.jpeg",
+                  "images/etkinlikler/10-Subat/08.jpeg",
+                  "images/etkinlikler/10-Subat/09.jpeg",
+                  "images/etkinlikler/10-Subat/10.jpeg",
+                  "images/etkinlikler/10-Subat/11.jpeg",
+                  "images/etkinlikler/10-Subat/12.jpeg",
+                  "images/etkinlikler/10-Subat/13.jpeg",
+                  "images/etkinlikler/10-Subat/14.jpeg",
+                  "images/etkinlikler/10-Subat/15.jpeg",
+                  "images/etkinlikler/10-Subat/16.jpeg",
+                  "images/etkinlikler/10-Subat/17.jpeg",
+                  "images/etkinlikler/10-Subat/18.jpeg",
+                  "images/etkinlikler/10-Subat/19.jpeg",
+                  "images/etkinlikler/10-Subat/20.jpeg",
+                  "images/etkinlikler/10-Subat/21.jpeg",
+                  "images/etkinlikler/10-Subat/22.jpeg",
+                  "images/etkinlikler/10-Subat/23.jpeg",
+                  "images/etkinlikler/10-Subat/24.jpeg",
+                  "images/etkinlikler/10-Subat/25.jpeg",
+                  "images/etkinlikler/10-Subat/26.jpeg",
+                  "images/etkinlikler/10-Subat/27.jpeg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
           "paragraphs": [
-            " 08.02.2026 tarihinde Bölge 2420 koordinasyonunda Suadiye RK ev sahipliğinde Başkanlar Sekreterler Saymanlar Öğrenim Semineri’ne gelecek dönem kulüp sekreterimiz Sevgili Nur ve gelecek dönem kulüp saymanımız Sevgili Leyla katılmışlardır.",
-            "10.02.2026 tarihli kulübümüzün olağan toplantısında üye kabul törenimizi gerçekleştirdik. 2 yeni değerli üyemiz Sevgili İmren ve Sevgili Bülent Rotary yeminlerini ederek aramıza katıldılar.",
-            "Sevgili Zeki Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretlerinde kulüplerin takdim bayraklarını başkanımız Saadet Garan’a teslim etti."
+            " 10.02.2026 tarihinde kulübümüzün olağan toplantısı kapsamında Üye Kabul Törenimizi gerçekleştirdik. Bu anlamlı buluşmada, yeni üyelerimiz İmren Hacımustafa ve Bülent Sarıgül, Rotary ilkelerine bağlılıklarını ifade ederek yemin etmiş ve kulübümüze resmen katılmışlardır.",
+          "Tören, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş;", "kulübümüzün büyüyen yapısına değer katan bu katılımla birlikte birlik, dayanışma ve hizmet anlayışımız bir kez daha güçlenmiştir.", "Toplantı kapsamında ayrıca, üyemiz Mehmet Zeki Kanadıkırık, Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretleri sırasında kulüpler tarafından takdim edilen kulüp bayraklarını Başkanımız Saadet Garan’a sunmuştur.", "Tören ve toplantı, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş; kulübümüzün uluslararası bağları ve dayanışma ruhu bir kez daha güçlenmiştir."
           ]
         }
       ],
@@ -2464,7 +2509,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "10 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -2736,8 +2781,45 @@
         "address": "Atatürk Kültür Merkezi",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.4797807762466!2d28.985221977344906!3d41.036635971346726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76534821173%3A0x4921da7bada2608!2zQXRhdMO8cmsgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777668989119!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/20-ocak/04.png",
-      "gallery": ["images/etkinlikler/20-ocak/04.png", "images/etkinlikler/20-ocak/01.jpg", "images/etkinlikler/20-ocak/02.jpg", "images/etkinlikler/20-ocak/03.jpg"],
+      "heroImage": "images/etkinlikler/20-ocak/01.jpg",
+      "gallery": ["images/etkinlikler/20-ocak/01.jpg", 
+                  "images/etkinlikler/20-ocak/02.jpg", 
+                  "images/etkinlikler/20-ocak/03.jpg", 
+                  "images/etkinlikler/20-ocak/04.jpg",
+                  "images/etkinlikler/20-ocak/05.jpg",
+                  "images/etkinlikler/20-ocak/06.jpg",
+                  "images/etkinlikler/20-ocak/07.jpg",
+                  "images/etkinlikler/20-ocak/08.jpg",
+                  "images/etkinlikler/20-ocak/09.jpg",
+                  "images/etkinlikler/20-ocak/10.jpg",
+                  "images/etkinlikler/20-ocak/11.jpg",
+                  "images/etkinlikler/20-ocak/12.jpg",
+                  "images/etkinlikler/20-ocak/13.jpg",
+                  "images/etkinlikler/20-ocak/14.jpg",
+                  "images/etkinlikler/20-ocak/15.jpg",
+                  "images/etkinlikler/20-ocak/16.jpg",
+                  "images/etkinlikler/20-ocak/17.jpg",
+                  "images/etkinlikler/20-ocak/18.jpg",
+                  "images/etkinlikler/20-ocak/19.jpg",
+                  "images/etkinlikler/20-ocak/20.jpg",
+                  "images/etkinlikler/20-ocak/21.jpg",
+                  "images/etkinlikler/20-ocak/22.jpg",
+                  "images/etkinlikler/20-ocak/23.jpg",
+                  "images/etkinlikler/20-ocak/24.jpg",
+                  "images/etkinlikler/20-ocak/25.jpg",
+                  "images/etkinlikler/20-ocak/26.jpg",
+                  "images/etkinlikler/20-ocak/27.jpg",
+                  "images/etkinlikler/20-ocak/28.jpg",
+                  "images/etkinlikler/20-ocak/29.jpg",
+                  "images/etkinlikler/20-ocak/30.jpg",
+                  "images/etkinlikler/20-ocak/31.jpg",
+                  "images/etkinlikler/20-ocak/32.jpg",
+                  "images/etkinlikler/20-ocak/33.jpg",
+                  "images/etkinlikler/20-ocak/34.jpg",
+                  "images/etkinlikler/20-ocak/35.jpg",
+                  "images/etkinlikler/20-ocak/36.jpg",
+                  "images/etkinlikler/20-ocak/37.jpg",
+                  "images/etkinlikler/20-ocak/38.jpg"],
 
       "content": [
         {
@@ -2750,7 +2832,7 @@
         "items": [
           { "label": "Saat", "value": "13:00 – 15:30" },
           { "label": "Tarih", "value": "20 Ocak 2026" },
-          { "label": "Kategori", "value": "Meeting, Davet" }
+          { "label": "Kategori", "value": "İş yeri Ziyateri" }
         ]
       },
       "seo": {
