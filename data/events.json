@@ -1621,7 +1621,7 @@
     },
     {
       "id": 37,
-      "title": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+      "title": "Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması",
       "slug": "ebru-demirhan-ile-bolluk-ve-bereket-hazinesi-cevrimici-zoom",
       "status": "active",
       "date": {
@@ -1631,7 +1631,7 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
@@ -1640,14 +1640,14 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/17-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/17-Subat/01.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
+          "heading": "Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması",
           "paragraphs": [
-            "Sevgili Ebru’nun düzenlediği Ebru Demirhan ile Bolluk & Bereket Hazinesi adlı çalışmada bolluk bilincini, bereket akışını ve zihinsel engelleri ele alınarak hem içsel temizlik hem de farkındalık çalışmalarıyla hayat akışının yeniden düzenlenmesi amaçlanmıştır. Çalışmanın geliri Kanuni Sultan Süleyman Hastanesi Erken Doğum Ünitesi’ne bağışlanacaktır. Böylece yapılan her katılım, hayata erken başlayan minik kalplere destek olacaktır."
+            "Ebru Demirhan’ın gerçekleştirdiği “Bolluk & Bereket Hazinesi” çalışması; bireylerin bolluk bilinciyle buluşmasını, zihinsel engellerini fark ederek dönüşüm sürecine adım atmasını amaçlamaktadır.", "İçsel farkındalık ve yaşam dengesi üzerine kurgulanan bu buluşma, katılımcılara hem zihinsel hem de duygusal anlamda değerli kazanımlar sunmaktadır.", "Etkinlikten elde edilen gelir, Kanuni Sultan Süleyman Hastanesi Erken Doğum Ünitesi’ne bağışlanarak, hayata erken başlayan bebeklere umut olacaktır.", "Bu anlamlı buluşma, katılımcıların yaşamlarına pozitif bir dokunuş yaparken, aynı zamanda toplumsal fayda sağlama misyonumuzu da güçlendirmektedir."
           ]
         }
       ],
@@ -1656,13 +1656,13 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "17 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
-        "description": "İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom",
-        "keywords": ["İstanbul Atlas Rotary Kulübü‘‘ Ebru Demirhan ile Bolluk & Bereket Hazinesi’’- Çevrimiçi Zoom"]
+        "title": "Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması",
+        "description": "Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması",
+        "keywords": ["Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması"]
       }
     },
     {
