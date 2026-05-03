@@ -1835,7 +1835,7 @@
     },
     {
       "id": 41,
-      "title": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+      "title": "Toplantı- Kalamış İş Bankası Lokali",
       "slug": "istanbul-atlas-rotary-kulubu-toplanti-kalamis-is-bankasi-lokali",
       "status": "active",
       "date": {
@@ -1845,7 +1845,7 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
@@ -1854,12 +1854,42 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/24-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/24-Subat/01.jpg", 
+                  "images/etkinlikler/24-Subat/02.jpg", 
+                  "images/etkinlikler/24-Subat/03.jpg",
+                  "images/etkinlikler/24-Subat/04.jpg",
+                  "images/etkinlikler/24-Subat/05.jpg",
+                  "images/etkinlikler/24-Subat/06.jpg",
+                  "images/etkinlikler/24-Subat/07.jpg",
+                  "images/etkinlikler/24-Subat/08.jpg",
+                  "images/etkinlikler/24-Subat/09.jpg",
+                  "images/etkinlikler/24-Subat/10.jpg",
+                  "images/etkinlikler/24-Subat/11.jpg",
+                  "images/etkinlikler/24-Subat/12.jpg",
+                  "images/etkinlikler/24-Subat/13.jpg",
+                  "images/etkinlikler/24-Subat/14.jpg",
+                  "images/etkinlikler/24-Subat/15.jpg",
+                  "images/etkinlikler/24-Subat/16.jpg",
+                  "images/etkinlikler/24-Subat/17.jpg",
+                  "images/etkinlikler/24-Subat/18.jpg",
+                  "images/etkinlikler/24-Subat/19.jpg",
+                  "images/etkinlikler/24-Subat/20.jpg",
+                  "images/etkinlikler/24-Subat/21.jpg",
+                  "images/etkinlikler/24-Subat/22.jpg",
+                  "images/etkinlikler/24-Subat/23.jpg",
+                  "images/etkinlikler/24-Subat/24.jpg",
+                  "images/etkinlikler/24-Subat/25.jpg",
+                  "images/etkinlikler/24-Subat/26.jpg",
+                  "images/etkinlikler/24-Subat/27.jpg",
+                  "images/etkinlikler/24-Subat/28.jpg",
+                  "images/etkinlikler/24-Subat/29.jpg",
+                  "images/etkinlikler/24-Subat/30.jpg"
+                                ],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
+          "heading": "Toplantı- Kalamış İş Bankası Lokali",
           "paragraphs": [
             "24.02.2026 tarihli toplantımızda sanat dünyamızın iki kıymetli ismini onurlandırdığımız çok özel bir gece gerçekleştirdik. İstanbul Devlet Opera ve Balesi Müdürü ve Genel Sanat Yönetmeni Sayın Kerim Soysal ile tiyatro sanatçısı, rejisör, eğitmen ve düşünce insanı Sayın Tamer Levent’e ‘’Meslekte Üstün Hizmet Ödülleri’’ni takdim ettik.",
             "4. Asamblemizin sunumunu  erçekleştirdik. Asamble ve ‘’Meslekte Üstün Hizmet Ödülü’’ Töreni gecemizde Sayın Guvernör Yardımcımız Serhad Bil ile  eslekte Üstün Hizmet Ödülü Komite Başkanı Mehtap Sartık aramızdaydı. Toplantımıza katılımları bizleri mutlu etti ve geceye değer kattı."
@@ -1871,18 +1901,18 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "24 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
-        "description": "İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı- Kalamış İş Bankası Lokali"]
+        "title": "Toplantı- Kalamış İş Bankası Lokali",
+        "description": "Toplantı- Kalamış İş Bankası Lokali",
+        "keywords": ["Toplantı- Kalamış İş Bankası Lokali"]
       }
     },
     {
       "id": 42,
-      "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+      "title": "Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
       "slug": "istanbul-atlas-rotary-kulubu-rotary-ortak-toplantisi-cevrimici-zoom",
       "status": "active",
       "date": {
@@ -1892,7 +1922,7 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "Atlas Rotary Kulübü",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
@@ -1901,32 +1931,34 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/26-Subat/01.jpg",
+      "gallery": ["images/etkinlikler/26-Subat/01.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-          "paragraphs": ["26.02.2026 tarihli ortak toplantımızda konuşmacı Prof. Dr. Oğuzhan Doğanlar idi. Bizlere ‘’Bir filizle yaşama dokunmak: Kanserde beslenmeye moleküler bir bakış’’ konulu sunumunu yaptı."]
+          "heading": "Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+          "paragraphs": ["Ortak toplantımızda, alanında uzman Prof. Dr. Oğuzhan Doğanlar’ı konuk ettik.",
+                        "Kansere beslenmeye moleküler bir bakış: Bir filizle yaşama dokunmak” başlıklı sunumunda, beslenmenin insan sağlığı üzerindeki etkilerini bilimsel veriler ışığında değerlendirerek, kanser süreçlerine dair çarpıcı ve düşündürücü bilgiler paylaştı.",
+                        "Çevrim içi ortamda gerçekleşen bu sunum, katılımcılar için hem öğretici hem de farkındalık artırıcı nitelikte, oldukça verimli bir buluşma oldu."]
         }
       ],
       "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
+        "title": "Kulübü ",
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "26 Şubat 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-        "description": "İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
+        "title": "Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "description": "Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
+        "keywords": ["Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom"]
       }
     },
     {
       "id": 43,
-      "title": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
+      "title": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti",
       "slug": "dunya-baskani-sayin-francesco-arezzonun-istanbul-ziyareti-istanbul-hilton-bosphorus",
       "status": "active",
       "date": {
@@ -1936,22 +1968,35 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Hilton Bosphorus",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "İstanbul Hilton Bosphorus",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.1233263637796!2d28.986596377345084!3d41.044432071345526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab03b5a0b0c4d%3A0xe964200b7b8e87ea!2sHilton%20%C4%B0stanbul%20Bosphorus!5e0!3m2!1str!2str!4v1777756684751!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/03-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/03-Mart/01.jpg",
+                  "images/etkinlikler/03-Mart/01a.jpg", 
+                  "images/etkinlikler/03-Mart/02.jpg", 
+                  "images/etkinlikler/03-Mart/03.jpg",
+                  "images/etkinlikler/03-Mart/04.jpg",
+                  "images/etkinlikler/03-Mart/05.jpg",
+                  "images/etkinlikler/03-Mart/06.jpg",
+                  "images/etkinlikler/03-Mart/07.jpg",
+                  "images/etkinlikler/03-Mart/08.jpg",
+                  "images/etkinlikler/03-Mart/09.jpg",
+                  "images/etkinlikler/03-Mart/10.jpg"],
 
       "content": [
         {
           "heading": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
-          "paragraphs": ["UR Bölge 2420 Guvernörümüz Fuat Yalçın’ın ev sahipliğinde, 3 Mart 2026 tarihinde Uluslararası Rotary 2025-2026 Dönem Dünya Başkanı Sayın Francesco Arezzo’nun katıldığı davete katılım sağladık."]
+          "paragraphs": ["Rotary Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul ziyareti kapsamında, İstanbul Hilton Bosphorus’ta düzenlenen buluşmaya katılım sağladık.",
+                        "Rotary’nin küresel lideri olarak Sayın Arezzo’nun vizyonunu ve hedeflerini paylaşması, kulübümüz üyeleri için büyük bir ilham kaynağı oldu.",
+                        "Uluslararası Rotary vizyonunun ve dönem hedeflerinin paylaşıldığı bu anlamlı organizasyonda, farklı kulüplerden Rotaryenlerle bir araya gelerek güçlü bağlar kurma fırsatı bulduk.",
+                         "Kulübümüz adına bu değerli buluşmada yer almak, uluslararası Rotary ailesinin bir parçası olmanın gururunu bir kez daha hissettirdi."]
         }
       ],
       "sidebar": {
@@ -1959,7 +2004,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "03 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -1970,7 +2015,7 @@
     },
     {
       "id": 44,
-      "title": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+      "title": "Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
       "slug": "istanbul-atlas-rotary-kulubu-seramik-workshoplari-ile-egitime-destek-projesi-abd-virginia",
       "status": "active",
       "date": {
@@ -1980,23 +2025,29 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü,",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "ABD Virginia",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8297519.83033098!2d-80.57364982245626!3d39.34981056138946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia%2C%20Amerika%20Birle%C5%9Fik%20Devletleri!5e0!3m2!1str!2str!4v1777758062037!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/07-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/07-Mart/01.jpg", 
+                  "images/etkinlikler/07-Mart/02.jpg", 
+                  "images/etkinlikler/07-Mart/03.jpg",
+                  "images/etkinlikler/07-Mart/04.jpg"
+            ],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+          "heading": "Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
           "paragraphs": [
-            "Projemizi 7 Mart 2026 ve 14 Mart 2026 tarihlerinde iki ayrı oturumda Clay&Kiln Club Stüdyosu Virginia, ABD’de gerçekleştirdik. Her oturum 2 saat sürdü ve etkinlikte toplam 24 katılımcı vardı. Katılımcılara temel seramik teknikleri hakkında bilgi verildi ve atölye boyunca uygulamalı etkinliklere katıldılar. Atölye sırasında katılımcılara aşağıdaki konular tanıtıldı. Atölyeden toplanan tüm gelir Türkiye'deki Okul Destek Derneği'ne aktarıldı.Bu bağış, eğitim girişimlerini desteklemeyi ve  ihtiyaç sahibi öğrencilere yardım sağlamayı amaçlamaktadır."
+            "Seramik Workshopları ile Eğitime Destek Projesi”nin 1. etabını, 7 ve 14 Mart 2026 tarihlerinde ABD Virginia’da bulunan Clay&Kiln Club Stüdyosu’nda iki ayrı oturumda gerçekleştirdik.",
+            "Toplam 24 katılımcının yer aldığı atölyelerde, temel seramik teknikleri hakkında bilgi verilmiş, katılımcılar uygulamalı çalışmalarla sürece aktif olarak dahil olmuştur.",
+            "Atölye sonunda elde edilen tüm gelir, Türkiye’deki Okul Destek Derneği’ne bağışlanarak eğitimde fırsat eşitliğine katkı sağlanması hedeflenmiştir. Bu proje ile hem sanatın birleştirici gücünden faydalanılmış hem de ihtiyaç sahibi öğrencilere destek olunmuştur."
           ]
         }
       ],
@@ -2005,13 +2056,13 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "07 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Workshop" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
-        "description": "İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia"]
+        "title": "Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+        "description": "Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia",
+        "keywords": ["Seramik Workshopları İle Eğitime Destek Projesi- ABD Virginia"]
       }
     },
     {
