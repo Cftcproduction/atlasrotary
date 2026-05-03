@@ -2035,7 +2035,8 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8297519.83033098!2d-80.57364982245626!3d39.34981056138946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia%2C%20Amerika%20Birle%C5%9Fik%20Devletleri!5e0!3m2!1str!2str!4v1777758062037!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/07-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/07-Mart/01.jpg", 
+      "gallery": ["images/etkinlikler/07-Mart/01.jpg",
+                  "images/etkinlikler/07-Mart/01a.jpg", 
                   "images/etkinlikler/07-Mart/02.jpg", 
                   "images/etkinlikler/07-Mart/03.jpg",
                   "images/etkinlikler/07-Mart/04.jpg"
@@ -2067,7 +2068,7 @@
     },
     {
       "id": 45,
-      "title": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+      "title": "Toplantı Davet- Etiler Central Hospital",
       "slug": "istanbul-atlas-rotary-kulubu-toplanti-davet-etiler-central-hospital",
       "status": "active",
       "date": {
@@ -2077,23 +2078,59 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü Toplantısı – Etiler Central Hospital",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Etiler Central Hospital, Etiler, İstanbul",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.8374164100337!2d29.01356979489227!3d41.0725463974483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9ffdb70bec1%3A0x6feb6bf513363f5d!2sCentral%20Hospital%20Etiler!5e0!3m2!1str!2str!4v1777811439770!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/10-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/10-Mart/01.jpg", 
+                  "images/etkinlikler/10-Mart/02.jpg", 
+                  "images/etkinlikler/10-Mart/03.jpg",
+                  "images/etkinlikler/10-Mart/04.jpg",
+                  "images/etkinlikler/10-Mart/05.jpg",
+                  "images/etkinlikler/10-Mart/06.jpg",
+                  "images/etkinlikler/10-Mart/07.jpg",
+                  "images/etkinlikler/10-Mart/08.jpg",
+                  "images/etkinlikler/10-Mart/09.jpg",
+                  "images/etkinlikler/10-Mart/10.jpg",
+                  "images/etkinlikler/10-Mart/11.jpg",
+                  "images/etkinlikler/10-Mart/12.jpg",
+                  "images/etkinlikler/10-Mart/13.jpg",
+                  "images/etkinlikler/10-Mart/14.jpg",
+                  "images/etkinlikler/10-Mart/15.jpg",
+                  "images/etkinlikler/10-Mart/16.jpg",
+                  "images/etkinlikler/10-Mart/17.jpg",
+                  "images/etkinlikler/10-Mart/18.jpg",
+                  "images/etkinlikler/10-Mart/19.jpg",
+                  "images/etkinlikler/10-Mart/20.jpg",
+                  "images/etkinlikler/10-Mart/21.jpg",
+                  "images/etkinlikler/10-Mart/22.jpg",
+                  "images/etkinlikler/10-Mart/23.jpg",
+                  "images/etkinlikler/10-Mart/24.jpg",
+                  "images/etkinlikler/10-Mart/25.jpg",
+                  "images/etkinlikler/10-Mart/26.jpg",
+                  "images/etkinlikler/10-Mart/27.jpg",
+                  "images/etkinlikler/10-Mart/28.jpg",
+                  "images/etkinlikler/10-Mart/29.jpg",
+                  "images/etkinlikler/10-Mart/30.jpg",
+                  "images/etkinlikler/10-Mart/31.jpg",
+                  "images/etkinlikler/10-Mart/32.jpg",
+                  "images/etkinlikler/10-Mart/33.jpg",
+                  "images/etkinlikler/10-Mart/34.jpg"
+                ],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
+          "heading": "Etiler Central Hospital",
           "paragraphs": [
-            "10.03.2026 tarihinde toplantımızı Monik Hanım’ın daveti üzerine Etiler Central Hospital’da gerçekleştirdik. Hem işyeri ziyareti hem de “Ülkesel Olanaklar Protokolü” yapıldı. Tüm Rotaryen’lere ve ailelerine Central Hospital şubelerinde özel indirimler sağlandı. ‘’Ülkesel Olanaklar’’ programının amacı çeşitli işyerleri ile Rotary’i biraraya getirmek, iş birliği sağlamak, birbirlerine sunulan imkanlardan yararlanabilmektir. GDG İlter Ergürbüz ile GDG Nezih Bayındır bizlerle  irlikteydi. Toplantımıza katılımları bizleri mutlu etti ve geceye değer kattı."
+            "10 Mart 2026 tarihinde kulüp toplantımız, Sayın Monik Hanım’ın nazik daveti üzerine Etiler Central Hospital ev sahipliğinde gerçekleştirilmiştir. Program kapsamında hem kurum ziyareti yapılmış hem de “Ülkesel Olanaklar Protokolü” imza altına alınmıştır.",
+             "Etiler Central Hospital’ın üst düzey yöneticileri ve sağlık profesyonelleri ile bir araya gelerek, Rotary’nin toplumsal fayda odaklı misyonu doğrultusunda iş birliği fırsatlarını değerlendirdik.",
+             "Söz konusu protokol çerçevesinde, tüm Rotaryenler ve ailelerine Central Hospital bünyesindeki şubelerde özel avantajlar sunulması kararlaştırılmıştır. “Ülkesel Olanaklar” programı; farklı sektörlerden iş dünyası temsilcilerini Rotary çatısı altında bir araya getirerek sürdürülebilir iş birlikleri geliştirmeyi ve üyelerin karşılıklı olarak sunulan imkanlardan etkin şekilde faydalanmasını hedeflemektedir.", "Toplantımıza katılım sağlayan GDG İlter Ergürbüz ve GDG Nezih Bayındır’ın değerli katkıları, organizasyonumuza ayrı bir anlam ve değer katmıştır."
           ]
         }
       ],
@@ -2102,13 +2139,13 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "10 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
-        "description": "İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Toplantı Davet- Etiler Central Hospital"]
+        "title": " Toplantı Davet- Etiler Central Hospital",
+        "description": " Toplantı Davet- Etiler Central Hospital",
+        "keywords": [" Toplantı Davet- Etiler Central Hospital"]
       }
     },
     {
@@ -2123,17 +2160,44 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Kebapçı Arcadium",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.0528867135677!2d28.88430677734922!3d41.17701367132743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab336f3c55c07%3A0xb7a0084924a7369e!2zQXJjYWRpdW0gS2ViYXDDp8Sx!5e0!3m2!1str!2str!4v1777812524854!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/16-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/16-Mart/01.jpg", 
+                  "images/etkinlikler/16-Mart/02.jpg",  
+                  "images/etkinlikler/16-Mart/03.jpg",
+                  "images/etkinlikler/16-Mart/04.jpg",
+                  "images/etkinlikler/16-Mart/05.jpg",
+                  "images/etkinlikler/16-Mart/06.jpg",
+                  "images/etkinlikler/16-Mart/07.jpg",
+                  "images/etkinlikler/16-Mart/08.jpg",
+                  "images/etkinlikler/16-Mart/09.jpg",
+                  "images/etkinlikler/16-Mart/10.jpg",
+                  "images/etkinlikler/16-Mart/11.jpg",
+                  "images/etkinlikler/16-Mart/12.jpg",
+                  "images/etkinlikler/16-Mart/13.jpg",
+                  "images/etkinlikler/16-Mart/14.jpg",
+                  "images/etkinlikler/16-Mart/15.jpg",
+                  "images/etkinlikler/16-Mart/16.jpg",
+                  "images/etkinlikler/16-Mart/17.jpg",
+                  "images/etkinlikler/16-Mart/18.jpg",
+                  "images/etkinlikler/16-Mart/19.jpg",
+                  "images/etkinlikler/16-Mart/20.jpg",
+                  "images/etkinlikler/16-Mart/21.jpg",
+                  "images/etkinlikler/16-Mart/22.jpg",
+                  "images/etkinlikler/16-Mart/23.jpg",
+                  "images/etkinlikler/16-Mart/24.jpg",
+                  "images/etkinlikler/16-Mart/25.jpg",
+                  "images/etkinlikler/16-Mart/26.jpg",
+                  "images/etkinlikler/16-Mart/27.jpg"
+                ],
 
       "content": [
         {
@@ -2146,7 +2210,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "16 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -2157,46 +2221,106 @@
     },
     {
       "id": 47,
-      "title": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
+      "title": "HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
       "slug": "istanbul-atlas-rotary-kulubu-hpv-farkindalik-semineri-ckm",
       "status": "active",
       "date": {
         "day": "17",
         "month": "Mart",
         "year": "2026",
-        "time": "19:00 – 21:30"
+        "time": "14:00 – 16:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Caddebostan Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.6396802893787!2d29.062057477342776!3d40.96747167135628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1777814099693!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/17-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/17-Mart/01.jpg",
+                  "images/etkinlikler/17-Mart/02.jpg", 
+                  "images/etkinlikler/17-Mart/03.jpg", 
+                  "images/etkinlikler/17-Mart/04.jpg",
+                  "images/etkinlikler/17-Mart/05.jpg",
+                  "images/etkinlikler/17-Mart/06.jpg",
+                  "images/etkinlikler/17-Mart/07.jpg",
+                  "images/etkinlikler/17-Mart/08.jpg",
+                  "images/etkinlikler/17-Mart/09.jpg",
+                  "images/etkinlikler/17-Mart/10.jpg",
+                  "images/etkinlikler/17-Mart/11.jpg",
+                  "images/etkinlikler/17-Mart/12.jpg",
+                  "images/etkinlikler/17-Mart/13.jpg",
+                  "images/etkinlikler/17-Mart/14.jpg",
+                  "images/etkinlikler/17-Mart/15.jpg",
+                  "images/etkinlikler/17-Mart/16.jpg",
+                  "images/etkinlikler/17-Mart/17.jpg",
+                  "images/etkinlikler/17-Mart/18.jpg",
+                  "images/etkinlikler/17-Mart/19.jpg",
+                  "images/etkinlikler/17-Mart/20.jpg",
+                  "images/etkinlikler/17-Mart/21.jpg",
+                  "images/etkinlikler/17-Mart/22.jpg",
+                  "images/etkinlikler/17-Mart/23.jpg",
+                  "images/etkinlikler/17-Mart/24.jpg",
+                  "images/etkinlikler/17-Mart/25.jpg",
+                  "images/etkinlikler/17-Mart/26.jpg",
+                  "images/etkinlikler/17-Mart/27.jpg",
+                  "images/etkinlikler/17-Mart/28.jpg",
+                  "images/etkinlikler/17-Mart/29.jpg",
+                  "images/etkinlikler/17-Mart/30.jpg",
+                  "images/etkinlikler/17-Mart/31.jpg",
+                  "images/etkinlikler/17-Mart/32.jpg",
+                  "images/etkinlikler/17-Mart/33.jpg",
+                  "images/etkinlikler/17-Mart/34.jpg",
+                  "images/etkinlikler/17-Mart/35.jpg",
+                  "images/etkinlikler/17-Mart/36.jpg",
+                  "images/etkinlikler/17-Mart/37.jpg"
+                ],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
-          "paragraphs": ["17.03.2026 tarihinde Sevgili Nur ile Sevgili Ebru yürütücülüğünde Kreta Kadınları gösterisiyle birlikte CKM A salonunda HPV’ye Dur De! Kanseri Önle! Hpv Farkındalık Semineri gerçekleştirdik."]
+          "heading": "HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
+          "paragraphs": ["17.03.2026 tarihinde Sevgili Nur ile Sevgili Ebru yürütücülüğünde Kreta Kadınları gösterisiyle birlikte CKM A salonunda HPV’ye Dur De! Kanseri Önle! Hpv Farkındalık Semineri gerçekleştirdik.",
+          "17 Mart 2026 tarihinde, Caddebostan Kültür Merkezi A Salonu’nda, İstanbul Atlas Rotary Kulübü olarak toplum sağlığına katkı sunmak amacıyla “HPV’ye Dur De! Kanseri Önle!” temasıyla HPV Farkındalık Semineri’ni başarıyla gerçekleştirdik.",
+          
+          "Uzman Dr. Nur Topçu’nun bilimsel bilgilendirmeleri ve Ebru Demirhan’ın farkındalık odaklı katkılarıyla zenginleşen program, katılımcılara HPV’nin önlenmesi, erken teşhisin önemi ve sağlıklı yaşam bilinci konularında değerli kazanımlar sundu.",
+          "Etkinlik, Kreta Kadınlar Topluluğu’nun anlamlı müzik ve dans gösterisiyle desteklenerek farkındalık mesajının daha geniş kitlelere etkili bir şekilde ulaşmasına katkı sağladı.",
+
+          "Toplumda bilinç oluşturmayı ve koruyucu sağlık yaklaşımını yaygınlaştırmayı hedefleyen bu değerli organizasyonda emeği geçen tüm konuşmacılarımıza ve katkı sağlayan paydaşlarımıza teşekkür ederiz.",
+
+        
+          "HPV YE DUR DE KANSERİ ÖNLE",
+          "Rahim ağzı kanseri, önlenebilir ve eliminasyonu mümkün olan tek kanser türüdür. Bu hastalığın temel nedeni olan İnsan Papilloma Virüsü (HPV), yalnızca kadınları değil erkekleri ve çocukları da etkileyen ciddi bir halk sağlığı sorunudur. Kanser Olma Aşı Ol projesinin bu yılki  sloganı “HPV’ye Dur De, Kanseri Önle” çağrısıyla toplumu harekete geçmeye davet ediyor.",
+          
+          "Dünya genelinde her yıl yaklaşık 625.600 kadın ve 69.400 erkek HPV ile ilişkili kanserlere yakalanmaktadır. HPV; rahim ağzı kanseri başta olmak üzere vulva, vajina, penis, anüs ve baş-boyun kanserlerine neden olabilmektedir. Bu yönüyle hastalık yalnızca kadınları değil erkekleri de doğrudan ilgilendirmektedir. Ayrıca taşıyıcı anneden doğum sırasında bebeğe bulaşabilen virüs, çocuklarda ağız ve boğazda kitlelere yol açabilmektedir. Dolayısıyla HPV toplumun tüm kesimlerini etkileyen bir sağlık sorunudur.",
+
+          "Her yıl dünyada yaklaşık 600 bin kadına rahim ağzı kanseri tanısı konulmakta, her iki dakikada bir kadın bu hastalık nedeniyle hayatını kaybetmektedir. Bu da yılda 300 binden fazla ölüm anlamına gelmektedir. Rahim ağzı kanseri dünya genelinde kadın ölümlerinde dördüncü sırada yer almakta, 15–44 yaş arası kadın ölümlerinde ise ikinci sıraya yükselmektedir. Ölümlerin yüzde 90’ından fazlası düşük ve orta gelirli ülkelerde görülmektedir. Bu tablo annelerimizi, kızlarımızı, kız kardeşlerimizi ve büyükannelerimizi kaybettiğimiz bir gerçeği ortaya koymaktadır. Aynı zamanda erkek kardeşlerimiz, oğullarımız ve çocuklarımız da HPV’nin neden olduğu kanserler açısından risk altındadır. Bu durum yalnızca bireysel değil, sosyal ve ekonomik sonuçları olan ciddi bir halk sağlığı problemidir.",
+
+          "Türkiye’de ise her yıl ortalama 1.250 kadın rahim ağzı kanseri nedeniyle hayatını kaybetmektedir (2020 verileri).  Kadınlarda düzenli yapılan HPV taşıyıcılık testi ve  smear (Pap-smear) testi ile erken tanı sağlanabilmekte ve taşıyıcılık belirlenebilmektedir. Ancak erkeklerde HPV taşıyıcılığını saptayan rutin bir tarama testi bulunmamaktadır. Bu nedenle aşılama, hem kadınlar hem erkekler için kritik öneme sahiptir.",
+
+          "Rahim ağzı kanseri önlenebilir ve erken tanı ile tedavi edilebilir bir hastalıktır. HPV’ye bağlı kanserler için etkin bir korunma yöntemi bulunmaktadır. Buna rağmen gerekli önlemler alınmazsa 2040 yılına kadar rahim ağzı kanseri kaynaklı ölümlerin yüzde 50 oranında artacağı öngörülmektedir.",
+
+          "KANSER OLMA AŞI OL PROJESİ“HPV’ye Dur De, Kanseri Önle” çağrısıyla; kız ve erkek çocuklarının aşılanması yoluyla hastalığın ortadan kaldırılabileceği bilincini oluşturmayı, HPV aşısının ulusal aşı programına alınması konusunda kamuoyu farkındalığı yaratmayı ve erken tanı kültürünü yaygınlaştırmayı amaçlamaktadır. HPV kaynaklı kanserler kader değildir. Aşı ve erken tanı ile önlenebilir.",
+
+          "Yalnızca kadınların ve kız çocuklarının değil, erkek çocukların ve erkeklerin de risk grubunda olduğunu vurgulayan  proje, Dünya Sağlık Örgütü (DSÖ) tarafından oluşturulan farkındalık projesi örneklenerek oluşturuldu.Projeyi yaratan Dr Nur Topcu  beraberinde 118Y İstanbul Anadolu Yakası Lions Kulüpleri Dernekleri Federasyonu ve İstanbul Atlas Rotary Kulübü Derneği  tarafından desteklenmektedir .Proje eğitim ve farkındalık çalışmaları üzerinden kitlelere ulaşamak amacıyla hızla yol almaktadır"
+        ]
         }
       ],
       "sidebar": {
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Saat", "value": "14:00 – 16:30" },
           { "label": "Tarih", "value": "17 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Proje, Seminer" }
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
-        "description": "İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Hpv Farkındalık Semineri- CKM"]
+        "title": "HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
+        "description": "HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
+        "keywords": ["HPV Farkındalık Semineri – Caddebostan Kültür Merkezi"]
       }
     },
     {
@@ -3129,6 +3253,53 @@
         "title": "Genç Üye Adaylarımız İle Fikir Toplantısı  – İstanbul Atlas Rotary Kulübü",
         "description": "Genç Üye Adaylarımız İle Fikir Toplantısı  – İstanbul Atlas Rotary Kulübü",
         "keywords": ["Genç Üye Adaylarımız İle Fikir Toplantısı ", "İstanbul Atlas Rotary Kulübü"]
+      }
+    },
+    {
+      "id": 66,
+      "title": "Yönetim Kurulu Toplantısı",
+      "slug": "yonetim-kurulu-toplantisi",
+      "status": "active",
+      "date": {
+        "day": "09",
+        "month": "Mart",
+        "year": "2026",
+        "time": "19:30 – 21:30"
+      },
+      "category": "Etkinlik",
+      "organizer": "Yönetim Kurulu",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Büyük Kulüp",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6025.1816653913775!2d29.051208200680787!3d40.96854158542447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac70012e7bc5d%3A0xf1eaa96fd985b7c1!2zQsO8ecO8ayBLdWzDvHAn!5e0!3m2!1str!2str!4v1777809822930!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/09-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/09-Mart/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Yönetim Kurulu Toplantısı",
+          "paragraphs": [
+            " Toplantımızı Monik Hanım’ın daveti üzerine Etiler Central Hospital’da gerçekleştirdik. Hem işyeri ziyareti hem de “Ülkesel Olanaklar Protokolü” yapıldı.",
+            "Tüm Rotaryen’lere ve ailelerine Central Hospital şubelerinde özel indirimler sağlandı.", "‘’Ülkesel Olanaklar’’ programının amacı çeşitli işyerleri ile Rotary’i biraraya getirmek, iş birliği sağlamak, birbirlerine sunulan imkanlardan yararlanabilmektir.", "GDG İlter Ergürbüz ile GDG Nezih Bayındır bizlerle birlikteydi."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Tarih", "value": "09 Mart 2026" },
+          { "label": "Kategori", "value": "Meeting" }
+        ]
+      },
+      "seo": {
+        "title": "Yönetim Kurulu Toplantısı  – İstanbul Atlas Rotary Kulübü",
+        "description": "Yönetim Kurulu Toplantısı  – İstanbul Atlas Rotary Kulübü",
+        "keywords": ["Yönetim Kurulu Toplantısı ", "İstanbul Atlas Rotary Kulübü"]
       }
     }
   ]
