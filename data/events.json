@@ -187,7 +187,7 @@
         "day": "24",
         "month": "Mart",
         "year": "2026",
-        "time": "19:00 – 21:30"
+        "time": "19:00 – 23:30"
       },
       "category": "Etkinlik",
       "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
@@ -199,21 +199,94 @@
         "address": "Kadıköy Evlenme Dairesi",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4485.987599438107!2d29.0363580127341!3d40.99084987123357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab8715cd98a4b%3A0xa523d695dac6cf16!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Evlendirme%20Dairesi!5e1!3m2!1str!2str!4v1772840243862!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/etkinlik-04.jpg",
-      "gallery": ["images/etkinlikler/etkinlik-04.jpg"],
+      "heroImage": "images/etkinlikler/24-mart/01.jpeg",
+      "gallery": [
+        "images/etkinlikler/24-mart/01.jpeg",
+        "images/etkinlikler/24-mart/02.jpeg",
+        "images/etkinlikler/24-mart/03.jpeg",
+        "images/etkinlikler/24-mart/04.jpeg",
+        "images/etkinlikler/24-mart/05.jpeg",
+        "images/etkinlikler/24-mart/06.jpeg",
+        "images/etkinlikler/24-mart/07.jpeg",
+        "images/etkinlikler/24-mart/08.jpeg",
+        "images/etkinlikler/24-mart/09.jpeg",
+        "images/etkinlikler/24-mart/10.jpeg",
+        "images/etkinlikler/24-mart/11.jpeg",
+        "images/etkinlikler/24-mart/12.jpeg",
+        "images/etkinlikler/24-mart/13.jpeg",
+        "images/etkinlikler/24-mart/14.jpeg",
+        "images/etkinlikler/24-mart/15.jpeg",
+        "images/etkinlikler/24-mart/16.jpeg",
+        "images/etkinlikler/24-mart/17.jpeg",
+        "images/etkinlikler/24-mart/18.jpeg",
+        "images/etkinlikler/24-mart/19.jpeg",
+        "images/etkinlikler/24-mart/20.jpeg",
+        "images/etkinlikler/24-mart/21.jpeg",
+        "images/etkinlikler/24-mart/22.jpeg",
+        "images/etkinlikler/24-mart/23.jpeg",
+        "images/etkinlikler/24-mart/24.jpeg",
+        "images/etkinlikler/24-mart/25.jpeg",
+        "images/etkinlikler/24-mart/26.jpeg",
+        "images/etkinlikler/24-mart/27.jpeg",
+        "images/etkinlikler/24-mart/28.jpeg",
+        "images/etkinlikler/24-mart/29.jpeg",
+        "images/etkinlikler/24-mart/30.jpeg",
+        "images/etkinlikler/24-mart/31.jpeg",
+        "images/etkinlikler/24-mart/32.jpeg",
+        "images/etkinlikler/24-mart/33.jpeg",
+        "images/etkinlikler/24-mart/34.jpeg",
+        "images/etkinlikler/24-mart/35.jpeg",
+        "images/etkinlikler/24-mart/36.jpeg",
+        "images/etkinlikler/24-mart/37.jpeg",
+        "images/etkinlikler/24-mart/38.jpeg",
+        "images/etkinlikler/24-mart/39.jpeg",
+        "images/etkinlikler/24-mart/40.jpeg",
+        "images/etkinlikler/24-mart/41.jpeg",
+        "images/etkinlikler/24-mart/42.jpeg",
+        "images/etkinlikler/24-mart/43.jpeg",
+        "images/etkinlikler/24-mart/44.jpeg",
+        "images/etkinlikler/24-mart/45.jpeg",
+        "images/etkinlikler/24-mart/46.jpeg",
+        "images/etkinlikler/24-mart/47.jpeg",
+        "images/etkinlikler/24-mart/48.jpeg",
+        "images/etkinlikler/24-mart/49.jpeg",
+        "images/etkinlikler/24-mart/50.jpeg",
+        "images/etkinlikler/24-mart/51.jpeg",
+        "images/etkinlikler/24-mart/52.jpeg",
+        "images/etkinlikler/24-mart/53.jpeg",
+        "images/etkinlikler/24-mart/54.jpeg",
+        "images/etkinlikler/24-mart/55.jpeg",
+        "images/etkinlikler/24-mart/56.jpeg",
+        "images/etkinlikler/24-mart/57.jpeg",
+        "images/etkinlikler/24-mart/58.jpeg",
+        "images/etkinlikler/24-mart/59.jpeg",
+        "images/etkinlikler/24-mart/60.jpeg"
+      ],
 
       "content": [
-        {
-          "heading": "BİR ÖMÜRLÜK DÖNÜŞÜM",
-          "paragraphs": [
-            "“Bir Ömürlük Dönüşüm” projesi; belediyemiz bünyesinde hizmet alan yaşlı bireylerin aktif katılımıyla gerçekleştirilecek olup, kadın emeğini tasarım ve üretimde destekleyerek, çevre bilinci ve farkındalığına dikkat çekerek, kuşaklararası etkileşimi güçlendiren, Devlet kuruluşları ile iş birliği oluşturarak kültürel hafızayı görünür kılan ve sürdürülebilirlik bilincini artırmayı hedefleyen çok disiplinli bir kültür ve sanat çalışmasıdır.",
-            "Proje; sahne performansları, tematik defileler, müzik, dans, tiyatro ve yapay zekâ destekli içeriklerin bütüncül bir kurguda bir araya getirilmesiyle tasarlanmıştır. Temel yaklaşımın çatısında, yaşlı bireylerin pasif hizmet alıcı konumundan çıkarılarak üretim sürecinin merkezine yerleştirilmesi vardır ki; bu eksende tüm bileşenlerin tetikleyici unsuru ‘’dönüşüm’’ kavramının döngüsüdür."
-          ]
-        },
+          {
+            "heading": "Bir Ömürlük Dönüşüm Projesi – Anlamlı Bir Gece",
+            "paragraphs": [
+              "İstanbul Atlas Rotary Kulübü ve Kadıköy Belediyesi iş birliğiyle hayata geçirdiğimiz, elde edilen gelirin deprem bölgesinde eğitime aktarılacağı “Bir Ömürlük Dönüşüm” projesi kapsamında, Yaşlılar Haftası’na özel son derece anlamlı bir etkinlik gerçekleştirdik.",
 
-        {
-          "heading": " Geçmişten günümüze kadar uzanan bir yaşam örüntüsü",
-          "paragraphs": [
+              "Gecede, kıymetli büyüklerimiz geri dönüşüm malzemeleriyle hazırlanan özel tasarım kıyafetlerle sahne alırken; yapay zekâ destekli uygulamalarla gençlik yıllarının yeniden canlandırılması sayesinde kendilerine unutulmaz bir deneyim sunuldu.",
+
+              "Programımız; Kurucu üyemiz Dr. Nur ve üyemiz Bilinçaltı Dönüşüm Uzmanı Ebru’nun ilham verici ve bilgilendirici konuşmalarıyla başlamış, ardından Kulüp Başkan Yardımcımız Zeki Kanadıkırık’ın proje vizyonunu aktaran sunumuyla devam etmiştir. Ayrıca, üyemiz Devlet Opera Sanatçısı Nazik Aanbay’ın etkileyici performansına, Ataşehir Belediye Başkan Yardımcısı ve üyemiz Leyla Terzi’nin zarif tango gösterisi eşlik ederek geceye sanatsal bir derinlik katmıştır.",
+
+              "Etkinliğimizin sahne arkasında ise büyük bir emek ve disiplinli bir hazırlık süreci yer almıştır. Üyelerimiz Devlet Opera ve Bale Sanatçısı Özlem Abacı ve eşi Mehmet Abacı’nın eğitmenliğinde oluşturulan ekip; üyelerimiz Yücel Turan ve Selcan Arslan ile birlikte gece gündüz süren provalarla bu özel geceye hazırlanmış, ortaya yüksek sanatsal değer taşıyan bir performans koymuştur.",
+
+              "Bu özel organizasyonun hayata geçirilmesinde emeği bulunan Sanat Yönetmenimiz Özlem Abacı’ya, Mehmet Abacı’ya, Yücel Turan’a, Selcan Arslan’a, gecenin enerjisini yükselten Mehmet’e, değerli Rotaract üye adaylarımıza, tüm üyelerimize ve destekleriyle katkı sunan kıymetli misafirlerimize içten teşekkürlerimizi sunarız.",
+
+              "Bir dönüşüm bazen tek bir gecede başlar; etkisi ise nesiller boyu sürer.",
+
+              "“Bir Ömürlük Dönüşüm” projesi; belediyemiz bünyesinde hizmet alan yaşlı bireylerin aktif katılımıyla gerçekleştirilen, kadın emeğini tasarım ve üretim süreçlerinde destekleyen, çevre bilinci ve farkındalığına dikkat çeken, kuşaklararası etkileşimi güçlendiren ve kamu kurumlarıyla iş birliği içerisinde kültürel hafızayı görünür kılmayı hedefleyen çok disiplinli bir kültür ve sanat çalışmasıdır.",
+
+              "Proje; sahne performansları, tematik defileler, müzik, dans, tiyatro ve yapay zekâ destekli içeriklerin bütüncül bir kurgu içerisinde bir araya getirilmesiyle tasarlanmıştır. Bu yaklaşımın merkezinde, yaşlı bireylerin pasif hizmet alıcı konumundan çıkarılarak üretim sürecinin aktif bir parçası haline getirilmesi yer almakta; tüm sürecin temelini ise 'dönüşüm' kavramının sürdürülebilir döngüsü oluşturmaktadır."
+            ]
+          },
+          {
+            "heading": " Geçmişten günümüze kadar uzanan bir yaşam örüntüsü",
+            "paragraphs": [
             "Bir Ömürlük Değişim” projesi; geçmişi onurlandıran, bugünü sorgulayan ve geleceği bilinçli şekilde inşa etmeyi hedefleyen kapsamlı bir sosyal ve kültürel dönüşüm çalışmasıdır.",
             "Bu proje ile belediyemiz çatısı altında; üretken, kapsayıcı ve kuşaklar arası dayanışmayı temel alan örnek bir uygulamanın hayata geçirilmesi hedeflenmektedir",
             "Gerçek fayda; üretilen hizmet merkezinde bir sacayağı oluşturmak ve ihtiyaç odağı doğrultusunda ortak bir payda yaratmaktır. Döngü ve dönüşümün katmanlı ivmesi de budur."
@@ -228,7 +301,7 @@
       "sidebar": {
         "title": "İstanbul Atlas Rotary Kulübü ",
         "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
+          { "label": "Saat", "value": "19:30 – 23:30" },
           { "label": "Tarih", "value": "24 Mart 2026" },
           { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
         ]
@@ -719,9 +792,7 @@
       "content": [
         {
           "heading": "Ortak Toplantı Sabri Görkey Sunumu (Çevrimiçi Zoom)",
-          "paragraphs": [
-            " Türkiye Rotary E- Kulübü Rotary ortak toplantımızda konuşmacı GDG. Mehmet Sabri Görkey idi.", "Bizlere ’Kulüp Hizmet Projeleri Yapımı ve Fon Yaratma’ konulu sunumu sundu."
-          ]
+          "paragraphs": [" Türkiye Rotary E- Kulübü Rotary ortak toplantımızda konuşmacı GDG. Mehmet Sabri Görkey idi.", "Bizlere ’Kulüp Hizmet Projeleri Yapımı ve Fon Yaratma’ konulu sunumu sundu."]
         },
 
         {
@@ -1420,7 +1491,7 @@
         "keywords": ["İstanbul Atlas Rotary Kulübü HPV’ye Dur De! Kanseri Önle! Afişleri"]
       }
     },
-    
+
     {
       "id": 33,
       "title": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
@@ -1443,16 +1514,18 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88236.74325344947!2d29.17858723008684!3d41.01145351274316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac3ff8c4eb4ad%3A0x3450588f66ef5e7f!2sKeystone%20International%20Schools!5e0!3m2!1str!2str!4v1777732805587!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/05-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/05-Subat/01.jpg", 
-                  "images/etkinlikler/05-Subat/02.jpg", 
-                  "images/etkinlikler/05-Subat/03.jpg",
-                  "images/etkinlikler/05-Subat/04.jpg",
-                  "images/etkinlikler/05-Subat/05.jpg"],
+      "gallery": ["images/etkinlikler/05-Subat/01.jpg", "images/etkinlikler/05-Subat/02.jpg", "images/etkinlikler/05-Subat/03.jpg", "images/etkinlikler/05-Subat/04.jpg", "images/etkinlikler/05-Subat/05.jpg"],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü RYLA Eğitimi – Keystone International Schools",
-          "paragraphs": [" 05.02.2026 tarihinde Keystone International Schools’da düzenlenen RYLA eğitim programı, Kulüp Başkanımız Saadet Garan ve RYLA Eğitmeni Can Gedik’in katkılarıyla başarıyla gerçekleştirilmiştir.", "Lise öğrencilerine yönelik düzenlenen eğitimde; liderlik, iletişim ve kişisel farkındalık konularında kapsamlı içerikler sunulmuş, toplam 33 öğrenci programı başarıyla tamamlamıştır.", "Eğitim sürecinde, öğrencilerin aktif katılımını teşvik eden interaktif oturumlar ve grup çalışmaları düzenlenmiş, böylece katılımcıların liderlik becerilerini geliştirmeleri sağlanmıştır.", "RYLA programı, gençlerin potansiyellerini keşfetmelerine ve toplumlarına daha etkili bir şekilde katkıda bulunmalarına olanak tanımıştır.", "Eğitim sonunda, katılımcılara sertifikaları takdim edilmiş ve programın başarıyla tamamlanması kutlanmıştır. Bu etkinlik, İstanbul Atlas Rotary Kulübü’nün gençlerin gelişimine verdiği önemi bir kez daha göstermiştir. "]
+          "paragraphs": [
+            " 05.02.2026 tarihinde Keystone International Schools’da düzenlenen RYLA eğitim programı, Kulüp Başkanımız Saadet Garan ve RYLA Eğitmeni Can Gedik’in katkılarıyla başarıyla gerçekleştirilmiştir.",
+            "Lise öğrencilerine yönelik düzenlenen eğitimde; liderlik, iletişim ve kişisel farkındalık konularında kapsamlı içerikler sunulmuş, toplam 33 öğrenci programı başarıyla tamamlamıştır.",
+            "Eğitim sürecinde, öğrencilerin aktif katılımını teşvik eden interaktif oturumlar ve grup çalışmaları düzenlenmiş, böylece katılımcıların liderlik becerilerini geliştirmeleri sağlanmıştır.",
+            "RYLA programı, gençlerin potansiyellerini keşfetmelerine ve toplumlarına daha etkili bir şekilde katkıda bulunmalarına olanak tanımıştır.",
+            "Eğitim sonunda, katılımcılara sertifikaları takdim edilmiş ve programın başarıyla tamamlanması kutlanmıştır. Bu etkinlik, İstanbul Atlas Rotary Kulübü’nün gençlerin gelişimine verdiği önemi bir kez daha göstermiştir. "
+          ]
         }
       ],
       "sidebar": {
@@ -1491,15 +1564,15 @@
         "mapEmbedSrc": ""
       },
       "heroImage": "images/etkinlikler/08-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/08-Subat/01.jpg", 
-                  "images/etkinlikler/08-Subat/02.jpg"
-                  ],
+      "gallery": ["images/etkinlikler/08-Subat/01.jpg", "images/etkinlikler/08-Subat/02.jpg"],
 
       "content": [
         {
           "heading": "2026-2027 Dönemi Başkanlar Sekreterler Saymanlar Öğrenim Semineri",
-          "paragraphs": [" 08.02.2026 tarihinde, Bölge 2420 koordinasyonunda Suadiye Rotary Kulübü ev sahipliğinde gerçekleştirilen Başkanlar, Sekreterler ve Saymanlar Öğrenim Semineri’ne kulübümüzü temsilen gelecek dönem sekreterimiz Nur Topcu ve saymanımız Leyla Terzi katılmıştır.", 
-          "Seminer süresince, yeni dönem sorumluluklarına yönelik kapsamlı eğitimler alınmış; kulüp yönetimi, stratejik planlama ve Rotary değerleri doğrultusunda önemli bilgi ve deneyim paylaşımları gerçekleştirilmiştir."]
+          "paragraphs": [
+            " 08.02.2026 tarihinde, Bölge 2420 koordinasyonunda Suadiye Rotary Kulübü ev sahipliğinde gerçekleştirilen Başkanlar, Sekreterler ve Saymanlar Öğrenim Semineri’ne kulübümüzü temsilen gelecek dönem sekreterimiz Nur Topcu ve saymanımız Leyla Terzi katılmıştır.",
+            "Seminer süresince, yeni dönem sorumluluklarına yönelik kapsamlı eğitimler alınmış; kulüp yönetimi, stratejik planlama ve Rotary değerleri doğrultusunda önemli bilgi ve deneyim paylaşımları gerçekleştirilmiştir."
+          ]
         }
       ],
       "sidebar": {
@@ -1543,8 +1616,12 @@
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı Ortak Toplantı- Şişli",
-          "paragraphs": ["Şişli’de gerçekleştirilen ortak toplantıda, farklı sivil toplum kuruluşlarıyla kurulan dostluk ve iş birliği bağları güçlendirildi.", "Başkanımız Saadet Garan, Lions Yönetim Çevresi’nin davetlisi olarak katıldığı programda, “Atatürk’ün Eğitime ve Kadına Bakış Açısı” başlıklı sunumunu gerçekleştirdi.",
-          "Sunumda, Atatürk’ün eğitim vizyonu ve kadının toplumsal hayattaki yeri üzerine önemli vurgular yapılırken, katılımcılarla değerli bir fikir paylaşımı ortamı oluştu.", "Bu anlamlı buluşma, kurumlar arası iletişimin ve ortak değerler etrafında bir araya gelmenin güçlü bir örneği oldu."]
+          "paragraphs": [
+            "Şişli’de gerçekleştirilen ortak toplantıda, farklı sivil toplum kuruluşlarıyla kurulan dostluk ve iş birliği bağları güçlendirildi.",
+            "Başkanımız Saadet Garan, Lions Yönetim Çevresi’nin davetlisi olarak katıldığı programda, “Atatürk’ün Eğitime ve Kadına Bakış Açısı” başlıklı sunumunu gerçekleştirdi.",
+            "Sunumda, Atatürk’ün eğitim vizyonu ve kadının toplumsal hayattaki yeri üzerine önemli vurgular yapılırken, katılımcılarla değerli bir fikir paylaşımı ortamı oluştu.",
+            "Bu anlamlı buluşma, kurumlar arası iletişimin ve ortak değerler etrafında bir araya gelmenin güçlü bir örneği oldu."
+          ]
         }
       ],
       "sidebar": {
@@ -1583,25 +1660,30 @@
         "mapEmbedSrc": ""
       },
       "heroImage": "images/etkinlikler/15-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/15-Subat/01.jpg", 
-                  "images/etkinlikler/15-Subat/02.jpg", 
-                  "images/etkinlikler/15-Subat/03.jpg",
-                  "images/etkinlikler/15-Subat/04.jpg",
-                  "images/etkinlikler/15-Subat/05.jpg",
-                  "images/etkinlikler/15-Subat/06.jpg",
-                  "images/etkinlikler/15-Subat/07.jpg",
-                  "images/etkinlikler/15-Subat/08.jpg",
-                  "images/etkinlikler/15-Subat/09.jpg",
-                  "images/etkinlikler/15-Subat/10.jpg",
-                  "images/etkinlikler/15-Subat/11.jpg",
-                  "images/etkinlikler/15-Subat/12.jpg",
-                  "images/etkinlikler/15-Subat/13.jpg"],
+      "gallery": [
+        "images/etkinlikler/15-Subat/01.jpg",
+        "images/etkinlikler/15-Subat/02.jpg",
+        "images/etkinlikler/15-Subat/03.jpg",
+        "images/etkinlikler/15-Subat/04.jpg",
+        "images/etkinlikler/15-Subat/05.jpg",
+        "images/etkinlikler/15-Subat/06.jpg",
+        "images/etkinlikler/15-Subat/07.jpg",
+        "images/etkinlikler/15-Subat/08.jpg",
+        "images/etkinlikler/15-Subat/09.jpg",
+        "images/etkinlikler/15-Subat/10.jpg",
+        "images/etkinlikler/15-Subat/11.jpg",
+        "images/etkinlikler/15-Subat/12.jpg",
+        "images/etkinlikler/15-Subat/13.jpg"
+      ],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü ‘’Bir Ömürlük Dönüşüm Projesi Provaları’’- Kreta Kadınları",
           "paragraphs": [
-            "Yücel Turan ve Kreta Kadınları ile birlikte hayata geçirilen “Bir Ömürlük Değişim” projesi kapsamında, kostüm üretimine yönelik prova çalışmaları yoğun bir şekilde sürdürülmektedir.", "Projenin sahne hazırlık sürecine katkı sağlayan bu çalışmalar, ekip ruhunu ve üretim sürecinin yaratıcılığını yansıtmaktadır.", "Prova sürecinde, kostüm tasarımlarının detayları üzerinde titizlikle çalışılmakta, her bir parçanın sahne performansına uyumlu ve estetik açıdan etkileyici olması hedeflenmektedir.", "Bu yoğun prova süreci, projenin sahneye yansıyan görsel zenginliğini ve izleyicilere sunacağı etkileyici deneyimi güçlendirmektedir." 
+            "Yücel Turan ve Kreta Kadınları ile birlikte hayata geçirilen “Bir Ömürlük Değişim” projesi kapsamında, kostüm üretimine yönelik prova çalışmaları yoğun bir şekilde sürdürülmektedir.",
+            "Projenin sahne hazırlık sürecine katkı sağlayan bu çalışmalar, ekip ruhunu ve üretim sürecinin yaratıcılığını yansıtmaktadır.",
+            "Prova sürecinde, kostüm tasarımlarının detayları üzerinde titizlikle çalışılmakta, her bir parçanın sahne performansına uyumlu ve estetik açıdan etkileyici olması hedeflenmektedir.",
+            "Bu yoğun prova süreci, projenin sahneye yansıyan görsel zenginliğini ve izleyicilere sunacağı etkileyici deneyimi güçlendirmektedir."
           ]
         }
       ],
@@ -1647,7 +1729,10 @@
         {
           "heading": "Ebru Demirhan ile “Bolluk & Bereket Hazinesi” – Çevrimiçi Zoom Buluşması",
           "paragraphs": [
-            "Ebru Demirhan’ın gerçekleştirdiği “Bolluk & Bereket Hazinesi” çalışması; bireylerin bolluk bilinciyle buluşmasını, zihinsel engellerini fark ederek dönüşüm sürecine adım atmasını amaçlamaktadır.", "İçsel farkındalık ve yaşam dengesi üzerine kurgulanan bu buluşma, katılımcılara hem zihinsel hem de duygusal anlamda değerli kazanımlar sunmaktadır.", "Etkinlikten elde edilen gelir, Kanuni Sultan Süleyman Hastanesi Erken Doğum Ünitesi’ne bağışlanarak, hayata erken başlayan bebeklere umut olacaktır.", "Bu anlamlı buluşma, katılımcıların yaşamlarına pozitif bir dokunuş yaparken, aynı zamanda toplumsal fayda sağlama misyonumuzu da güçlendirmektedir."
+            "Ebru Demirhan’ın gerçekleştirdiği “Bolluk & Bereket Hazinesi” çalışması; bireylerin bolluk bilinciyle buluşmasını, zihinsel engellerini fark ederek dönüşüm sürecine adım atmasını amaçlamaktadır.",
+            "İçsel farkındalık ve yaşam dengesi üzerine kurgulanan bu buluşma, katılımcılara hem zihinsel hem de duygusal anlamda değerli kazanımlar sunmaktadır.",
+            "Etkinlikten elde edilen gelir, Kanuni Sultan Süleyman Hastanesi Erken Doğum Ünitesi’ne bağışlanarak, hayata erken başlayan bebeklere umut olacaktır.",
+            "Bu anlamlı buluşma, katılımcıların yaşamlarına pozitif bir dokunuş yaparken, aynı zamanda toplumsal fayda sağlama misyonumuzu da güçlendirmektedir."
           ]
         }
       ],
@@ -1692,8 +1777,11 @@
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü İş Yeri Ziyareti- Türkan Saylan Kültür Merkezi",
-          "paragraphs": ["Kulübümüz tarafından gerçekleştirilen iş yeri ziyareti kapsamında, üyemiz Nazik Alanbay’ın yer aldığı ve aynı zamanda sanat yaşamını yansıtan “Yüksek Dozda Mutluluk” adlı oyun, Türkan Saylan Kültür Merkezi’nde izlenmiştir.", 
-          "Başkanımız Saadet Garan ile birlikte Mehmet Zeki Kanadıkırık, Uğur Yalçın, Ebru Demirhan, Vildan Elmacıoğlu, Selcan Arslan, Sinem Sandıkçı, Nurcan Mescigil ve Erkan Çiftçi’nin katılım sağladığı bu anlamlı ziyarette; üyemizin devlet sanatçılığı niteliğini yansıtan sanatsal üretimi yerinde gözlemlenmiş, sahne performansı büyük beğeni toplamıştır.", "Gerçekleştirilen iş yeri ziyareti, hem üyemizin mesleki ve sanatsal değerini daha yakından tanıma hem de kulüp içi dayanışmayı güçlendirme açısından verimli ve keyifli bir buluşma olmuştur."]
+          "paragraphs": [
+            "Kulübümüz tarafından gerçekleştirilen iş yeri ziyareti kapsamında, üyemiz Nazik Alanbay’ın yer aldığı ve aynı zamanda sanat yaşamını yansıtan “Yüksek Dozda Mutluluk” adlı oyun, Türkan Saylan Kültür Merkezi’nde izlenmiştir.",
+            "Başkanımız Saadet Garan ile birlikte Mehmet Zeki Kanadıkırık, Uğur Yalçın, Ebru Demirhan, Vildan Elmacıoğlu, Selcan Arslan, Sinem Sandıkçı, Nurcan Mescigil ve Erkan Çiftçi’nin katılım sağladığı bu anlamlı ziyarette; üyemizin devlet sanatçılığı niteliğini yansıtan sanatsal üretimi yerinde gözlemlenmiş, sahne performansı büyük beğeni toplamıştır.",
+            "Gerçekleştirilen iş yeri ziyareti, hem üyemizin mesleki ve sanatsal değerini daha yakından tanıma hem de kulüp içi dayanışmayı güçlendirme açısından verimli ve keyifli bir buluşma olmuştur."
+          ]
         }
       ],
       "sidebar": {
@@ -1732,37 +1820,40 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25231.72653306496!2d38.255314500601074!3d37.76739970716449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15331388daa5b1ab%3A0xdb1596e4c5f547e!2zQWTEsXlhbWFuLCBBZMSxeWFtYW4gTWVya2V6L0FkxLF5YW1hbg!5e0!3m2!1str!2str!4v1777745816704!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/22-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/22-Subat/01.jpg", 
-                  "images/etkinlikler/22-Subat/02.jpg", 
-                  "images/etkinlikler/22-Subat/03.jpg",
-                  "images/etkinlikler/22-Subat/04.jpg",
-                  "images/etkinlikler/22-Subat/05.jpg",
-                  "images/etkinlikler/22-Subat/06.jpg",
-                  "images/etkinlikler/22-Subat/07.jpg",
-                  "images/etkinlikler/22-Subat/08.jpg",
-                  "images/etkinlikler/22-Subat/09.jpg",
-                  "images/etkinlikler/22-Subat/10.jpg",
-                  "images/etkinlikler/22-Subat/11.jpg",
-                  "images/etkinlikler/22-Subat/12.jpg",
-                  "images/etkinlikler/22-Subat/13.jpg",
-                  "images/etkinlikler/22-Subat/14.jpg",
-                  "images/etkinlikler/22-Subat/15.jpg",
-                  "images/etkinlikler/22-Subat/16.jpg",
-                  "images/etkinlikler/22-Subat/17.jpg",
-                  "images/etkinlikler/22-Subat/18.jpg",
-                  "images/etkinlikler/22-Subat/19.jpg",
-                  "images/etkinlikler/22-Subat/20.jpg",
-                  "images/etkinlikler/22-Subat/21.jpg",
-                  "images/etkinlikler/22-Subat/22.jpg",
-                  "images/etkinlikler/22-Subat/23.jpg"
-                ],
+      "gallery": [
+        "images/etkinlikler/22-Subat/01.jpg",
+        "images/etkinlikler/22-Subat/02.jpg",
+        "images/etkinlikler/22-Subat/03.jpg",
+        "images/etkinlikler/22-Subat/04.jpg",
+        "images/etkinlikler/22-Subat/05.jpg",
+        "images/etkinlikler/22-Subat/06.jpg",
+        "images/etkinlikler/22-Subat/07.jpg",
+        "images/etkinlikler/22-Subat/08.jpg",
+        "images/etkinlikler/22-Subat/09.jpg",
+        "images/etkinlikler/22-Subat/10.jpg",
+        "images/etkinlikler/22-Subat/11.jpg",
+        "images/etkinlikler/22-Subat/12.jpg",
+        "images/etkinlikler/22-Subat/13.jpg",
+        "images/etkinlikler/22-Subat/14.jpg",
+        "images/etkinlikler/22-Subat/15.jpg",
+        "images/etkinlikler/22-Subat/16.jpg",
+        "images/etkinlikler/22-Subat/17.jpg",
+        "images/etkinlikler/22-Subat/18.jpg",
+        "images/etkinlikler/22-Subat/19.jpg",
+        "images/etkinlikler/22-Subat/20.jpg",
+        "images/etkinlikler/22-Subat/21.jpg",
+        "images/etkinlikler/22-Subat/22.jpg",
+        "images/etkinlikler/22-Subat/23.jpg"
+      ],
       "content": [
         {
           "heading": "Navigasyonlu Bastonlar Görme Engelli Vatandaşlara Teslim Edildi.",
-          "paragraphs": ["Başkanımız Saadet Garan’ın hayaliyle temelleri atılan RotArt Tiyatro Grubu öncülüğünde yürütülen proje kapsamında, görme engelli bireylerin günlük yaşamlarını kolaylaştırmak amacıyla temin edilen navigasyonlu bastonlar, Adıyaman’da ihtiyaç sahiplerine teslim edilmiştir.",
-                        "Fenerbahçe, Kozyatağı, Marmara ve Suadiye Rotary Kulüplerinden gönüllü rotaryenlerin destek verdiği bu anlamlı proje; dayanışma, sosyal sorumluluk ve toplumsal fayda odaklı güçlü bir iş birliği örneği olmuştur.", 
-                        
-                        "Gerçekleştirilen bu teslimat ile görme engelli bireylerin bağımsız hareket kabiliyetlerinin artırılması hedeflenirken, Rotary’nin “İyilik için birleşin” anlayışı sahada somut bir etkiye dönüşmüştür."]
+          "paragraphs": [
+            "Başkanımız Saadet Garan’ın hayaliyle temelleri atılan RotArt Tiyatro Grubu öncülüğünde yürütülen proje kapsamında, görme engelli bireylerin günlük yaşamlarını kolaylaştırmak amacıyla temin edilen navigasyonlu bastonlar, Adıyaman’da ihtiyaç sahiplerine teslim edilmiştir.",
+            "Fenerbahçe, Kozyatağı, Marmara ve Suadiye Rotary Kulüplerinden gönüllü rotaryenlerin destek verdiği bu anlamlı proje; dayanışma, sosyal sorumluluk ve toplumsal fayda odaklı güçlü bir iş birliği örneği olmuştur.",
+
+            "Gerçekleştirilen bu teslimat ile görme engelli bireylerin bağımsız hareket kabiliyetlerinin artırılması hedeflenirken, Rotary’nin “İyilik için birleşin” anlayışı sahada somut bir etkiye dönüşmüştür."
+          ]
         }
       ],
       "sidebar": {
@@ -1801,19 +1892,14 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.6742272834936!2d28.975322977344856!3d41.032382671347165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76039512f3d%3A0x37ef49716a1d54e2!2sLitera%20Restaurant%20%2F%20Lounge-Bar!5e0!3m2!1str!2str!4v1777746835822!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/23-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/23-Subat/01.jpg", 
-                  "images/etkinlikler/23-Subat/02.jpg", 
-                  "images/etkinlikler/23-Subat/03.jpg",
-                  "images/etkinlikler/23-Subat/04.jpg",
-                  "images/etkinlikler/23-Subat/05.jpg",
-                  "images/etkinlikler/23-Subat/06.jpg"],
+      "gallery": ["images/etkinlikler/23-Subat/01.jpg", "images/etkinlikler/23-Subat/02.jpg", "images/etkinlikler/23-Subat/03.jpg", "images/etkinlikler/23-Subat/04.jpg", "images/etkinlikler/23-Subat/05.jpg", "images/etkinlikler/23-Subat/06.jpg"],
 
       "content": [
         {
           "heading": "23 Şubat Dünya Rotary Günü Daveti- Litera Beyoğlu",
           "paragraphs": [
             "23 Şubat Dünya Rotary Günü kapsamında düzenlenen davetin ardından, kulüp üyelerimizin katılımıyla Litera Beyoğlu’nda keyifli bir ocakbaşı etkinliği gerçekleştirildi.",
-            "Rotary’nin 121. yılını kutladığımız bu özel günde, farklı kulüplerden rotaryenlerle bir araya gelinerek dostluk, dayanışma ve birlik ruhu pekiştirildi.", 
+            "Rotary’nin 121. yılını kutladığımız bu özel günde, farklı kulüplerden rotaryenlerle bir araya gelinerek dostluk, dayanışma ve birlik ruhu pekiştirildi.",
             "Etkinlik süresince yapılan paylaşımlar ve çevrim içi bağlantılarla uluslararası Rotary topluluğunun bir parçası olmanın gururu bir kez daha hissedildi.",
             "Samimi bir atmosferde gerçekleşen bu buluşma, hem anlamlı bir kutlama hem de kulüpler arası bağları güçlendiren değerli bir organizasyon oldu."
           ]
@@ -1855,37 +1941,38 @@
         "mapEmbedSrc": ""
       },
       "heroImage": "images/etkinlikler/24-Subat/01.jpg",
-      "gallery": ["images/etkinlikler/24-Subat/01.jpg", 
-                  "images/etkinlikler/24-Subat/02.jpg", 
-                  "images/etkinlikler/24-Subat/03.jpg",
-                  "images/etkinlikler/24-Subat/04.jpg",
-                  "images/etkinlikler/24-Subat/05.jpg",
-                  "images/etkinlikler/24-Subat/06.jpg",
-                  "images/etkinlikler/24-Subat/07.jpg",
-                  "images/etkinlikler/24-Subat/08.jpg",
-                  "images/etkinlikler/24-Subat/09.jpg",
-                  "images/etkinlikler/24-Subat/10.jpg",
-                  "images/etkinlikler/24-Subat/11.jpg",
-                  "images/etkinlikler/24-Subat/12.jpg",
-                  "images/etkinlikler/24-Subat/13.jpg",
-                  "images/etkinlikler/24-Subat/14.jpg",
-                  "images/etkinlikler/24-Subat/15.jpg",
-                  "images/etkinlikler/24-Subat/16.jpg",
-                  "images/etkinlikler/24-Subat/17.jpg",
-                  "images/etkinlikler/24-Subat/18.jpg",
-                  "images/etkinlikler/24-Subat/19.jpg",
-                  "images/etkinlikler/24-Subat/20.jpg",
-                  "images/etkinlikler/24-Subat/21.jpg",
-                  "images/etkinlikler/24-Subat/22.jpg",
-                  "images/etkinlikler/24-Subat/23.jpg",
-                  "images/etkinlikler/24-Subat/24.jpg",
-                  "images/etkinlikler/24-Subat/25.jpg",
-                  "images/etkinlikler/24-Subat/26.jpg",
-                  "images/etkinlikler/24-Subat/27.jpg",
-                  "images/etkinlikler/24-Subat/28.jpg",
-                  "images/etkinlikler/24-Subat/29.jpg",
-                  "images/etkinlikler/24-Subat/30.jpg"
-                                ],
+      "gallery": [
+        "images/etkinlikler/24-Subat/01.jpg",
+        "images/etkinlikler/24-Subat/02.jpg",
+        "images/etkinlikler/24-Subat/03.jpg",
+        "images/etkinlikler/24-Subat/04.jpg",
+        "images/etkinlikler/24-Subat/05.jpg",
+        "images/etkinlikler/24-Subat/06.jpg",
+        "images/etkinlikler/24-Subat/07.jpg",
+        "images/etkinlikler/24-Subat/08.jpg",
+        "images/etkinlikler/24-Subat/09.jpg",
+        "images/etkinlikler/24-Subat/10.jpg",
+        "images/etkinlikler/24-Subat/11.jpg",
+        "images/etkinlikler/24-Subat/12.jpg",
+        "images/etkinlikler/24-Subat/13.jpg",
+        "images/etkinlikler/24-Subat/14.jpg",
+        "images/etkinlikler/24-Subat/15.jpg",
+        "images/etkinlikler/24-Subat/16.jpg",
+        "images/etkinlikler/24-Subat/17.jpg",
+        "images/etkinlikler/24-Subat/18.jpg",
+        "images/etkinlikler/24-Subat/19.jpg",
+        "images/etkinlikler/24-Subat/20.jpg",
+        "images/etkinlikler/24-Subat/21.jpg",
+        "images/etkinlikler/24-Subat/22.jpg",
+        "images/etkinlikler/24-Subat/23.jpg",
+        "images/etkinlikler/24-Subat/24.jpg",
+        "images/etkinlikler/24-Subat/25.jpg",
+        "images/etkinlikler/24-Subat/26.jpg",
+        "images/etkinlikler/24-Subat/27.jpg",
+        "images/etkinlikler/24-Subat/28.jpg",
+        "images/etkinlikler/24-Subat/29.jpg",
+        "images/etkinlikler/24-Subat/30.jpg"
+      ],
 
       "content": [
         {
@@ -1937,9 +2024,11 @@
       "content": [
         {
           "heading": "Kulübü Rotary Ortak Toplantısı- Çevrimiçi Zoom",
-          "paragraphs": ["Ortak toplantımızda, alanında uzman Prof. Dr. Oğuzhan Doğanlar’ı konuk ettik.",
-                        "Kansere beslenmeye moleküler bir bakış: Bir filizle yaşama dokunmak” başlıklı sunumunda, beslenmenin insan sağlığı üzerindeki etkilerini bilimsel veriler ışığında değerlendirerek, kanser süreçlerine dair çarpıcı ve düşündürücü bilgiler paylaştı.",
-                        "Çevrim içi ortamda gerçekleşen bu sunum, katılımcılar için hem öğretici hem de farkındalık artırıcı nitelikte, oldukça verimli bir buluşma oldu."]
+          "paragraphs": [
+            "Ortak toplantımızda, alanında uzman Prof. Dr. Oğuzhan Doğanlar’ı konuk ettik.",
+            "Kansere beslenmeye moleküler bir bakış: Bir filizle yaşama dokunmak” başlıklı sunumunda, beslenmenin insan sağlığı üzerindeki etkilerini bilimsel veriler ışığında değerlendirerek, kanser süreçlerine dair çarpıcı ve düşündürücü bilgiler paylaştı.",
+            "Çevrim içi ortamda gerçekleşen bu sunum, katılımcılar için hem öğretici hem de farkındalık artırıcı nitelikte, oldukça verimli bir buluşma oldu."
+          ]
         }
       ],
       "sidebar": {
@@ -1978,25 +2067,29 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.1233263637796!2d28.986596377345084!3d41.044432071345526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab03b5a0b0c4d%3A0xe964200b7b8e87ea!2sHilton%20%C4%B0stanbul%20Bosphorus!5e0!3m2!1str!2str!4v1777756684751!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/03-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/03-Mart/01.jpg",
-                  "images/etkinlikler/03-Mart/01a.jpg", 
-                  "images/etkinlikler/03-Mart/02.jpg", 
-                  "images/etkinlikler/03-Mart/03.jpg",
-                  "images/etkinlikler/03-Mart/04.jpg",
-                  "images/etkinlikler/03-Mart/05.jpg",
-                  "images/etkinlikler/03-Mart/06.jpg",
-                  "images/etkinlikler/03-Mart/07.jpg",
-                  "images/etkinlikler/03-Mart/08.jpg",
-                  "images/etkinlikler/03-Mart/09.jpg",
-                  "images/etkinlikler/03-Mart/10.jpg"],
+      "gallery": [
+        "images/etkinlikler/03-Mart/01.jpg",
+        "images/etkinlikler/03-Mart/01a.jpg",
+        "images/etkinlikler/03-Mart/02.jpg",
+        "images/etkinlikler/03-Mart/03.jpg",
+        "images/etkinlikler/03-Mart/04.jpg",
+        "images/etkinlikler/03-Mart/05.jpg",
+        "images/etkinlikler/03-Mart/06.jpg",
+        "images/etkinlikler/03-Mart/07.jpg",
+        "images/etkinlikler/03-Mart/08.jpg",
+        "images/etkinlikler/03-Mart/09.jpg",
+        "images/etkinlikler/03-Mart/10.jpg"
+      ],
 
       "content": [
         {
           "heading": "Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul Ziyareti- İstanbul Hilton Bosphorus",
-          "paragraphs": ["Rotary Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul ziyareti kapsamında, İstanbul Hilton Bosphorus’ta düzenlenen buluşmaya katılım sağladık.",
-                        "Rotary’nin küresel lideri olarak Sayın Arezzo’nun vizyonunu ve hedeflerini paylaşması, kulübümüz üyeleri için büyük bir ilham kaynağı oldu.",
-                        "Uluslararası Rotary vizyonunun ve dönem hedeflerinin paylaşıldığı bu anlamlı organizasyonda, farklı kulüplerden Rotaryenlerle bir araya gelerek güçlü bağlar kurma fırsatı bulduk.",
-                         "Kulübümüz adına bu değerli buluşmada yer almak, uluslararası Rotary ailesinin bir parçası olmanın gururunu bir kez daha hissettirdi."]
+          "paragraphs": [
+            "Rotary Dünya Başkanı Sayın Francesco Arezzo’nun İstanbul ziyareti kapsamında, İstanbul Hilton Bosphorus’ta düzenlenen buluşmaya katılım sağladık.",
+            "Rotary’nin küresel lideri olarak Sayın Arezzo’nun vizyonunu ve hedeflerini paylaşması, kulübümüz üyeleri için büyük bir ilham kaynağı oldu.",
+            "Uluslararası Rotary vizyonunun ve dönem hedeflerinin paylaşıldığı bu anlamlı organizasyonda, farklı kulüplerden Rotaryenlerle bir araya gelerek güçlü bağlar kurma fırsatı bulduk.",
+            "Kulübümüz adına bu değerli buluşmada yer almak, uluslararası Rotary ailesinin bir parçası olmanın gururunu bir kez daha hissettirdi."
+          ]
         }
       ],
       "sidebar": {
@@ -2035,12 +2128,7 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8297519.83033098!2d-80.57364982245626!3d39.34981056138946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia%2C%20Amerika%20Birle%C5%9Fik%20Devletleri!5e0!3m2!1str!2str!4v1777758062037!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/07-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/07-Mart/01.jpg",
-                  "images/etkinlikler/07-Mart/01a.jpg", 
-                  "images/etkinlikler/07-Mart/02.jpg", 
-                  "images/etkinlikler/07-Mart/03.jpg",
-                  "images/etkinlikler/07-Mart/04.jpg"
-            ],
+      "gallery": ["images/etkinlikler/07-Mart/01.jpg", "images/etkinlikler/07-Mart/01a.jpg", "images/etkinlikler/07-Mart/02.jpg", "images/etkinlikler/07-Mart/03.jpg", "images/etkinlikler/07-Mart/04.jpg"],
 
       "content": [
         {
@@ -2088,49 +2176,51 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.8374164100337!2d29.01356979489227!3d41.0725463974483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9ffdb70bec1%3A0x6feb6bf513363f5d!2sCentral%20Hospital%20Etiler!5e0!3m2!1str!2str!4v1777811439770!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/10-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/10-Mart/01.jpg", 
-                  "images/etkinlikler/10-Mart/02.jpg", 
-                  "images/etkinlikler/10-Mart/03.jpg",
-                  "images/etkinlikler/10-Mart/04.jpg",
-                  "images/etkinlikler/10-Mart/05.jpg",
-                  "images/etkinlikler/10-Mart/06.jpg",
-                  "images/etkinlikler/10-Mart/07.jpg",
-                  "images/etkinlikler/10-Mart/08.jpg",
-                  "images/etkinlikler/10-Mart/09.jpg",
-                  "images/etkinlikler/10-Mart/10.jpg",
-                  "images/etkinlikler/10-Mart/11.jpg",
-                  "images/etkinlikler/10-Mart/12.jpg",
-                  "images/etkinlikler/10-Mart/13.jpg",
-                  "images/etkinlikler/10-Mart/14.jpg",
-                  "images/etkinlikler/10-Mart/15.jpg",
-                  "images/etkinlikler/10-Mart/16.jpg",
-                  "images/etkinlikler/10-Mart/17.jpg",
-                  "images/etkinlikler/10-Mart/18.jpg",
-                  "images/etkinlikler/10-Mart/19.jpg",
-                  "images/etkinlikler/10-Mart/20.jpg",
-                  "images/etkinlikler/10-Mart/21.jpg",
-                  "images/etkinlikler/10-Mart/22.jpg",
-                  "images/etkinlikler/10-Mart/23.jpg",
-                  "images/etkinlikler/10-Mart/24.jpg",
-                  "images/etkinlikler/10-Mart/25.jpg",
-                  "images/etkinlikler/10-Mart/26.jpg",
-                  "images/etkinlikler/10-Mart/27.jpg",
-                  "images/etkinlikler/10-Mart/28.jpg",
-                  "images/etkinlikler/10-Mart/29.jpg",
-                  "images/etkinlikler/10-Mart/30.jpg",
-                  "images/etkinlikler/10-Mart/31.jpg",
-                  "images/etkinlikler/10-Mart/32.jpg",
-                  "images/etkinlikler/10-Mart/33.jpg",
-                  "images/etkinlikler/10-Mart/34.jpg"
-                ],
+      "gallery": [
+        "images/etkinlikler/10-Mart/01.jpg",
+        "images/etkinlikler/10-Mart/02.jpg",
+        "images/etkinlikler/10-Mart/03.jpg",
+        "images/etkinlikler/10-Mart/04.jpg",
+        "images/etkinlikler/10-Mart/05.jpg",
+        "images/etkinlikler/10-Mart/06.jpg",
+        "images/etkinlikler/10-Mart/07.jpg",
+        "images/etkinlikler/10-Mart/08.jpg",
+        "images/etkinlikler/10-Mart/09.jpg",
+        "images/etkinlikler/10-Mart/10.jpg",
+        "images/etkinlikler/10-Mart/11.jpg",
+        "images/etkinlikler/10-Mart/12.jpg",
+        "images/etkinlikler/10-Mart/13.jpg",
+        "images/etkinlikler/10-Mart/14.jpg",
+        "images/etkinlikler/10-Mart/15.jpg",
+        "images/etkinlikler/10-Mart/16.jpg",
+        "images/etkinlikler/10-Mart/17.jpg",
+        "images/etkinlikler/10-Mart/18.jpg",
+        "images/etkinlikler/10-Mart/19.jpg",
+        "images/etkinlikler/10-Mart/20.jpg",
+        "images/etkinlikler/10-Mart/21.jpg",
+        "images/etkinlikler/10-Mart/22.jpg",
+        "images/etkinlikler/10-Mart/23.jpg",
+        "images/etkinlikler/10-Mart/24.jpg",
+        "images/etkinlikler/10-Mart/25.jpg",
+        "images/etkinlikler/10-Mart/26.jpg",
+        "images/etkinlikler/10-Mart/27.jpg",
+        "images/etkinlikler/10-Mart/28.jpg",
+        "images/etkinlikler/10-Mart/29.jpg",
+        "images/etkinlikler/10-Mart/30.jpg",
+        "images/etkinlikler/10-Mart/31.jpg",
+        "images/etkinlikler/10-Mart/32.jpg",
+        "images/etkinlikler/10-Mart/33.jpg",
+        "images/etkinlikler/10-Mart/34.jpg"
+      ],
 
       "content": [
         {
           "heading": "Etiler Central Hospital",
           "paragraphs": [
             "10 Mart 2026 tarihinde kulüp toplantımız, Sayın Monik Hanım’ın nazik daveti üzerine Etiler Central Hospital ev sahipliğinde gerçekleştirilmiştir. Program kapsamında hem kurum ziyareti yapılmış hem de “Ülkesel Olanaklar Protokolü” imza altına alınmıştır.",
-             "Etiler Central Hospital’ın üst düzey yöneticileri ve sağlık profesyonelleri ile bir araya gelerek, Rotary’nin toplumsal fayda odaklı misyonu doğrultusunda iş birliği fırsatlarını değerlendirdik.",
-             "Söz konusu protokol çerçevesinde, tüm Rotaryenler ve ailelerine Central Hospital bünyesindeki şubelerde özel avantajlar sunulması kararlaştırılmıştır. “Ülkesel Olanaklar” programı; farklı sektörlerden iş dünyası temsilcilerini Rotary çatısı altında bir araya getirerek sürdürülebilir iş birlikleri geliştirmeyi ve üyelerin karşılıklı olarak sunulan imkanlardan etkin şekilde faydalanmasını hedeflemektedir.", "Toplantımıza katılım sağlayan GDG İlter Ergürbüz ve GDG Nezih Bayındır’ın değerli katkıları, organizasyonumuza ayrı bir anlam ve değer katmıştır."
+            "Etiler Central Hospital’ın üst düzey yöneticileri ve sağlık profesyonelleri ile bir araya gelerek, Rotary’nin toplumsal fayda odaklı misyonu doğrultusunda iş birliği fırsatlarını değerlendirdik.",
+            "Söz konusu protokol çerçevesinde, tüm Rotaryenler ve ailelerine Central Hospital bünyesindeki şubelerde özel avantajlar sunulması kararlaştırılmıştır. “Ülkesel Olanaklar” programı; farklı sektörlerden iş dünyası temsilcilerini Rotary çatısı altında bir araya getirerek sürdürülebilir iş birlikleri geliştirmeyi ve üyelerin karşılıklı olarak sunulan imkanlardan etkin şekilde faydalanmasını hedeflemektedir.",
+            "Toplantımıza katılım sağlayan GDG İlter Ergürbüz ve GDG Nezih Bayındır’ın değerli katkıları, organizasyonumuza ayrı bir anlam ve değer katmıştır."
           ]
         }
       ],
@@ -2170,34 +2260,35 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.0528867135677!2d28.88430677734922!3d41.17701367132743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab336f3c55c07%3A0xb7a0084924a7369e!2zQXJjYWRpdW0gS2ViYXDDp8Sx!5e0!3m2!1str!2str!4v1777812524854!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/16-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/16-Mart/01.jpg", 
-                  "images/etkinlikler/16-Mart/02.jpg",  
-                  "images/etkinlikler/16-Mart/03.jpg",
-                  "images/etkinlikler/16-Mart/04.jpg",
-                  "images/etkinlikler/16-Mart/05.jpg",
-                  "images/etkinlikler/16-Mart/06.jpg",
-                  "images/etkinlikler/16-Mart/07.jpg",
-                  "images/etkinlikler/16-Mart/08.jpg",
-                  "images/etkinlikler/16-Mart/09.jpg",
-                  "images/etkinlikler/16-Mart/10.jpg",
-                  "images/etkinlikler/16-Mart/11.jpg",
-                  "images/etkinlikler/16-Mart/12.jpg",
-                  "images/etkinlikler/16-Mart/13.jpg",
-                  "images/etkinlikler/16-Mart/14.jpg",
-                  "images/etkinlikler/16-Mart/15.jpg",
-                  "images/etkinlikler/16-Mart/16.jpg",
-                  "images/etkinlikler/16-Mart/17.jpg",
-                  "images/etkinlikler/16-Mart/18.jpg",
-                  "images/etkinlikler/16-Mart/19.jpg",
-                  "images/etkinlikler/16-Mart/20.jpg",
-                  "images/etkinlikler/16-Mart/21.jpg",
-                  "images/etkinlikler/16-Mart/22.jpg",
-                  "images/etkinlikler/16-Mart/23.jpg",
-                  "images/etkinlikler/16-Mart/24.jpg",
-                  "images/etkinlikler/16-Mart/25.jpg",
-                  "images/etkinlikler/16-Mart/26.jpg",
-                  "images/etkinlikler/16-Mart/27.jpg"
-                ],
+      "gallery": [
+        "images/etkinlikler/16-Mart/01.jpg",
+        "images/etkinlikler/16-Mart/02.jpg",
+        "images/etkinlikler/16-Mart/03.jpg",
+        "images/etkinlikler/16-Mart/04.jpg",
+        "images/etkinlikler/16-Mart/05.jpg",
+        "images/etkinlikler/16-Mart/06.jpg",
+        "images/etkinlikler/16-Mart/07.jpg",
+        "images/etkinlikler/16-Mart/08.jpg",
+        "images/etkinlikler/16-Mart/09.jpg",
+        "images/etkinlikler/16-Mart/10.jpg",
+        "images/etkinlikler/16-Mart/11.jpg",
+        "images/etkinlikler/16-Mart/12.jpg",
+        "images/etkinlikler/16-Mart/13.jpg",
+        "images/etkinlikler/16-Mart/14.jpg",
+        "images/etkinlikler/16-Mart/15.jpg",
+        "images/etkinlikler/16-Mart/16.jpg",
+        "images/etkinlikler/16-Mart/17.jpg",
+        "images/etkinlikler/16-Mart/18.jpg",
+        "images/etkinlikler/16-Mart/19.jpg",
+        "images/etkinlikler/16-Mart/20.jpg",
+        "images/etkinlikler/16-Mart/21.jpg",
+        "images/etkinlikler/16-Mart/22.jpg",
+        "images/etkinlikler/16-Mart/23.jpg",
+        "images/etkinlikler/16-Mart/24.jpg",
+        "images/etkinlikler/16-Mart/25.jpg",
+        "images/etkinlikler/16-Mart/26.jpg",
+        "images/etkinlikler/16-Mart/27.jpg"
+      ],
 
       "content": [
         {
@@ -2241,72 +2332,73 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.6396802893787!2d29.062057477342776!3d40.96747167135628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1777814099693!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/17-Mart/01.jpg",
-      "gallery": ["images/etkinlikler/17-Mart/01.jpg",
-                  "images/etkinlikler/17-Mart/02.jpg", 
-                  "images/etkinlikler/17-Mart/03.jpg", 
-                  "images/etkinlikler/17-Mart/04.jpg",
-                  "images/etkinlikler/17-Mart/05.jpg",
-                  "images/etkinlikler/17-Mart/06.jpg",
-                  "images/etkinlikler/17-Mart/07.jpg",
-                  "images/etkinlikler/17-Mart/08.jpg",
-                  "images/etkinlikler/17-Mart/09.jpg",
-                  "images/etkinlikler/17-Mart/10.jpg",
-                  "images/etkinlikler/17-Mart/11.jpg",
-                  "images/etkinlikler/17-Mart/12.jpg",
-                  "images/etkinlikler/17-Mart/13.jpg",
-                  "images/etkinlikler/17-Mart/14.jpg",
-                  "images/etkinlikler/17-Mart/15.jpg",
-                  "images/etkinlikler/17-Mart/16.jpg",
-                  "images/etkinlikler/17-Mart/17.jpg",
-                  "images/etkinlikler/17-Mart/18.jpg",
-                  "images/etkinlikler/17-Mart/19.jpg",
-                  "images/etkinlikler/17-Mart/20.jpg",
-                  "images/etkinlikler/17-Mart/21.jpg",
-                  "images/etkinlikler/17-Mart/22.jpg",
-                  "images/etkinlikler/17-Mart/23.jpg",
-                  "images/etkinlikler/17-Mart/24.jpg",
-                  "images/etkinlikler/17-Mart/25.jpg",
-                  "images/etkinlikler/17-Mart/26.jpg",
-                  "images/etkinlikler/17-Mart/27.jpg",
-                  "images/etkinlikler/17-Mart/28.jpg",
-                  "images/etkinlikler/17-Mart/29.jpg",
-                  "images/etkinlikler/17-Mart/30.jpg",
-                  "images/etkinlikler/17-Mart/31.jpg",
-                  "images/etkinlikler/17-Mart/32.jpg",
-                  "images/etkinlikler/17-Mart/33.jpg",
-                  "images/etkinlikler/17-Mart/34.jpg",
-                  "images/etkinlikler/17-Mart/35.jpg",
-                  "images/etkinlikler/17-Mart/36.jpg",
-                  "images/etkinlikler/17-Mart/37.jpg"
-                ],
+      "gallery": [
+        "images/etkinlikler/17-Mart/01.jpg",
+        "images/etkinlikler/17-Mart/02.jpg",
+        "images/etkinlikler/17-Mart/03.jpg",
+        "images/etkinlikler/17-Mart/04.jpg",
+        "images/etkinlikler/17-Mart/05.jpg",
+        "images/etkinlikler/17-Mart/06.jpg",
+        "images/etkinlikler/17-Mart/07.jpg",
+        "images/etkinlikler/17-Mart/08.jpg",
+        "images/etkinlikler/17-Mart/09.jpg",
+        "images/etkinlikler/17-Mart/10.jpg",
+        "images/etkinlikler/17-Mart/11.jpg",
+        "images/etkinlikler/17-Mart/12.jpg",
+        "images/etkinlikler/17-Mart/13.jpg",
+        "images/etkinlikler/17-Mart/14.jpg",
+        "images/etkinlikler/17-Mart/15.jpg",
+        "images/etkinlikler/17-Mart/16.jpg",
+        "images/etkinlikler/17-Mart/17.jpg",
+        "images/etkinlikler/17-Mart/18.jpg",
+        "images/etkinlikler/17-Mart/19.jpg",
+        "images/etkinlikler/17-Mart/20.jpg",
+        "images/etkinlikler/17-Mart/21.jpg",
+        "images/etkinlikler/17-Mart/22.jpg",
+        "images/etkinlikler/17-Mart/23.jpg",
+        "images/etkinlikler/17-Mart/24.jpg",
+        "images/etkinlikler/17-Mart/25.jpg",
+        "images/etkinlikler/17-Mart/26.jpg",
+        "images/etkinlikler/17-Mart/27.jpg",
+        "images/etkinlikler/17-Mart/28.jpg",
+        "images/etkinlikler/17-Mart/29.jpg",
+        "images/etkinlikler/17-Mart/30.jpg",
+        "images/etkinlikler/17-Mart/31.jpg",
+        "images/etkinlikler/17-Mart/32.jpg",
+        "images/etkinlikler/17-Mart/33.jpg",
+        "images/etkinlikler/17-Mart/34.jpg",
+        "images/etkinlikler/17-Mart/35.jpg",
+        "images/etkinlikler/17-Mart/36.jpg",
+        "images/etkinlikler/17-Mart/37.jpg"
+      ],
 
       "content": [
         {
           "heading": "HPV Farkındalık Semineri – Caddebostan Kültür Merkezi",
-          "paragraphs": ["17.03.2026 tarihinde Sevgili Nur ile Sevgili Ebru yürütücülüğünde Kreta Kadınları gösterisiyle birlikte CKM A salonunda HPV’ye Dur De! Kanseri Önle! Hpv Farkındalık Semineri gerçekleştirdik.",
-          "17 Mart 2026 tarihinde, Caddebostan Kültür Merkezi A Salonu’nda, İstanbul Atlas Rotary Kulübü olarak toplum sağlığına katkı sunmak amacıyla “HPV’ye Dur De! Kanseri Önle!” temasıyla HPV Farkındalık Semineri’ni başarıyla gerçekleştirdik.",
-          
-          "Uzman Dr. Nur Topçu’nun bilimsel bilgilendirmeleri ve Ebru Demirhan’ın farkındalık odaklı katkılarıyla zenginleşen program, katılımcılara HPV’nin önlenmesi, erken teşhisin önemi ve sağlıklı yaşam bilinci konularında değerli kazanımlar sundu.",
-          "Etkinlik, Kreta Kadınlar Topluluğu’nun anlamlı müzik ve dans gösterisiyle desteklenerek farkındalık mesajının daha geniş kitlelere etkili bir şekilde ulaşmasına katkı sağladı.",
+          "paragraphs": [
+            "17.03.2026 tarihinde Sevgili Nur ile Sevgili Ebru yürütücülüğünde Kreta Kadınları gösterisiyle birlikte CKM A salonunda HPV’ye Dur De! Kanseri Önle! Hpv Farkındalık Semineri gerçekleştirdik.",
+            "17 Mart 2026 tarihinde, Caddebostan Kültür Merkezi A Salonu’nda, İstanbul Atlas Rotary Kulübü olarak toplum sağlığına katkı sunmak amacıyla “HPV’ye Dur De! Kanseri Önle!” temasıyla HPV Farkındalık Semineri’ni başarıyla gerçekleştirdik.",
 
-          "Toplumda bilinç oluşturmayı ve koruyucu sağlık yaklaşımını yaygınlaştırmayı hedefleyen bu değerli organizasyonda emeği geçen tüm konuşmacılarımıza ve katkı sağlayan paydaşlarımıza teşekkür ederiz.",
+            "Uzman Dr. Nur Topçu’nun bilimsel bilgilendirmeleri ve Ebru Demirhan’ın farkındalık odaklı katkılarıyla zenginleşen program, katılımcılara HPV’nin önlenmesi, erken teşhisin önemi ve sağlıklı yaşam bilinci konularında değerli kazanımlar sundu.",
+            "Etkinlik, Kreta Kadınlar Topluluğu’nun anlamlı müzik ve dans gösterisiyle desteklenerek farkındalık mesajının daha geniş kitlelere etkili bir şekilde ulaşmasına katkı sağladı.",
 
-        
-          "HPV YE DUR DE KANSERİ ÖNLE",
-          "Rahim ağzı kanseri, önlenebilir ve eliminasyonu mümkün olan tek kanser türüdür. Bu hastalığın temel nedeni olan İnsan Papilloma Virüsü (HPV), yalnızca kadınları değil erkekleri ve çocukları da etkileyen ciddi bir halk sağlığı sorunudur. Kanser Olma Aşı Ol projesinin bu yılki  sloganı “HPV’ye Dur De, Kanseri Önle” çağrısıyla toplumu harekete geçmeye davet ediyor.",
-          
-          "Dünya genelinde her yıl yaklaşık 625.600 kadın ve 69.400 erkek HPV ile ilişkili kanserlere yakalanmaktadır. HPV; rahim ağzı kanseri başta olmak üzere vulva, vajina, penis, anüs ve baş-boyun kanserlerine neden olabilmektedir. Bu yönüyle hastalık yalnızca kadınları değil erkekleri de doğrudan ilgilendirmektedir. Ayrıca taşıyıcı anneden doğum sırasında bebeğe bulaşabilen virüs, çocuklarda ağız ve boğazda kitlelere yol açabilmektedir. Dolayısıyla HPV toplumun tüm kesimlerini etkileyen bir sağlık sorunudur.",
+            "Toplumda bilinç oluşturmayı ve koruyucu sağlık yaklaşımını yaygınlaştırmayı hedefleyen bu değerli organizasyonda emeği geçen tüm konuşmacılarımıza ve katkı sağlayan paydaşlarımıza teşekkür ederiz.",
 
-          "Her yıl dünyada yaklaşık 600 bin kadına rahim ağzı kanseri tanısı konulmakta, her iki dakikada bir kadın bu hastalık nedeniyle hayatını kaybetmektedir. Bu da yılda 300 binden fazla ölüm anlamına gelmektedir. Rahim ağzı kanseri dünya genelinde kadın ölümlerinde dördüncü sırada yer almakta, 15–44 yaş arası kadın ölümlerinde ise ikinci sıraya yükselmektedir. Ölümlerin yüzde 90’ından fazlası düşük ve orta gelirli ülkelerde görülmektedir. Bu tablo annelerimizi, kızlarımızı, kız kardeşlerimizi ve büyükannelerimizi kaybettiğimiz bir gerçeği ortaya koymaktadır. Aynı zamanda erkek kardeşlerimiz, oğullarımız ve çocuklarımız da HPV’nin neden olduğu kanserler açısından risk altındadır. Bu durum yalnızca bireysel değil, sosyal ve ekonomik sonuçları olan ciddi bir halk sağlığı problemidir.",
+            "HPV YE DUR DE KANSERİ ÖNLE",
+            "Rahim ağzı kanseri, önlenebilir ve eliminasyonu mümkün olan tek kanser türüdür. Bu hastalığın temel nedeni olan İnsan Papilloma Virüsü (HPV), yalnızca kadınları değil erkekleri ve çocukları da etkileyen ciddi bir halk sağlığı sorunudur. Kanser Olma Aşı Ol projesinin bu yılki  sloganı “HPV’ye Dur De, Kanseri Önle” çağrısıyla toplumu harekete geçmeye davet ediyor.",
 
-          "Türkiye’de ise her yıl ortalama 1.250 kadın rahim ağzı kanseri nedeniyle hayatını kaybetmektedir (2020 verileri).  Kadınlarda düzenli yapılan HPV taşıyıcılık testi ve  smear (Pap-smear) testi ile erken tanı sağlanabilmekte ve taşıyıcılık belirlenebilmektedir. Ancak erkeklerde HPV taşıyıcılığını saptayan rutin bir tarama testi bulunmamaktadır. Bu nedenle aşılama, hem kadınlar hem erkekler için kritik öneme sahiptir.",
+            "Dünya genelinde her yıl yaklaşık 625.600 kadın ve 69.400 erkek HPV ile ilişkili kanserlere yakalanmaktadır. HPV; rahim ağzı kanseri başta olmak üzere vulva, vajina, penis, anüs ve baş-boyun kanserlerine neden olabilmektedir. Bu yönüyle hastalık yalnızca kadınları değil erkekleri de doğrudan ilgilendirmektedir. Ayrıca taşıyıcı anneden doğum sırasında bebeğe bulaşabilen virüs, çocuklarda ağız ve boğazda kitlelere yol açabilmektedir. Dolayısıyla HPV toplumun tüm kesimlerini etkileyen bir sağlık sorunudur.",
 
-          "Rahim ağzı kanseri önlenebilir ve erken tanı ile tedavi edilebilir bir hastalıktır. HPV’ye bağlı kanserler için etkin bir korunma yöntemi bulunmaktadır. Buna rağmen gerekli önlemler alınmazsa 2040 yılına kadar rahim ağzı kanseri kaynaklı ölümlerin yüzde 50 oranında artacağı öngörülmektedir.",
+            "Her yıl dünyada yaklaşık 600 bin kadına rahim ağzı kanseri tanısı konulmakta, her iki dakikada bir kadın bu hastalık nedeniyle hayatını kaybetmektedir. Bu da yılda 300 binden fazla ölüm anlamına gelmektedir. Rahim ağzı kanseri dünya genelinde kadın ölümlerinde dördüncü sırada yer almakta, 15–44 yaş arası kadın ölümlerinde ise ikinci sıraya yükselmektedir. Ölümlerin yüzde 90’ından fazlası düşük ve orta gelirli ülkelerde görülmektedir. Bu tablo annelerimizi, kızlarımızı, kız kardeşlerimizi ve büyükannelerimizi kaybettiğimiz bir gerçeği ortaya koymaktadır. Aynı zamanda erkek kardeşlerimiz, oğullarımız ve çocuklarımız da HPV’nin neden olduğu kanserler açısından risk altındadır. Bu durum yalnızca bireysel değil, sosyal ve ekonomik sonuçları olan ciddi bir halk sağlığı problemidir.",
 
-          "KANSER OLMA AŞI OL PROJESİ“HPV’ye Dur De, Kanseri Önle” çağrısıyla; kız ve erkek çocuklarının aşılanması yoluyla hastalığın ortadan kaldırılabileceği bilincini oluşturmayı, HPV aşısının ulusal aşı programına alınması konusunda kamuoyu farkındalığı yaratmayı ve erken tanı kültürünü yaygınlaştırmayı amaçlamaktadır. HPV kaynaklı kanserler kader değildir. Aşı ve erken tanı ile önlenebilir.",
+            "Türkiye’de ise her yıl ortalama 1.250 kadın rahim ağzı kanseri nedeniyle hayatını kaybetmektedir (2020 verileri).  Kadınlarda düzenli yapılan HPV taşıyıcılık testi ve  smear (Pap-smear) testi ile erken tanı sağlanabilmekte ve taşıyıcılık belirlenebilmektedir. Ancak erkeklerde HPV taşıyıcılığını saptayan rutin bir tarama testi bulunmamaktadır. Bu nedenle aşılama, hem kadınlar hem erkekler için kritik öneme sahiptir.",
 
-          "Yalnızca kadınların ve kız çocuklarının değil, erkek çocukların ve erkeklerin de risk grubunda olduğunu vurgulayan  proje, Dünya Sağlık Örgütü (DSÖ) tarafından oluşturulan farkındalık projesi örneklenerek oluşturuldu.Projeyi yaratan Dr Nur Topcu  beraberinde 118Y İstanbul Anadolu Yakası Lions Kulüpleri Dernekleri Federasyonu ve İstanbul Atlas Rotary Kulübü Derneği  tarafından desteklenmektedir .Proje eğitim ve farkındalık çalışmaları üzerinden kitlelere ulaşamak amacıyla hızla yol almaktadır"
-        ]
+            "Rahim ağzı kanseri önlenebilir ve erken tanı ile tedavi edilebilir bir hastalıktır. HPV’ye bağlı kanserler için etkin bir korunma yöntemi bulunmaktadır. Buna rağmen gerekli önlemler alınmazsa 2040 yılına kadar rahim ağzı kanseri kaynaklı ölümlerin yüzde 50 oranında artacağı öngörülmektedir.",
+
+            "KANSER OLMA AŞI OL PROJESİ“HPV’ye Dur De, Kanseri Önle” çağrısıyla; kız ve erkek çocuklarının aşılanması yoluyla hastalığın ortadan kaldırılabileceği bilincini oluşturmayı, HPV aşısının ulusal aşı programına alınması konusunda kamuoyu farkındalığı yaratmayı ve erken tanı kültürünü yaygınlaştırmayı amaçlamaktadır. HPV kaynaklı kanserler kader değildir. Aşı ve erken tanı ile önlenebilir.",
+
+            "Yalnızca kadınların ve kız çocuklarının değil, erkek çocukların ve erkeklerin de risk grubunda olduğunu vurgulayan  proje, Dünya Sağlık Örgütü (DSÖ) tarafından oluşturulan farkındalık projesi örneklenerek oluşturuldu.Projeyi yaratan Dr Nur Topcu  beraberinde 118Y İstanbul Anadolu Yakası Lions Kulüpleri Dernekleri Federasyonu ve İstanbul Atlas Rotary Kulübü Derneği  tarafından desteklenmektedir .Proje eğitim ve farkındalık çalışmaları üzerinden kitlelere ulaşamak amacıyla hızla yol almaktadır"
+          ]
         }
       ],
       "sidebar": {
@@ -2323,101 +2415,11 @@
         "keywords": ["HPV Farkındalık Semineri – Caddebostan Kültür Merkezi"]
       }
     },
-    {
-      "id": 48,
-      "title": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
-      "slug": "istanbul-atlas-rotary-kulubu-bir-omurluk-donusum-projesi-ckm",
-      "status": "active",
-      "date": {
-        "day": "24",
-        "month": "Mart",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
-          "paragraphs": [
-            "İstanbul Atlas Rotary Kulübü ve Kadıköy Belediyesi işbirliği ile topladığımız geliri deprem bölgesinde eğitime aktarılacak olan ‘’Bir Ömürlük Dönüşüm’’ projemizde, yaşlılar haftası kapsamında çok anlamlı bir geceye imza attık. Etkinliğimizde kıymetli büyüklerimize geri dönüşümden hazırlanan kıyafetler giydirildi. Yapay zeka desteği ile gençlik yılları yeniden canlandırılarak onlara unutulmaz bir hatıra yaşatıldı. Gecemizin açılışı Sevgili Dr. Nur ile Bilinçaltı Dönüşüm Uzmanı Sevgili Ebru’nun bilgilendirici ve ilham verici konuşmalarıyla ve sonrasında Sevgili Zeki’nin projemizi kısaca anlatan konuşmasıyla gerçekleşti. Devlet Opera Sanatcısı Sevgili Nazik’in muhteşem sesine Ataşehir Belediye Başkan Yardımcısı Sevgili Leyla zarif tango performansıyla eşlik etti. Bu anlamlı geceyi büyük bir emek, özen ve sanat anlayışıyla hazırlayan Devlet Opera Sanatçısı ve Sanat Yönetmenimiz Sevgili Özlem’e, Sevgili Yücel’e, gecenin enerjisini yükselten Sevgili Mehmet’e, Rotaract üye adaylarımıza ve bizleri yalnız bırakmayan tüm üyelerimize, bilet alarak destek olan dostlarımıza gönülden teşekkür ederiz. Bir dönüşüm bazen bir gecede başlar. Ama etkisi nesiller boyu sürer."
-          ]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "24 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
-        "description": "İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Bir Ömürlük Dönüşüm Projesi- CKM"]
-      }
-    },
-    {
-      "id": 49,
-      "title": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
-      "slug": "istanbul-atlas-rotary-kulubu-bir-omurluk-donusum-projesi-ckm",
-      "status": "active",
-      "date": {
-        "day": "28",
-        "month": "Mart",
-        "year": "2026",
-        "time": "19:00 – 21:30"
-      },
-      "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
-      "contact": {
-        "phone": "+90 542 295 79 90",
-        "website": "https://atlasrotary.org"
-      },
-      "location": {
-        "address": "",
-        "mapEmbedSrc": ""
-      },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
-
-      "content": [
-        {
-          "heading": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
-          "paragraphs": [
-            "28.03.2026 tarihinde gerçekleşen Asamble’de Gelecek Dönem Başkanımız Sevgili Nur İstanbul Atlas Rotary Kulübü adına bayrağını büyük bir onurla teslim aldı. Bu bayrak sadece bir sembol değil, iyilik için birleşen güçlü bir niyetin, hizmete adanmış bir yolculuğun temsilidir. İlhan veren bir başlangıca, kalpten hizmetlere.."
-          ]
-        }
-      ],
-      "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
-        "items": [
-          { "label": "Saat", "value": "19:30 – 21:30" },
-          { "label": "Tarih", "value": "28 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
-        ]
-      },
-      "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
-        "description": "İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Asamble’26- Ataşehir İnal Aydınoğlu Kültür Merkezi"]
-      }
-    },
+    
+    
     {
       "id": 50,
-      "title": "İstanbul Atlas Rotary Kulübü Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
+      "title": "Ayhan Sicimoğlu- Latin All Stars Gösterisi- CKM",
       "slug": "istanbul-atlas-rotary-kulubu-latin-all-stars-gosterisi-ckm",
       "status": "active",
       "date": {
@@ -2427,17 +2429,23 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü,",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Caddebostan Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.6396802893782!2d29.062057476010978!3d40.96747167135629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1777839601819!5m2!1str!2str"
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/28-Mart-Et2/01.jpg",
+      "gallery": ["images/etkinlikler/28-Mart-Et2/01.jpg",
+                  "images/etkinlikler/28-Mart-Et2/02.jpg", 
+                  "images/etkinlikler/28-Mart-Et2/03.jpg",
+                  "images/etkinlikler/28-Mart-Et2/04.jpg",
+                  "images/etkinlikler/28-Mart-Et2/05.jpg",
+                  "images/etkinlikler/28-Mart-Et2/06.jpg",
+                  "images/etkinlikler/28-Mart-Et2/07.jpg"],
 
       "content": [
         {
@@ -2448,7 +2456,7 @@
         }
       ],
       "sidebar": {
-        "title": "İstanbul Atlas Rotary Kulübü ",
+        "title": "Ayhan Sicimoğlu ",
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "28 Mart 2026" },
@@ -2463,7 +2471,7 @@
     },
     {
       "id": 51,
-      "title": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+      "title": "Kulübü 360° Stil Projesi- Etiler Central Hospital",
       "slug": "istanbul-atlas-rotary-kulubu-360-stil-projesi-etiler-central-hospital",
       "status": "active",
       "date": {
@@ -2473,7 +2481,7 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, Etiler Central Hospital",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
@@ -2482,14 +2490,25 @@
         "address": "",
         "mapEmbedSrc": ""
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/30-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/30-Mart/01.jpg", 
+                  "images/etkinlikler/30-Mart/02.jpg", 
+                  "images/etkinlikler/30-Mart/03.jpg",
+                  "images/etkinlikler/30-Mart/04.jpg",
+                  "images/etkinlikler/30-Mart/05.jpg",
+                  "images/etkinlikler/30-Mart/06.jpg",
+                  "images/etkinlikler/30-Mart/07.jpg",
+                  "images/etkinlikler/30-Mart/08.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü 360° Stil Projesi- Etiler Central Hospital",
+          "heading": "360° Stil Projesi- Etiler Central Hospital",
           "paragraphs": [
-            "30.03.2026 tarihinde 360° Stil: Moda ve Stil programımızın ilk buluşmasını Etiler Central Hospital’ın ev sahipliğinde gerçekleştirdik. Etiler Central Hospital’dan Aslı Hanım program boyunca moderetorlük yaptı. Eğitmenlerimiz Cansu Şekerci (Moda ve Stil Danışmanı), Beyza Doğan (Makyaj Artisti). Projemiz 3 etaptan oluşmaktadır. İlk dersimizde vücut tipine uygun giyinme, siluet oluşturma ve beden dengesini doğru kullanarak kendi stilimizi keşfetmeye adım attık. Her bir katılımcının kendine özgü stilini fark etmesi ve bunu doğru şekilde ifade edebilmesi üzerine güçlü bir başlangıç yaptık. Bir sonraki buluşmalarımız 6 Nisan Pazartesi ile 13 Nisan Pazartesi olacaktır."
+            "30 Mart 2026 tarihinde, “360° Stil: Moda ve Stil” programımızın ilk buluşmasını Etiler Central Hospital’ın ev sahipliğinde başarıyla gerçekleştirdik. Program süresince moderatörlüğü Etiler Central Hospital’dan Aslı Hanım üstlenmiştir. Eğitim kadromuzda Moda ve Stil Danışmanı Cansu Şekerci ile Makyaj Artisti Beyza Doğan yer almıştır.",
+
+            "Üç etap olarak kurgulanan programımızın ilk oturumunda; vücut tipine uygun giyinme, doğru siluet oluşturma ve beden dengesini etkin kullanarak kişisel stilin keşfedilmesine odaklanılmıştır. Katılımcıların kendilerine özgü stilini fark etmeleri ve bunu doğru şekilde ifade edebilmeleri adına güçlü bir başlangıç yapılmıştır.",
+
+            "Programın devamı niteliğindeki bir sonraki buluşmalarımız 6 Nisan ve 13 Nisan tarihlerinde gerçekleştirilecektir."
           ]
         }
       ],
@@ -2498,7 +2517,7 @@
         "items": [
           { "label": "Saat", "value": "19:30 – 21:30" },
           { "label": "Tarih", "value": "30 Mart 2026" },
-          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
         ]
       },
       "seo": {
@@ -2509,7 +2528,7 @@
     },
     {
       "id": 52,
-      "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+      "title": "Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
       "slug": "istanbul-atlas-rotary-kulubu-konuk-konusmacili-toplanti-asamble-ve-yeni-uye-kabul-töreni",
       "status": "active",
       "date": {
@@ -2519,23 +2538,55 @@
         "time": "19:00 – 21:30"
       },
       "category": "Etkinlik",
-      "organizer": "İstanbul Atlas Rotary Kulübü, Kadıköy Belediyesi",
+      "organizer": "İstanbul Atlas Rotary Kulübü, ",
       "contact": {
         "phone": "+90 542 295 79 90",
         "website": "https://atlasrotary.org"
       },
       "location": {
-        "address": "",
-        "mapEmbedSrc": ""
+        "address": "Ataşehir Golf Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.5784334292953!2d29.1365074858636!3d40.9907110974888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf547d99b3a1%3A0x88d9171a1b791ee6!2zQXRhxZ9laGlyIEdvbGYgS3Vsw7xiw7w!5e0!3m2!1str!2str!4v1777842529536!5m2!1str!2str" 
       },
-      "heroImage": "images/etkinlikler/konuk-konusmacili-1.jpg",
-      "gallery": ["images/etkinlikler/konuk-konusmacili-1.jpg", "images/etkinlikler/konuk-konusmacili-2.jpg", "images/etkinlikler/konuk-konusmacili-3.jpg"],
+      "heroImage": "images/etkinlikler/31-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/31-Mart/01.jpg",
+                 "images/etkinlikler/31-Mart/02.jpg", 
+                 "images/etkinlikler/31-Mart/03.jpg",
+                 "images/etkinlikler/31-Mart/04.jpg",
+                 "images/etkinlikler/31-Mart/05.jpg",
+                 "images/etkinlikler/31-Mart/06.jpg",
+                 "images/etkinlikler/31-Mart/07.jpg",
+                 "images/etkinlikler/31-Mart/08.jpg",
+                 "images/etkinlikler/31-Mart/09.jpg",
+                 "images/etkinlikler/31-Mart/10.jpg",
+                 "images/etkinlikler/31-Mart/11.jpg",
+                 "images/etkinlikler/31-Mart/12.jpg",
+                 "images/etkinlikler/31-Mart/13.jpg",
+                 "images/etkinlikler/31-Mart/14.jpg",
+                 "images/etkinlikler/31-Mart/15.jpg",
+                 "images/etkinlikler/31-Mart/16.jpg",
+                 "images/etkinlikler/31-Mart/17.jpg",
+                 "images/etkinlikler/31-Mart/18.jpg",
+                 "images/etkinlikler/31-Mart/19.jpg",
+                 "images/etkinlikler/31-Mart/20.jpg",
+                 "images/etkinlikler/31-Mart/21.jpg",
+                 "images/etkinlikler/31-Mart/22.jpg",
+                 "images/etkinlikler/31-Mart/23.jpg",
+                 "images/etkinlikler/31-Mart/24.jpg",
+                 "images/etkinlikler/31-Mart/25.jpg"],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+          "heading": "Konuk Konuşmacılı Toplantı, Asamble ve Yeni Üye Kabul Töreni",
           "paragraphs": [
-            "31.03.2026 tarihli kulübümüzün olağan toplantısında Asamble ve Üye Kabul Törenimizi gerçekleştirdik. Yeni değerli üyemiz Sevgili Serkan Rotary yeminini ederek aramıza katıldı. İlk üyelerimizden Sevgili Zeliha Amerika’da yaşadığından üye kabul töreni dün gerçekleşti. Toplantımızda konuk konuşmacımız GDG Gaye Binark Rotary Bölge 2420 Üyelik Ana Komitesi Komite Başkanı’ydı. Bizlere Rotary’de Üyelik sunumunu gerçekleştirdi. Tarım Rotary kulübünden Semra Demircan aramızdaydı."
+            "31 Mart 2026 tarihli olağan kulüp toplantımızda, Asamble toplantımız ile birlikte Yeni Üye Kabul Törenimizi gerçekleştirdik.",
+
+            "Bu anlamlı törende, yeni üyemiz Serkan Rotary yemini ederek aramıza katılmıştır. Ayrıca, yurt dışında ikamet eden ilk üyelerimizden Zeliha’nın üye kabul töreni de bu toplantı kapsamında gerçekleştirilmiştir.",
+
+            "Toplantımızın konuk konuşmacısı, Rotary Bölge 2420 Üyelik Ana Komitesi Başkanı GDG Gaye Binark olmuştur. Kendileri, Rotary’de üyelik süreçleri ve sürdürülebilir büyüme üzerine kapsamlı ve değerli bir sunum gerçekleştirmiştir.",
+
+            "Programımıza ayrıca Tarım Rotary Kulübü’nden Semra Demircan da katılım sağlamıştır.",
+
+            "Yeni üyelerimize Rotary ailemize hoş geldiniz diyor, katılımlarıyla toplantımıza değer katan tüm konuklarımıza teşekkür ediyoruz."
           ]
         }
       ],
@@ -2548,9 +2599,9 @@
         ]
       },
       "seo": {
-        "title": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
-        "description": "İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
-        "keywords": ["İstanbul Atlas Rotary Kulübü Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni"]
+        "title": "Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+        "description": "Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni",
+        "keywords": ["Konuk Konuşmacılı Toplantı Asamble ve Yeni Üye Kabul Töreni"]
       }
     },
     {
@@ -2574,13 +2625,31 @@
         "address": "",
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.547735478557!2d100.53922897691368!3d13.74580938664552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ec54c5b9045%3A0x40ac612eb0ee02d8!2sRotary%20Club%20of%20Bangkok%20Foundation!5e0!3m2!1str!2str!4v1777622567880!5m2!1str!2str width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade"
       },
-      "heroImage": "images/etkinlikler/19-aralik2.png",
-      "gallery": ["images/etkinlikler/19-aralik2.png", "images/etkinlikler/19-aralik1.png", "images/etkinlikler/19-aralik3.jpg"],
+      "heroImage": "images/etkinlikler/19-Aralik/01.jpeg",
+      "gallery": [
+        "images/etkinlikler/19-Aralik/01.jpeg",
+        "images/etkinlikler/19-Aralik/02.jpeg",
+        "images/etkinlikler/19-Aralik/03.jpeg",
+        "images/etkinlikler/19-Aralik/04.jpeg",
+        "images/etkinlikler/19-Aralik/05.jpeg",
+        "images/etkinlikler/19-Aralik/06.jpeg",
+        "images/etkinlikler/19-Aralik/07.jpeg",
+        "images/etkinlikler/19-Aralik/08.jpeg",
+        "images/etkinlikler/19-Aralik/09.jpeg",
+        "images/etkinlikler/19-Aralik/10.jpeg",
+        "images/etkinlikler/19-Aralik/11.jpeg",
+        "images/etkinlikler/19-Aralik/12.jpeg"
+      ],
 
       "content": [
         {
-          "heading": "İstanbul Atlas Rotary Kulübü Rotary Club Bangkok DACH Ziyareti - Thailand",
-          "paragraphs": [" Aralık Ayı’nın 19.12.2025 tarihinde üyelerimiz Mehmet Zeki Kanadıkırık Bangkok South Rotary Club Kulübünü ziyaret ederek Uluslararası Rotary dostluğuna güzel bir örnek sundu. 7 Ağustos 1961'de kurulan Bangkok South Rotary Kulübünün yılın son toplantısı gerçekleşmiştir."]
+          "heading": "Rotary Club Bangkok DACH Ziyareti | Tayland",
+          "paragraphs": [
+            " 19 Aralık 2025 tarihinde, İstanbul Atlas Rotary Kulübü üyemiz Mehmet Zeki Kanadıkırık, Bangkok South Rotary Kulübü’nü ziyaret ederek uluslararası Rotary dayanışması ve dostluğunun güçlü bir örneğini sergilemiştir.",
+            "7 Ağustos 1961 tarihinde kurulan Bangkok South Rotary Kulübü’nün yılın son toplantısına gerçekleştirilen bu anlamlı ziyaret, kulüpler arası etkileşimi güçlendirirken, farklı coğrafyalardaki Rotary üyeleri arasında bilgi ve deneyim paylaşımına da katkı sağlamıştır.",
+
+            "Uluslararası bağların pekiştirilmesine yönelik bu değerli temasın, Rotary ruhunu daha geniş bir perspektifte yaşatma hedefimize önemli bir katkı sunduğuna inanıyoruz."
+          ]
         },
 
         {
@@ -2675,41 +2744,46 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.040441571722!2d29.036575377343063!3d40.98059527135445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab87c3a0961a7%3A0x20f4d1846aae9200!2zxLDFnyBCYW5rYXPEsSBLYWxhbcSxxZ8gTG9rYWxp!5e0!3m2!1str!2str!4v1777737520830!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/10-Subat/01.jpeg",
-      "gallery": ["images/etkinlikler/10-Subat/01.jpeg", 
-                  "images/etkinlikler/10-Subat/01a.jpeg", 
-                  "images/etkinlikler/10-Subat/02.jpeg",
-                  "images/etkinlikler/10-Subat/03.jpeg",
-                  "images/etkinlikler/10-Subat/04.jpeg",
-                  "images/etkinlikler/10-Subat/05.jpeg",
-                  "images/etkinlikler/10-Subat/06.jpeg",
-                  "images/etkinlikler/10-Subat/07.jpeg",
-                  "images/etkinlikler/10-Subat/08.jpeg",
-                  "images/etkinlikler/10-Subat/09.jpeg",
-                  "images/etkinlikler/10-Subat/10.jpeg",
-                  "images/etkinlikler/10-Subat/11.jpeg",
-                  "images/etkinlikler/10-Subat/12.jpeg",
-                  "images/etkinlikler/10-Subat/13.jpeg",
-                  "images/etkinlikler/10-Subat/14.jpeg",
-                  "images/etkinlikler/10-Subat/15.jpeg",
-                  "images/etkinlikler/10-Subat/16.jpeg",
-                  "images/etkinlikler/10-Subat/17.jpeg",
-                  "images/etkinlikler/10-Subat/18.jpeg",
-                  "images/etkinlikler/10-Subat/19.jpeg",
-                  "images/etkinlikler/10-Subat/20.jpeg",
-                  "images/etkinlikler/10-Subat/21.jpeg",
-                  "images/etkinlikler/10-Subat/22.jpeg",
-                  "images/etkinlikler/10-Subat/23.jpeg",
-                  "images/etkinlikler/10-Subat/24.jpeg",
-                  "images/etkinlikler/10-Subat/25.jpeg",
-                  "images/etkinlikler/10-Subat/26.jpeg",
-                  "images/etkinlikler/10-Subat/27.jpeg"],
+      "gallery": [
+        "images/etkinlikler/10-Subat/01.jpeg",
+        "images/etkinlikler/10-Subat/01a.jpeg",
+        "images/etkinlikler/10-Subat/02.jpeg",
+        "images/etkinlikler/10-Subat/03.jpeg",
+        "images/etkinlikler/10-Subat/04.jpeg",
+        "images/etkinlikler/10-Subat/05.jpeg",
+        "images/etkinlikler/10-Subat/06.jpeg",
+        "images/etkinlikler/10-Subat/07.jpeg",
+        "images/etkinlikler/10-Subat/08.jpeg",
+        "images/etkinlikler/10-Subat/09.jpeg",
+        "images/etkinlikler/10-Subat/10.jpeg",
+        "images/etkinlikler/10-Subat/11.jpeg",
+        "images/etkinlikler/10-Subat/12.jpeg",
+        "images/etkinlikler/10-Subat/13.jpeg",
+        "images/etkinlikler/10-Subat/14.jpeg",
+        "images/etkinlikler/10-Subat/15.jpeg",
+        "images/etkinlikler/10-Subat/16.jpeg",
+        "images/etkinlikler/10-Subat/17.jpeg",
+        "images/etkinlikler/10-Subat/18.jpeg",
+        "images/etkinlikler/10-Subat/19.jpeg",
+        "images/etkinlikler/10-Subat/20.jpeg",
+        "images/etkinlikler/10-Subat/21.jpeg",
+        "images/etkinlikler/10-Subat/22.jpeg",
+        "images/etkinlikler/10-Subat/23.jpeg",
+        "images/etkinlikler/10-Subat/24.jpeg",
+        "images/etkinlikler/10-Subat/25.jpeg",
+        "images/etkinlikler/10-Subat/26.jpeg",
+        "images/etkinlikler/10-Subat/27.jpeg"
+      ],
 
       "content": [
         {
           "heading": "İstanbul Atlas Rotary Kulübü Toplantı ve Üye Kabul Töreni- Kalamış İş Bankası Lokali",
           "paragraphs": [
             " 10.02.2026 tarihinde kulübümüzün olağan toplantısı kapsamında Üye Kabul Törenimizi gerçekleştirdik. Bu anlamlı buluşmada, yeni üyelerimiz İmren Hacımustafa ve Bülent Sarıgül, Rotary ilkelerine bağlılıklarını ifade ederek yemin etmiş ve kulübümüze resmen katılmışlardır.",
-          "Tören, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş;", "kulübümüzün büyüyen yapısına değer katan bu katılımla birlikte birlik, dayanışma ve hizmet anlayışımız bir kez daha güçlenmiştir.", "Toplantı kapsamında ayrıca, üyemiz Mehmet Zeki Kanadıkırık, Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretleri sırasında kulüpler tarafından takdim edilen kulüp bayraklarını Başkanımız Saadet Garan’a sunmuştur.", "Tören ve toplantı, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş; kulübümüzün uluslararası bağları ve dayanışma ruhu bir kez daha güçlenmiştir."
+            "Tören, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş;",
+            "kulübümüzün büyüyen yapısına değer katan bu katılımla birlikte birlik, dayanışma ve hizmet anlayışımız bir kez daha güçlenmiştir.",
+            "Toplantı kapsamında ayrıca, üyemiz Mehmet Zeki Kanadıkırık, Bangkok South Rotary Club ve Rotary Club Bangkok DACH ziyaretleri sırasında kulüpler tarafından takdim edilen kulüp bayraklarını Başkanımız Saadet Garan’a sunmuştur.",
+            "Tören ve toplantı, üyelerimizin katılımıyla samimi ve coşkulu bir atmosferde gerçekleşmiş; kulübümüzün uluslararası bağları ve dayanışma ruhu bir kez daha güçlenmiştir."
           ]
         }
       ],
@@ -2991,44 +3065,46 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.4797807762466!2d28.985221977344906!3d41.036635971346726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab76534821173%3A0x4921da7bada2608!2zQXRhdMO8cmsgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777668989119!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/20-ocak/01.jpg",
-      "gallery": ["images/etkinlikler/20-ocak/01.jpg", 
-                  "images/etkinlikler/20-ocak/02.jpg", 
-                  "images/etkinlikler/20-ocak/03.jpg", 
-                  "images/etkinlikler/20-ocak/04.jpg",
-                  "images/etkinlikler/20-ocak/05.jpg",
-                  "images/etkinlikler/20-ocak/06.jpg",
-                  "images/etkinlikler/20-ocak/07.jpg",
-                  "images/etkinlikler/20-ocak/08.jpg",
-                  "images/etkinlikler/20-ocak/09.jpg",
-                  "images/etkinlikler/20-ocak/10.jpg",
-                  "images/etkinlikler/20-ocak/11.jpg",
-                  "images/etkinlikler/20-ocak/12.jpg",
-                  "images/etkinlikler/20-ocak/13.jpg",
-                  "images/etkinlikler/20-ocak/14.jpg",
-                  "images/etkinlikler/20-ocak/15.jpg",
-                  "images/etkinlikler/20-ocak/16.jpg",
-                  "images/etkinlikler/20-ocak/17.jpg",
-                  "images/etkinlikler/20-ocak/18.jpg",
-                  "images/etkinlikler/20-ocak/19.jpg",
-                  "images/etkinlikler/20-ocak/20.jpg",
-                  "images/etkinlikler/20-ocak/21.jpg",
-                  "images/etkinlikler/20-ocak/22.jpg",
-                  "images/etkinlikler/20-ocak/23.jpg",
-                  "images/etkinlikler/20-ocak/24.jpg",
-                  "images/etkinlikler/20-ocak/25.jpg",
-                  "images/etkinlikler/20-ocak/26.jpg",
-                  "images/etkinlikler/20-ocak/27.jpg",
-                  "images/etkinlikler/20-ocak/28.jpg",
-                  "images/etkinlikler/20-ocak/29.jpg",
-                  "images/etkinlikler/20-ocak/30.jpg",
-                  "images/etkinlikler/20-ocak/31.jpg",
-                  "images/etkinlikler/20-ocak/32.jpg",
-                  "images/etkinlikler/20-ocak/33.jpg",
-                  "images/etkinlikler/20-ocak/34.jpg",
-                  "images/etkinlikler/20-ocak/35.jpg",
-                  "images/etkinlikler/20-ocak/36.jpg",
-                  "images/etkinlikler/20-ocak/37.jpg",
-                  "images/etkinlikler/20-ocak/38.jpg"],
+      "gallery": [
+        "images/etkinlikler/20-ocak/01.jpg",
+        "images/etkinlikler/20-ocak/02.jpg",
+        "images/etkinlikler/20-ocak/03.jpg",
+        "images/etkinlikler/20-ocak/04.jpg",
+        "images/etkinlikler/20-ocak/05.jpg",
+        "images/etkinlikler/20-ocak/06.jpg",
+        "images/etkinlikler/20-ocak/07.jpg",
+        "images/etkinlikler/20-ocak/08.jpg",
+        "images/etkinlikler/20-ocak/09.jpg",
+        "images/etkinlikler/20-ocak/10.jpg",
+        "images/etkinlikler/20-ocak/11.jpg",
+        "images/etkinlikler/20-ocak/12.jpg",
+        "images/etkinlikler/20-ocak/13.jpg",
+        "images/etkinlikler/20-ocak/14.jpg",
+        "images/etkinlikler/20-ocak/15.jpg",
+        "images/etkinlikler/20-ocak/16.jpg",
+        "images/etkinlikler/20-ocak/17.jpg",
+        "images/etkinlikler/20-ocak/18.jpg",
+        "images/etkinlikler/20-ocak/19.jpg",
+        "images/etkinlikler/20-ocak/20.jpg",
+        "images/etkinlikler/20-ocak/21.jpg",
+        "images/etkinlikler/20-ocak/22.jpg",
+        "images/etkinlikler/20-ocak/23.jpg",
+        "images/etkinlikler/20-ocak/24.jpg",
+        "images/etkinlikler/20-ocak/25.jpg",
+        "images/etkinlikler/20-ocak/26.jpg",
+        "images/etkinlikler/20-ocak/27.jpg",
+        "images/etkinlikler/20-ocak/28.jpg",
+        "images/etkinlikler/20-ocak/29.jpg",
+        "images/etkinlikler/20-ocak/30.jpg",
+        "images/etkinlikler/20-ocak/31.jpg",
+        "images/etkinlikler/20-ocak/32.jpg",
+        "images/etkinlikler/20-ocak/33.jpg",
+        "images/etkinlikler/20-ocak/34.jpg",
+        "images/etkinlikler/20-ocak/35.jpg",
+        "images/etkinlikler/20-ocak/36.jpg",
+        "images/etkinlikler/20-ocak/37.jpg",
+        "images/etkinlikler/20-ocak/38.jpg"
+      ],
 
       "content": [
         {
@@ -3284,7 +3360,9 @@
           "heading": "Yönetim Kurulu Toplantısı",
           "paragraphs": [
             " Toplantımızı Monik Hanım’ın daveti üzerine Etiler Central Hospital’da gerçekleştirdik. Hem işyeri ziyareti hem de “Ülkesel Olanaklar Protokolü” yapıldı.",
-            "Tüm Rotaryen’lere ve ailelerine Central Hospital şubelerinde özel indirimler sağlandı.", "‘’Ülkesel Olanaklar’’ programının amacı çeşitli işyerleri ile Rotary’i biraraya getirmek, iş birliği sağlamak, birbirlerine sunulan imkanlardan yararlanabilmektir.", "GDG İlter Ergürbüz ile GDG Nezih Bayındır bizlerle birlikteydi."
+            "Tüm Rotaryen’lere ve ailelerine Central Hospital şubelerinde özel indirimler sağlandı.",
+            "‘’Ülkesel Olanaklar’’ programının amacı çeşitli işyerleri ile Rotary’i biraraya getirmek, iş birliği sağlamak, birbirlerine sunulan imkanlardan yararlanabilmektir.",
+            "GDG İlter Ergürbüz ile GDG Nezih Bayındır bizlerle birlikteydi."
           ]
         }
       ],
@@ -3300,6 +3378,63 @@
         "title": "Yönetim Kurulu Toplantısı  – İstanbul Atlas Rotary Kulübü",
         "description": "Yönetim Kurulu Toplantısı  – İstanbul Atlas Rotary Kulübü",
         "keywords": ["Yönetim Kurulu Toplantısı ", "İstanbul Atlas Rotary Kulübü"]
+      }
+    },
+    {
+      "id": 66,
+      "title": "Asambe’26",
+      "slug": "istanbul-atlas-rotary-kulubu-asambe26",
+      "status": "active",
+      "date": {
+        "day": "28",
+        "month": "Mart",
+        "year": "2026",
+        "time": "14:00 – 17:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul 2420 Bölge Rotary , ",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Ataşehir İnal Aydınoğlu Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.3416422963687!2d29.111929176011255!3d40.973999271355346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac774dfd45f57%3A0x4401b09e3808ab89!2zxLBuYWwgQXlkxLFub8SfbHUgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777836803842!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/28-Mart/01.jpg",
+      "gallery": ["images/etkinlikler/28-Mart/01.jpg",
+        "images/etkinlikler/28-Mart/02.jpg",
+        "images/etkinlikler/28-Mart/03.jpg",
+        "images/etkinlikler/28-Mart/04.jpg",
+        "images/etkinlikler/28-Mart/05.jpg",
+        "images/etkinlikler/28-Mart/06.jpg",
+        "images/etkinlikler/28-Mart/07.jpg",
+        "images/etkinlikler/28-Mart/08.jpg"      
+        ],
+
+      "content": [
+        {
+          "heading": "Asambe’26 – Ataşehir İnal Aydınoğlu Kültür Merkezi",
+          "paragraphs": [
+            "28 Mart 2026 tarihinde gerçekleştirilen Asambe’26’da, İstanbul Atlas Rotary Kulübü’nü temsilen, Gelecek Dönem Başkanımız Sayın Nur İstanbul’a kulüp bayrağımız takdim edilmiştir.",
+            "Bu anlamlı devir-teslim, yalnızca bir sembol olmanın ötesinde; Rotary’nin temel değerlerini, hizmet anlayışını ve sürdürülebilir iyilik vizyonunu geleceğe taşıyan güçlü bir iradenin ifadesidir. Kulüp bayrağımız, önümüzdeki dönemde gerçekleştirilecek projeler ve topluma katkı sağlayacak çalışmalar için ortak bir hedef ve birlik ruhunu temsil etmektedir.",
+            
+            "Bu önemli başlangıcın, yeni dönemde daha geniş kitlelere ulaşacak sosyal sorumluluk projelerine ve kalıcı etkilere vesile olacağına inanıyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "14:00 – 17:00" },
+          { "label": "Tarih", "value": "28 Mart 2026" },
+          { "label": "Kategori", "value": "Müzik, Dans, Defile, Gösteri" }
+        ]
+      },
+      "seo": {
+        "title": "Asambe’26 – Ataşehir İnal Aydınoğlu Kültür Merkezi",
+        "description": "Asambe’26 – Ataşehir İnal Aydınoğlu Kültür Merkezi",
+        "keywords": ["Asambe’26", "Ataşehir İnal Aydınoğlu Kültür Merkezi"]
       }
     }
   ]
