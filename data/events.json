@@ -3576,16 +3576,7 @@
         "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.3416422963687!2d29.111929176011255!3d40.973999271355346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac774dfd45f57%3A0x4401b09e3808ab89!2zxLBuYWwgQXlkxLFub8SfbHUgS8O8bHTDvHIgTWVya2V6aQ!5e0!3m2!1str!2str!4v1777836803842!5m2!1str!2str"
       },
       "heroImage": "images/etkinlikler/04-Nisan/01.jpg",
-      "gallery": [
-        "images/etkinlikler/04-Nisan/01.jpg",
-        "images/etkinlikler/04-Nisan/02.jpg",
-        "images/etkinlikler/04-Nisan/03.jpg",
-        "images/etkinlikler/04-Nisan/04.jpg",
-        "images/etkinlikler/04-Nisan/05.jpg",
-        "images/etkinlikler/04-Nisan/06.jpg",
-        "images/etkinlikler/04-Nisan/07.jpg",
-        "images/etkinlikler/04-Nisan/08.jpg"
-      ],
+      "gallery": ["images/etkinlikler/04-Nisan/01.jpg", "images/etkinlikler/04-Nisan/02.jpg", "images/etkinlikler/04-Nisan/03.jpg", "images/etkinlikler/04-Nisan/04.jpg"],
 
       "content": [
         {
@@ -3610,6 +3601,510 @@
         "title": "Rotary Bölge 2420 Vakıf Seminerine Katılım ",
         "description": "Rotary Bölge 2420 Vakıf Seminerine Katılım ",
         "keywords": ["Rotary Bölge 2420 Vakıf Seminerine Katılım "]
+      }
+    },
+    {
+      "id": 71,
+      "title": "Bir Aşk Hikayesi – Çiğdem Talu & Melih Kibar Konseri",
+      "slug": "bir-ask-hikayesi-cigdem-talu-melih-kibar-konseri",
+      "status": "active",
+      "date": {
+        "day": "07",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "14:00 – 17:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Caddebostan Kültür Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.6396802893787!2d29.062057477342776!3d40.96747167135628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1777889786777!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/07-Nisan/01.jpg",
+      "gallery": [
+        "images/etkinlikler/07-Nisan/01.jpg",
+        "images/etkinlikler/07-Nisan/02.jpg",
+        "images/etkinlikler/07-Nisan/03.jpg",
+        "images/etkinlikler/07-Nisan/04.jpg",
+        "images/etkinlikler/07-Nisan/05.jpg",
+        "images/etkinlikler/07-Nisan/06.jpg",
+        "images/etkinlikler/07-Nisan/07.jpg",
+        "images/etkinlikler/07-Nisan/08.jpg",
+        "images/etkinlikler/07-Nisan/09.jpg",
+        "images/etkinlikler/07-Nisan/10.jpg",
+        "images/etkinlikler/07-Nisan/11.jpg",
+        "images/etkinlikler/07-Nisan/12.jpg",
+        "images/etkinlikler/07-Nisan/13.jpg",
+        "images/etkinlikler/07-Nisan/14.jpg",
+        "images/etkinlikler/07-Nisan/15.jpg",
+        "images/etkinlikler/07-Nisan/16.jpg",
+        "images/etkinlikler/07-Nisan/17.jpg",
+        "images/etkinlikler/07-Nisan/18.jpg",
+        "images/etkinlikler/07-Nisan/19.jpg",
+        "images/etkinlikler/07-Nisan/20.jpg",
+        "images/etkinlikler/07-Nisan/21.jpg",
+        "images/etkinlikler/07-Nisan/22.jpg",
+        "images/etkinlikler/07-Nisan/23.jpg",
+        "images/etkinlikler/07-Nisan/24.jpg",
+        "images/etkinlikler/07-Nisan/25.jpg",
+        "images/etkinlikler/07-Nisan/26.jpg",
+        "images/etkinlikler/07-Nisan/27.jpg",
+        "images/etkinlikler/07-Nisan/28.jpg",
+        "images/etkinlikler/07-Nisan/29.jpg",
+        "images/etkinlikler/07-Nisan/30.jpg",
+        "images/etkinlikler/07-Nisan/31.jpg",
+        "images/etkinlikler/07-Nisan/32.jpg",
+        "images/etkinlikler/07-Nisan/33.jpg",
+        "images/etkinlikler/07-Nisan/34.jpg",
+        "images/etkinlikler/07-Nisan/35.jpg",
+        "images/etkinlikler/07-Nisan/36.jpg",
+        "images/etkinlikler/07-Nisan/37.jpg",
+        "images/etkinlikler/07-Nisan/38.jpg",
+        "images/etkinlikler/07-Nisan/39.jpg",
+        "images/etkinlikler/07-Nisan/40.jpg",
+        "images/etkinlikler/07-Nisan/41.jpg",
+        "images/etkinlikler/07-Nisan/42.jpg",
+        "images/etkinlikler/07-Nisan/43.jpg",
+        "images/etkinlikler/07-Nisan/44.jpg",
+        "images/etkinlikler/07-Nisan/45.jpg",
+        "images/etkinlikler/07-Nisan/46.jpg",
+        "images/etkinlikler/07-Nisan/47.jpg",
+        "images/etkinlikler/07-Nisan/48.jpg",
+        "images/etkinlikler/07-Nisan/49.jpg",
+        "images/etkinlikler/07-Nisan/50.jpg",
+        "images/etkinlikler/07-Nisan/51.jpg",
+        "images/etkinlikler/07-Nisan/52.jpg",
+        "images/etkinlikler/07-Nisan/53.jpg",
+        "images/etkinlikler/07-Nisan/54.jpg",
+        "images/etkinlikler/07-Nisan/55.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "Bir Aşk Hikayesi – Çiğdem Talu & Melih Kibar Konseri",
+          "paragraphs": [
+            "Üyelerimiz Özlem Abacı ve Nazik Alanbay yürütücülüğünde, 7 Nisan’da CKM sahnesinde gerçekleşen “Çiğdem Talu & Melih Kibar’ın konu alındığı ‘Bir Aşk Hikayesi’” konserinde; Türk pop müziğinin unutulmaz eserleri, hikâyeleriyle birlikte izleyiciyle buluştu. 120 dakika boyunca müzik ve anlatının iç içe geçtiği bu özel gece, izleyenlere hem duygusal hem de kültürel açıdan güçlü bir deneyim sundu.",
+            "Bu anlamlı etkinlik, yalnızca bir konser olmanın ötesinde; “Orada Bir Okul Var Uzakta” projemize katkı sağlayan değerli bir dayanışma örneği oldu. Proje kapsamında, Oğlakören Ortaokulu’nda kurulacak çok amaçlı sınıf ile öğrenciler; etüt çalışmaları yapabilecekleri, kitap okuyabilecekleri, kültür ve sanat faaliyetlerine katılabilecekleri nitelikli bir eğitim ortamına kavuşacak.",
+            "Kurulacak bu alan; eğitim materyalleri, kütüphane, akıllı öğrenme araçları ve yaratıcı atölye ekipmanlarıyla desteklenerek öğrencilerin hem akademik hem de sosyal gelişimlerine katkı sağlayacak.",
+
+            "Bu özel gecede elde edilen gelir, Oğlakören Ortaokulu’ndaki çok amaçlı sınıfın donatılması ve sürdürülebilir bir şekilde işletilmesi için kullanılacak. Böylece, sanatın birleştirici gücüyle eğitime dokunmaya, geleceğe değer katmaya devam ediyoruz.",
+            "Sanatın birleştirici gücüyle eğitime dokunmaya, geleceğe değer katmaya devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "14:00 – 17:00" },
+          { "label": "Tarih", "value": "07 Nisan 2026" },
+          { "label": "Kategori", "value": ",Tiyatro Müzik, Dans," }
+        ]
+      },
+      "seo": {
+        "title": "Bir Aşk Hikayesi – Çiğdem Talu & Melih Kibar Konseri",
+        "description": "Bir Aşk Hikayesi – Çiğdem Talu & Melih Kibar Konseri",
+        "keywords": ["Bir Aşk Hikayesi – Çiğdem Talu & Melih Kibar Konseri"]
+      }
+    },
+    {
+      "id": 72,
+      "title": "Kadıköy Belediyesi Ziyareti",
+      "slug": "kadikoy-belediyesi-ziyareti",
+      "status": "active",
+      "date": {
+        "day": "08",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "14:00 – 17:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Belediyesi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.6396802893787!2d29.062057477342776!3d40.96747167135628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7743f173ccf%3A0x38392b73f79e1093!2sCaddebostan%20K%C3%BClt%C3%BCr%20Merkezi%20(CKM)!5e0!3m2!1str!2str!4v1777889786777!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/08-Nisan/01.jpg",
+      "gallery": ["images/etkinlikler/08-Nisan/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Kadıköy Belediyesi Ziyareti",
+          "paragraphs": [
+            "8 Nisan’da Kadıköy Belediyesi’ne yapılan ziyaret, toplumun önemli bir parçası olan belediyelerin hizmetlerini daha iyi anlamamızı ve desteklememizi sağladı. Ziyaret sırasında belediye çalışanları ile görüşmeler yapıldı ve belediye hizmetlerinin nasıl yürütüldüğü hakkında bilgi alındı.",
+            "Bu ziyaret, toplumun gelişimine katkıda bulunmak için önemli bir adımdır. Belediyelerin rolleri ve hizmetleri konusunda daha fazla bilgi edinerek, toplumun ihtiyaçlarını daha iyi karşılayabileceğiz.",
+            "Kadıköy Belediyesi’ne gerçekleştirdiğimiz nazik ziyarette, yerel yönetim ile sivil toplum arasındaki iş birliğinin önemini bir kez daha vurgulama fırsatı bulduk.",
+            "Topluma değer katmayı hedefleyen projeler, sosyal sorumluluk çalışmaları ve sürdürülebilir fayda yaratma vizyonu üzerine verimli bir görüşme gerçekleştirdik. Karşılıklı fikir alışverişiyle şekillenen bu buluşma, önümüzdeki dönemde hayata geçirilebilecek ortak çalışmalar için güçlü bir zemin oluşturdu.",
+            "Yerel yönetimler ile kurulan bu tür yapıcı diyalogların, daha kapsayıcı ve etkili projelere kapı aralayacağına inanıyoruz.",
+            "Nazik ev sahiplikleri için Kadıköy Belediyesi’ne teşekkür ederiz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "14:00 – 17:00" },
+          { "label": "Tarih", "value": "08 Nisan 2026" },
+          { "label": "Kategori", "value": ",Tiyatro Müzik, Dans," }
+        ]
+      },
+      "seo": {
+        "title": "Kadıköy Belediyesi Ziyareti",
+        "description": "Kadıköy Belediyesi Ziyareti",
+        "keywords": ["Kadıköy Belediyesi Ziyareti"]
+      }
+    },
+    {
+      "id": 73,
+      "title": "Toplumsal Eğitimler | Staj & İş Olanakları | Çevre Eğitimi",
+      "slug": "toplumsal-egitimler-staj-ve-is-olanaklari-cevre-egitimi",
+      "status": "active",
+      "date": {
+        "day": "08",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "11:00 – 14:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "İPA Şehir Okulları",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24825.7126275164!2d28.821827700290218!3d40.963683625751464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa3cc4048088b%3A0xdde12606963ce2f1!2zxLBzdGFuYnVsIFBsYW5sYW1hIEFqYW5zxLEgxLBQQQ!5e0!3m2!1str!2str!4v1777891147608!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/08-Nisan-Et2/01.jpg",
+      "gallery": ["images/etkinlikler/08-Nisan-Et2/01.jpg", "images/etkinlikler/08-Nisan-Et2/02.jpg"],
+
+      "content": [
+        {
+          "heading": "Toplumsal Eğitimler | Staj & İş Olanakları | Çevre Eğitimi",
+          "paragraphs": [
+            "İPA Şehir Okulu |  08.04.2026",
+            "Zeynep Karabekir’in yürütücülüğünde, İPA Şehir Okulu’nun “Yaşam Alanlarının Geleceği” programı kapsamında gerçekleştirilen eğitimde; “Atık Bilinci ve Kentsel Tasarımda Yeri” konusu ele alındı.",
+            "Sürdürülebilirlik perspektifiyle şekillenen bu oturumda, İstanbul’daki geri dönüşüm süreçleri detaylı şekilde incelenirken; bireysel katkının önemi, atıkların kaynağında ayrıştırılması ve bu alanda geliştirilebilecek yenilikçi projeler üzerine kapsamlı değerlendirmeler yapıldı. Aynı zamanda geri dönüşümün kentsel tasarım üzerindeki etkisi, somut örnekler üzerinden tartışıldı.",
+            "20 kişilik gruptan 8 öğrencinin aktif katılım sağladığı eğitim, interaktif yapısıyla öne çıkarken; gençlerin hem çevresel farkındalıklarını artıran hem de iş hayatına yönelik bakış açılarını geliştiren verimli bir öğrenme deneyimi sundu.",
+            "Bu tür eğitimlerin, gençlerin çevre bilincini artırarak daha sürdürülebilir bir gelecek için aktif rol almalarını teşvik edeceğine inanıyoruz.",
+            "Geleceğin şehirlerini, bilinçli bireylerle birlikte inşa etmeye devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "11:00 – 14:00" },
+          { "label": "Tarih", "value": "08 Nisan 2026" },
+          { "label": "Kategori", "value": ",Tiyatro Müzik, Dans," }
+        ]
+      },
+      "seo": {
+        "title": "Toplumsal Eğitimler | Staj & İş Olanakları | Çevre Eğitimi",
+        "description": "Toplumsal Eğitimler | Staj & İş Olanakları | Çevre Eğitimi",
+        "keywords": ["Toplumsal Eğitimler | Staj & İş Olanakları | Çevre Eğitimi"]
+      }
+    },
+    {
+      "id": 74,
+      "title": "Yönetim Kurulu Toplantısı",
+      "slug": "yonetim-kurulu-toplantisi-2",
+      "status": "active",
+      "date": {
+        "day": "13",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "17:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Büyük Kulüp",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.562753460548!2d29.047603895637316!3d40.96915659750001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac77941ffbcfb%3A0xcdc91cd4f0a48964!2zQsO8ecO8ayBLdWzDvHAgRGVybmXEn2k!5e0!3m2!1str!2str!4v1777891534950!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/13-Nisan/01.jpg",
+      "gallery": ["images/etkinlikler/13-Nisan/01.jpg"],
+
+      "content": [
+        {
+          "heading": "Yönetim Kurulu Toplantısı",
+          "paragraphs": [
+            "Kulübümüzün Yönetim Kurulu Toplantısı’nı verimli ve odaklı bir şekilde gerçekleştirdik. Önümüzdeki dönem projeleri, devam eden çalışmalar ve kulübümüzün stratejik öncelikleri detaylı olarak ele alındı.",
+            "Toplantı boyunca; sürdürülebilir etki yaratacak projeler, topluma katkı sağlayacak yeni iş birlikleri ve kulüp içi gelişimi destekleyecek adımlar üzerine kapsamlı değerlendirmelerde bulunuldu. Alınan kararlarla birlikte, önümüzdeki dönemin yol haritası daha da netleşti.",
+            "Yönetim Kurulu üyelerimizin aktif katılımı ve değerli katkılarıyla, kulübümüzün vizyonunu gerçekleştirmek için güçlü bir temel oluşturduk.",
+            "Ortak akıl ve güçlü ekip ruhuyla, daha fazla fayda üretmek için çalışmalarımıza kararlılıkla devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "17:00 – 22:00" },
+          { "label": "Tarih", "value": "13 Nisan 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
+        ]
+      },
+      "seo": {
+        "title": "Yönetim Kurulu Toplantısı",
+        "description": "Yönetim Kurulu Toplantısı",
+        "keywords": ["Yönetim Kurulu Toplantısı"]
+      }
+    },
+    {
+      "id": 75,
+      "title": "GELECEĞE IŞIK TUTAN ANNELER Projesi ",
+      "slug": "gelecege-isik-tutan-anneler-projesi",
+      "status": "active",
+      "date": {
+        "day": "13",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "17:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Özel Pendik Bölge Hastanesi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3016.502606497479!2d29.243384277453536!3d40.88278857136859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cadca795b4f7fb%3A0x78785f8cfb89ca0c!2s%C3%96zel%20Pendik%20B%C3%B6lge%20Hastanesi!5e0!3m2!1str!2str!4v1777893168577!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/13-Nisan-Et2/01.jpg",
+      "gallery": [
+        "images/etkinlikler/13-Nisan-Et2/01.jpg",
+        "images/etkinlikler/13-Nisan-Et2/02.jpg",
+        "images/etkinlikler/13-Nisan-Et2/03.jpg",
+        "images/etkinlikler/13-Nisan-Et2/04.jpg",
+        "images/etkinlikler/13-Nisan-Et2/05.jpg",
+        "images/etkinlikler/13-Nisan-Et2/06.jpg",
+        "images/etkinlikler/13-Nisan-Et2/07.jpg",
+        "images/etkinlikler/13-Nisan-Et2/08.jpg",
+        "images/etkinlikler/13-Nisan-Et2/09.jpg",
+        "images/etkinlikler/13-Nisan-Et2/10.jpg",
+        "images/etkinlikler/13-Nisan-Et2/11.jpg",
+        "images/etkinlikler/13-Nisan-Et2/12.jpg",
+        "images/etkinlikler/13-Nisan-Et2/13.jpg",
+        "images/etkinlikler/13-Nisan-Et2/14.jpg",
+        "images/etkinlikler/13-Nisan-Et2/15.jpg",
+        "images/etkinlikler/13-Nisan-Et2/16.jpg",
+        "images/etkinlikler/13-Nisan-Et2/17.jpg",
+        "images/etkinlikler/13-Nisan-Et2/18.jpg",
+        "images/etkinlikler/13-Nisan-Et2/19.jpg",
+        "images/etkinlikler/13-Nisan-Et2/20.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "GELECEĞE IŞIK TUTAN ANNELER Projesi ",
+          "paragraphs": [
+            "Anne ve Bebek Sağlığı Vakfı ile Özel Pendik Bölge Hastanesi iş birliğinde hayata geçirilen “Geleceğe Işık Tutan Anneler” projesi, yoğun katılım ve güçlü bir etkileşimle gerçekleştirildi.",
+            "Prematüre ve 0–1 yaş arası bebek sahibi annelerin yaşadığı zorluklara destek olmayı amaçlayan bu özel programda; alanında uzman isimler bilgi ve deneyimlerini paylaşırken, annelere yönelik kısa bir meditasyon çalışmasıyla da duygusal dayanıklılık desteklendi.",
+            "Eğitmen ve danışman Ebru Demirhan, opera sanatçısı ve müzik eğitmeni Nazik Alanbay, profesyonel koç Selcan Arslan, eğitmen Esra Çıtak Güvenen ve yoga eğitmeni Esma Altay’ın katkılarıyla gerçekleşen program; annelerin hem psikolojik hem de sosyal olarak güçlenmesine yönelik kapsamlı bir farkındalık alanı sundu.",
+            "Projenin yürütücüsü Uzm. Dr. Nur Topçu’nun da vurguladığı gibi; annelerin güçlenmesi, yalnızca bireysel değil, toplumsal iyilik halinin de temelini oluşturuyor. Bu doğrultuda geliştirilen destek modelleri, sürdürülebilir sağlık yaklaşımının önemli bir parçası olarak öne çıkıyor.",
+            "✨ Annelerin yanında olarak, geleceğe daha güçlü bireyler yetişmesine katkı sunmaya devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "12:00 – 14:00" },
+          { "label": "Tarih", "value": "13 Nisan 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
+        ]
+      },
+      "seo": {
+        "title": "GELECEĞE IŞIK TUTAN ANNELER Projesi ",
+        "description": "GELECEĞE IŞIK TUTAN ANNELER Projesi ",
+        "keywords": ["GELECEĞE IŞIK TUTAN ANNELER Projesi "]
+      }
+    },
+    {
+      "id": 76,
+      "title": "Konuk Konuşmacılı Olağan Toplantı",
+      "slug": "konuk-konusmacili-olagan-toplanti-2",
+      "status": "active",
+      "date": {
+        "day": "14",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "19:00 – 21:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Ataşehir Golf Kulübü",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.5784334292953!2d29.1365074858636!3d40.9907110974888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf547d99b3a1%3A0x88d9171a1b791ee6!2zQXRhxZ9laGlyIEdvbGYgS3Vsw7xiw7w!5e0!3m2!1str!2str!4v1777893917456!5m2!1str!2str" 
+      },
+      "heroImage": "images/etkinlikler/14-Nisan/01.jpg",
+      "gallery": ["images/etkinlikler/14-Nisan/01.jpg",
+        "images/etkinlikler/14-Nisan/02.jpg",
+        "images/etkinlikler/14-Nisan/03.jpg",
+        "images/etkinlikler/14-Nisan/04.jpg",
+        "images/etkinlikler/14-Nisan/05.jpg",
+        "images/etkinlikler/14-Nisan/06.jpg",
+        "images/etkinlikler/14-Nisan/07.jpg",
+        "images/etkinlikler/14-Nisan/08.jpg",
+        "images/etkinlikler/14-Nisan/09.jpg",
+        "images/etkinlikler/14-Nisan/10.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "Konuk Konuşmacılı Olağan Toplantı",
+          "paragraphs": [
+            "Kulübümüzün Konuk Konuşmacılı Olağan Toplantısı’nı, alanında uzman konuk konuşmacımızın katkılarıyla verimli ve farkındalık yaratan bir şekilde gerçekleştirdik.",
+            "Uzman Klinik Psikolog tarafından sunulan “Akran Zorbalığı” konusu; günümüzün önemli sosyal meselelerinden biri olarak kapsamlı bir bakış açısıyla ele alındı. Sunumda zorbalığın nedenleri, etkileri ve önlenmesine yönelik çözüm yolları detaylı şekilde paylaşıldı.",
+            "Toplantımızda ayrıca Erenköy Rotaract Kulübü’nden Tuna Kıymetli’nin katılımı, kuşaklar arası etkileşim ve ortak öğrenme açısından değerli bir katkı sağladı.",
+            "Bilgi paylaşımı ve ortak akıl ile toplumsal sorunlara daha bilinçli ve sürdürülebilir çözümler üretmek için çalışmalarımıza kararlılıkla devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "17:00 – 22:00" },
+          { "label": "Tarih", "value": "13 Nisan 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
+        ]
+      },
+      "seo": {
+        "title": "Konuk Konuşmacılı Olağan Toplantı ",
+        "description": "Konuk Konuşmacılı Olağan Toplantı",
+        "keywords": ["Konuk Konuşmacılı Olağan Toplantı"]
+      }
+    },
+    {
+      "id": 77,
+      "title": "Ortak Toplantı - MEDAT Kapsamında Toprağa Değer Katan Rotaryenler Buluşuyor",
+      "slug": "medat-topraga-deger-katan-rotaryenler",
+      "status": "active",
+      "date": {
+        "day": "22",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "19:00 – 21:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Online",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/22-Nisan/01.jpg",
+      "gallery": [
+        "images/etkinlikler/22-Nisan/01.jpg",
+        "images/etkinlikler/22-Nisan/02.jpg",
+        "images/etkinlikler/22-Nisan/03.jpg",
+        "images/etkinlikler/22-Nisan/04.jpg",
+        "images/etkinlikler/22-Nisan/05.jpg",
+        "images/etkinlikler/22-Nisan/06.jpg",
+        "images/etkinlikler/22-Nisan/07.jpg",
+        "images/etkinlikler/22-Nisan/08.jpg",
+        "images/etkinlikler/22-Nisan/09.jpg",
+        "images/etkinlikler/22-Nisan/10.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "Ortak Toplantı – MEDAT Kapsamında Toprağa Değer Katan Rotaryenler Buluşuyor",
+          "paragraphs": [
+            "MEDAT (Mesleki Dayanışma Toplantıları) kapsamında düzenlenen çevrim içi ortak toplantıda, farklı kulüplerden Rotaryenlerle bir araya gelerek bilgi ve deneyim paylaşımında bulunduk.",
+            "Toplantı boyunca; sürdürülebilir tarım, yenilikçi uygulamalar ve sahadan edinilen tecrübeler üzerine kapsamlı değerlendirmeler yapılırken, tarımsal üretimde verimlilik ve çevresel sürdürülebilirlik konuları çok yönlü ele alındı.",
+            "Ortak projeler geliştirme fırsatlarının değerlendirildiği bu buluşma, disiplinler arası iş birliğini güçlendiren ve topluma katkı sağlayacak üretim modellerine zemin hazırlayan verimli bir platform sundu.",
+            "Dijital ortamda kurulan bu güçlü etkileşim sayesinde, bilgi paylaşımını artırarak daha sürdürülebilir ve etkili çözümler üretme yolunda önemli bir adım attık."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "17:00 – 22:00" },
+          { "label": "Tarih", "value": "13 Nisan 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
+        ]
+      },
+      "seo": {
+        "title": "Ortak Toplantı - MEDAT Kapsamında Toprağa Değer Katan Rotaryenler Buluşuyor ",
+        "description": "Ortak Toplantı - MEDAT Kapsamında Toprağa Değer Katan Rotaryenler Buluşuyor",
+        "keywords": ["Ortak Toplantı - MEDAT Kapsamında Toprağa Değer Katan Rotaryenler Buluşuyor"]
+      }
+    },
+    {
+      "id": 78,
+      "title": "İş Yeri Ziyareti (Tasarlayolla Mobilya E Ticaret ve İç Mimarlık)",
+      "slug": "is-yeri-ziyareti-tasarlayolla-mobilya-e-ticaret-ve-ic-mimarlik",
+      "status": "active",
+      "date": {
+        "day": "23",
+        "month": "Nisan",
+        "year": "2026",
+        "time": "19:00 – 21:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Tasarlayolla Mobilya E Ticaret ve İç Mimarlık",
+        "mapEmbedSrc": ""
+      },
+      "heroImage": "images/etkinlikler/23-Nisan/01.jpg",
+      "gallery": [
+        "images/etkinlikler/23-Nisan/01.jpg",
+        "images/etkinlikler/23-Nisan/02.jpg",
+        "images/etkinlikler/23-Nisan/03.jpg",
+        "images/etkinlikler/23-Nisan/04.jpg",
+        "images/etkinlikler/23-Nisan/05.jpg"
+        
+      ],
+
+      "content": [
+        {
+          "heading": "İş Yeri Ziyareti (Tasarlayolla Mobilya E Ticaret ve İç Mimarlık)",
+          "paragraphs": [
+            "Kulübümüzün Konuk Konuşmacılı Olağan Toplantısı’nı, alanında uzman konuk konuşmacımızın katkılarıyla verimli ve farkındalık yaratan bir şekilde gerçekleştirdik.",
+            "Uzman Klinik Psikolog tarafından sunulan “Akran Zorbalığı” konusu; günümüzün önemli sosyal meselelerinden biri olarak kapsamlı bir bakış açısıyla ele alındı. Sunumda zorbalığın nedenleri, etkileri ve önlenmesine yönelik çözüm yolları detaylı şekilde paylaşıldı.",
+            "Toplantımızda ayrıca Erenköy Rotaract Kulübü’nden Tuna Kıymetli’nin katılımı, kuşaklar arası etkileşim ve ortak öğrenme açısından değerli bir katkı sağladı.",
+            "Bilgi paylaşımı ve ortak akıl ile toplumsal sorunlara daha bilinçli ve sürdürülebilir çözümler üretmek için çalışmalarımıza kararlılıkla devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "15:00 – 16:00" },
+          { "label": "Tarih", "value": "23 Nisan 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Eğitim" }
+        ]
+      },
+      "seo": {
+        "title": "İş Yeri Ziyareti (Tasarlayolla Mobilya E Ticaret ve İç Mimarlık) ",
+        "description": "İş Yeri Ziyareti (Tasarlayolla Mobilya E Ticaret ve İç Mimarlık) ",
+        "keywords": ["İş Yeri Ziyareti (Tasarlayolla Mobilya E Ticaret ve İç Mimarlık)"]
       }
     }
   ]
