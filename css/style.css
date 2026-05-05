@@ -5440,7 +5440,7 @@ a:hover {
   display: flex;
   gap: 8px;
   margin-top: 10px;
-  overflow-x: auto;
+  /* overflow-x: auto; */
   padding: 6px 0;
 }
 
@@ -5503,7 +5503,7 @@ a:hover {
     z-index: 1;
     gap: 8px;
     margin-top: 12px;
-    overflow-x: auto;
+    /* overflow-x: auto; */
     padding: 0 0 4px;
     -webkit-overflow-scrolling: touch;
   }
