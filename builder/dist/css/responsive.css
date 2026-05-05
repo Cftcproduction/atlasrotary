@@ -1128,4 +1128,38 @@
     height: 100% !important;
     object-fit: cover !important;
   }
+
+  /* Final safety override for very small viewports (fixes hidden thumbs at 480px) */
+  @media (max-width: 480px) {
+    .event-gallery {
+      overflow: visible !important;
+      max-height: none !important;
+    }
+
+    .event-gallery-thumbs {
+      display: flex !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+      position: relative !important;
+      width: 100% !important;
+      height: auto !important;
+      gap: 8px !important;
+      overflow-x: auto !important;
+      padding: 6px 0 8px !important;
+      margin-top: 8px !important;
+      justify-content: flex-start !important;
+      -webkit-overflow-scrolling: touch !important;
+    }
+
+    .event-gallery-thumbs::-webkit-scrollbar {
+      display: none;
+    }
+
+    .event-gallery-thumb {
+      display: block !important;
+      flex: 0 0 56px !important;
+      width: 56px !important;
+      height: 36px !important;
+    }
+  }
 }
