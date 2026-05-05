@@ -17,7 +17,8 @@
   <link rel="icon" href="/images/favicon.png" />
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
   <link rel="stylesheet" href="/css/animate.min.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+  <link rel="stylesheet" href="/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
   <link rel="stylesheet" href="/css/magnific-popup.css" />
   <link rel="stylesheet" href="/css/style.css" />
   <link rel="stylesheet" href="/css/responsive.css" />
@@ -129,16 +130,8 @@
           <div class="blog-content">
             <div class="blog-item">
               <div class="blog-img">
-                <div class="event-gallery fancybox-gallery">
-                  
-        <a
-          href="/images/etkinlikler/08-Nisan/01.jpg"
-          data-fancybox="event-kadikoy-belediyesi-ziyareti"
-          data-caption="Kadıköy Belediyesi Ziyareti"
-          class="event-gallery-item is-main"
-        >
-          <img src="/images/etkinlikler/08-Nisan/01.jpg" alt="Kadıköy Belediyesi Ziyareti" loading="lazy" />
-        </a>
+                <div class="event-gallery owl-carousel">
+                  <div class="item" data-dot='<img src="/images/etkinlikler/08-Nisan/01.jpg" alt="Kadıköy Belediyesi Ziyareti" />'><img src="/images/etkinlikler/08-Nisan/01.jpg" alt="Kadıköy Belediyesi Ziyareti" loading="lazy" /></div>
                 </div>
                 <span class="blog_tag">
                   <span class="date__num-text">08</span>
@@ -213,14 +206,11 @@
     <div class="container"><div class="row"><div class="col-lg-12"><div class="copyright-desc"><p>© CFTC BrandTech By <a href="https://www.cftcbrandtech.com/" target="_blank">cftcbrandtech.com</a></p></div></div></div></div>
   </div>
 </section>
-<div id="back-to-top" class="back-btn-shown" aria-label="Yukarı">
-  <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true" fill="#fff">
-    <path d="M12 5l7 7-1.4 1.4L13 8.8V20h-2V8.8L6.4 13.4 5 12z"></path>
-  </svg>
-</div>
+<div id="back-to-top"><i class="fa fa-angle-up" title="Go top"></i></div>
   
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
 <script src="/js/jquery.magnific-popup.min.js"></script>
 <script src="/js/jquery.waypoints.js"></script>
 <script src="/js/jquery.counterup.min.js"></script>
@@ -229,31 +219,33 @@
 <script src="/js/smooth-scrolling.js"></script>
 <script src="/js/wow.js"></script>
 <script src="/js/main.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.Fancybox) {
-      Fancybox.bind("[data-fancybox]", {
-        Thumbs: false
-      });
-    }
-  });
-</script>
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      Fancybox.bind("[data-fancybox]", {
-        Thumbs: false,
-        Toolbar: {
-          display: {
-            left: [],
-            middle: [],
-            right: ["close"]
-          }
-        }
+    $(function () {
+      const $gallery = $(".event-gallery");
+
+      if (!$gallery.length || !$.fn.owlCarousel) return;
+
+      const slideCount = $gallery.children().length;
+      const hasMultipleSlides = slideCount > 1;
+
+      $gallery.owlCarousel({
+        items: 1,
+        loop: hasMultipleSlides,
+        nav: false,
+        navText: ["", ""],
+        dots: hasMultipleSlides,
+        autoplay: hasMultipleSlides,
+        autoplayTimeout: 4000,
+        autoplayHoverPause: true
       });
+
+      $gallery.find(".owl-nav, .owl-prev, .owl-next").remove();
+
+      if (!hasMultipleSlides) {
+        $gallery.find(".owl-dots").remove();
+      }
     });
   </script>
-
 </body>
 
 </html>

@@ -230,6 +230,7 @@ const FOOTER = `
 const SCRIPTS = `
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
 <script src="/js/jquery.magnific-popup.min.js"></script>
 <script src="/js/jquery.waypoints.js"></script>
 <script src="/js/jquery.counterup.min.js"></script>
@@ -237,17 +238,7 @@ const SCRIPTS = `
 <script src="/js/lightbox.js"></script>
 <script src="/js/smooth-scrolling.js"></script>
 <script src="/js/wow.js"></script>
-<script src="/js/main.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    if (window.Fancybox) {
-      Fancybox.bind("[data-fancybox]", {
-        Thumbs: false
-      });
-    }
-  });
-</script>`;
+<script src="/js/main.js"></script>`;
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -344,23 +335,14 @@ function renderEventCards(events) {
 
 function renderGallery(event) {
   const images = Array.isArray(event.gallery) && event.gallery.length ? event.gallery : [event.heroImage].filter(Boolean);
-
+  // Wrap each image in a container and provide a data-dot attribute
+  // so Owl Carousel can use the image as a thumbnail in the dots area.
   return images
-    .map((src, index) => {
-      const image = escapeHtml(src);
-      const title = escapeHtml(event.title || "Etkinlik fotoğrafı");
-
-      return `
-        <a
-          href="/${image}"
-          data-fancybox="event-${safeSlug(event)}"
-          data-caption="${title}"
-          class="event-gallery-item ${index === 0 ? "is-main" : ""}"
-        >
-          <img src="/${image}" alt="${title}" loading="lazy" />
-        </a>`;
+    .map((src) => {
+      const thumb = `<img src=\"/${escapeHtml(src)}\" alt=\"${escapeHtml(event.title)}\" />`;
+      return `<div class="item" data-dot='${thumb}'>` + `<img src="/${escapeHtml(src)}" alt="${escapeHtml(event.title)}" loading="lazy" />` + `</div>`;
     })
-    .join("\n");
+    .join("\n                    ");
 }
 
 function renderContent(event) {
