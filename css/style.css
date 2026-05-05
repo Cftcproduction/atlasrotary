@@ -164,7 +164,7 @@ a:hover {
   background: #f7a50a;
   color: #fff;
   font-weight: 600;
-  letter-spacing: 1px;
+  /* letter-spacing: 1px; */
   padding: 0 30px 0 35px;
   line-height: 49px;
   position: relative;
