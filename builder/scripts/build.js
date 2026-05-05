@@ -394,26 +394,6 @@ function buildListPage(events, template) {
   });
   writeFile(path.join(DIST_DIR, "events", "index.html"), html);
   writeFile(path.join(DIST_DIR, "events.html"), html); // Eski linklerle uyumluluk için.
-  const monthMap = {
-    Ocak: 1,
-    Şubat: 2,
-    Mart: 3,
-    Nisan: 4,
-    Mayıs: 5,
-    Haziran: 6,
-    Temmuz: 7,
-    Ağustos: 8,
-    Eylül: 9,
-    Ekim: 10,
-    Kasım: 11,
-    Aralık: 12,
-  };
-
-  events.sort((a, b) => {
-    const dateA = new Date(a.date.year, monthMap[a.date.month] - 1, a.date.day);
-    const dateB = new Date(b.date.year, monthMap[b.date.month] - 1, b.date.day);
-    return dateB - dateA; // DESC (yeni → eski)
-  });
 }
 
 function buildDetailPages(events, template) {
@@ -506,6 +486,26 @@ function main() {
 
   const data = JSON.parse(read(DATA_FILE));
   const events = (data.events || []).filter((event) => event.status !== "draft" && event.status !== "passive");
+  const monthMap = {
+    Ocak: 1,
+    Şubat: 2,
+    Mart: 3,
+    Nisan: 4,
+    Mayıs: 5,
+    Haziran: 6,
+    Temmuz: 7,
+    Ağustos: 8,
+    Eylül: 9,
+    Ekim: 10,
+    Kasım: 11,
+    Aralık: 12,
+  };
+
+  events.sort((a, b) => {
+    const dateA = new Date(a.date.year, monthMap[a.date.month] - 1, a.date.day);
+    const dateB = new Date(b.date.year, monthMap[b.date.month] - 1, b.date.day);
+    return dateB - dateA; // yeni → eski
+  });
   const listTemplate = read(LIST_TEMPLATE);
   const detailTemplate = read(DETAIL_TEMPLATE);
 
