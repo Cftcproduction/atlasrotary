@@ -5407,3 +5407,122 @@ a:hover {
     border-radius: 10px;
   }
 }
+
+/* =====================================================
+   EVENTS SEARCH - desktop inline / mobile sticky bar
+   ===================================================== */
+.event-search-desktop {
+  display: flex !important;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 35px;
+  padding: 16px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.event-search-desktop .event-search-input {
+  width: 100%;
+  height: 52px;
+  padding: 0 18px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 15px;
+  outline: none;
+}
+
+.event-search-desktop .event-search-input:focus,
+.mobile-search-input:focus {
+  border-color: #f8b864;
+  box-shadow: 0 0 0 3px rgba(248, 184, 100, 0.18);
+}
+
+.event-search-button,
+.event-search-clear {
+  height: 52px;
+  padding: 0 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+}
+
+.event-search-button {
+  background: #f8b864;
+  color: #fff;
+}
+
+.event-search-clear {
+  background: #222;
+  color: #fff;
+}
+
+.mobile-search-bar {
+  display: none !important;
+}
+
+.event-search-result {
+  margin-bottom: 20px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #17458f;
+}
+
+/* Eski floating panel sistemini kesin kapatır */
+.floating-search-toggle,
+.event-search-panel {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  .event-search-desktop {
+    display: none !important;
+  }
+
+  .mobile-search-bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    display: flex !important;
+    align-items: center;
+    gap: 8px;
+    padding: 10px;
+    margin: 0 -15px 25px;
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 0 0 14px 14px;
+  }
+
+  .mobile-search-input {
+    width: 100%;
+    height: 46px;
+    min-width: 0;
+    padding: 0 14px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 14px;
+    outline: none;
+  }
+
+  .mobile-search-button {
+    height: 46px;
+    padding: 0 18px;
+    border: none;
+    border-radius: 10px;
+    background: #f8b864;
+    color: #fff;
+    font-weight: 800;
+    white-space: nowrap;
+  }
+
+  .event-search-result {
+    margin-bottom: 18px;
+    font-size: 14px;
+    text-align: center;
+  }
+}

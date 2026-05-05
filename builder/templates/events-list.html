@@ -38,27 +38,30 @@
 
   <section class="causes-area upcoming-event-area upcoming-event-area2">
     <div class="container">
-      <button type="button" id="floatingSearchToggle" class="floating-search-toggle">
-        Ara
-      </button>
-
-      <div id="eventSearchPanel" class="event-search-panel">
-        <div class="event-search-box">
-          <input type="text" id="eventSearchInput" class="event-search-input" placeholder="Etkinlik ara..."
-            autocomplete="off" />
-          <button type="button" id="eventSearchButton" class="event-search-button">
-            Ara
-          </button>
-          <button type="button" id="eventSearchClear" class="event-search-clear">
-            Temizle
-          </button>
-          <button type="button" id="eventSearchClose" class="event-search-close">
-            ×
-          </button>
-        </div>
+      <div class="event-search-desktop" role="search" aria-label="Etkinlik arama">
+        <input
+          type="text"
+          id="eventSearchInputDesktop"
+          class="event-search-input"
+          placeholder="Etkinlik ara..."
+          autocomplete="off"
+        />
+        <button type="button" id="eventSearchButtonDesktop" class="event-search-button">Ara</button>
+        <button type="button" id="eventSearchClearDesktop" class="event-search-clear">Temizle</button>
       </div>
 
-      <p id="eventSearchResult" class="event-search-result"></p>
+      <div class="mobile-search-bar" role="search" aria-label="Etkinlik arama">
+        <input
+          type="text"
+          id="eventSearchInputMobile"
+          class="mobile-search-input"
+          placeholder="Etkinlik ara..."
+          autocomplete="off"
+        />
+        <button type="button" id="eventSearchButtonMobile" class="mobile-search-button">Ara</button>
+      </div>
+
+      <p id="eventSearchResult" class="event-search-result" aria-live="polite"></p>
 
       <div class="row blog-content-wrap" id="eventList">
         {{EVENT_CARDS}}
@@ -71,12 +74,11 @@
   {{SCRIPTS}}
   <script>
     function normalizeTurkishText(text) {
-      return text
+      return String(text || "")
         .toLocaleLowerCase("tr-TR")
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .replace(/ı/g, "i")
-        .replace(/İ/g, "i")
         .replace(/ğ/g, "g")
         .replace(/ü/g, "u")
         .replace(/ş/g, "s")
@@ -86,37 +88,42 @@
     }
 
     document.addEventListener("DOMContentLoaded", function () {
-      const inputs = document.querySelectorAll(".event-search-input");
-      const searchButton = document.getElementById("eventSearchButton");
-      const clearButton = document.getElementById("eventSearchClear");
-      const closeButton = document.getElementById("eventSearchClose");
-      const toggleButton = document.getElementById("floatingSearchToggle");
-      const panel = document.getElementById("eventSearchPanel");
+      const desktopInput = document.getElementById("eventSearchInputDesktop");
+      const mobileInput = document.getElementById("eventSearchInputMobile");
+      const desktopButton = document.getElementById("eventSearchButtonDesktop");
+      const mobileButton = document.getElementById("eventSearchButtonMobile");
+      const clearButton = document.getElementById("eventSearchClearDesktop");
       const resultText = document.getElementById("eventSearchResult");
       const eventCards = document.querySelectorAll("#eventList > .col-lg-4");
 
-      function openSearchPanel() {
-        panel.classList.add("is-open");
-        setTimeout(function () {
-          input.focus();
-        }, 100);
+      function isMobileView() {
+        return window.matchMedia("(max-width: 767px)").matches;
       }
 
-      function closeSearchPanel() {
-        panel.classList.remove("is-open");
+      function getSearchValue() {
+        return isMobileView() ? mobileInput.value : desktopInput.value;
+      }
+
+      function syncInputs(value) {
+        desktopInput.value = value;
+        mobileInput.value = value;
       }
 
       function searchEvents() {
-        const query = normalizeTurkishText(inputs[0].value || inputs[1]?.value || "");
+        const rawValue = getSearchValue();
+        const query = normalizeTurkishText(rawValue);
+        let visibleCount = 0;
+
+        syncInputs(rawValue);
 
         eventCards.forEach(function (card) {
           const cardText = normalizeTurkishText(card.textContent);
+          const isMatch = !query || cardText.includes(query);
 
-          if (!query || cardText.includes(query)) {
-            card.style.display = "";
+          card.style.display = isMatch ? "" : "none";
+
+          if (isMatch) {
             visibleCount++;
-          } else {
-            card.style.display = "none";
           }
         });
 
@@ -127,31 +134,27 @@
         } else {
           resultText.textContent = "Aramanıza uygun etkinlik bulunamadı.";
         }
-
-        closeSearchPanel();
       }
 
-      toggleButton.addEventListener("click", openSearchPanel);
-      closeButton.addEventListener("click", closeSearchPanel);
-      searchButton.addEventListener("click", searchEvents);
-
-      input.addEventListener("keydown", function (event) {
-        if (event.key === "Enter") {
-          searchEvents();
-        }
-
-        if (event.key === "Escape") {
-          closeSearchPanel();
-        }
-      });
-
-      clearButton.addEventListener("click", function () {
-        input.value = "";
+      function clearSearch() {
+        syncInputs("");
         eventCards.forEach(function (card) {
           card.style.display = "";
         });
         resultText.textContent = "";
-        closeSearchPanel();
+      }
+
+      desktopButton.addEventListener("click", searchEvents);
+      mobileButton.addEventListener("click", searchEvents);
+      clearButton.addEventListener("click", clearSearch);
+
+      [desktopInput, mobileInput].forEach(function (input) {
+        input.addEventListener("keydown", function (event) {
+          if (event.key === "Enter") {
+            event.preventDefault();
+            searchEvents();
+          }
+        });
       });
     });
   </script>
