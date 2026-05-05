@@ -1761,7 +1761,7 @@
     }
 
     document.addEventListener("DOMContentLoaded", function () {
-      const input = document.getElementById("eventSearchInput");
+      const inputs = document.querySelectorAll(".event-search-input");
       const searchButton = document.getElementById("eventSearchButton");
       const clearButton = document.getElementById("eventSearchClear");
       const closeButton = document.getElementById("eventSearchClose");
@@ -1782,8 +1782,7 @@
       }
 
       function searchEvents() {
-        const query = normalizeTurkishText(input.value);
-        let visibleCount = 0;
+        const query = normalizeTurkishText(inputs[0].value || inputs[1]?.value || "");
 
         eventCards.forEach(function (card) {
           const cardText = normalizeTurkishText(card.textContent);
