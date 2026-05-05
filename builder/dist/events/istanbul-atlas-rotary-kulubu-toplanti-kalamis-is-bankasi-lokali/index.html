@@ -639,6 +639,45 @@
       });
     }
 
+    // Workaround: some mobile environments hide the thumbs pane by default.
+    // After Fancybox opens, try to force-show the thumbs container and
+    // scroll the active thumb into view. This checks multiple possible
+    // class name variants to be robust across versions / skins.
+    document.addEventListener('click', function (ev) {
+      const a = ev.target.closest && ev.target.closest('[data-fancybox]');
+      if (!a) return;
+
+      // Wait for Fancybox to open
+      setTimeout(function () {
+        try {
+          var inst = window.Fancybox && Fancybox.getInstance && Fancybox.getInstance();
+          if (!inst) return;
+
+          var container = inst && inst.$container ? inst.$container : document.body;
+          var selectors = ['.fancybox__thumbs', '.fancybox-thumbs', '.fancybox__thumbs-wrap', '.fancybox__thumbs-container'];
+          selectors.forEach(function (sel) {
+            var el = container.querySelector && container.querySelector(sel);
+            if (el) {
+              el.style.display = 'flex';
+              el.style.overflowX = 'auto';
+              el.style.webkitOverflowScrolling = 'touch';
+              el.style.justifyContent = 'center';
+              // ensure child thumbs visible
+              Array.prototype.slice.call(el.querySelectorAll('img')).forEach(function (img) {
+                img.style.opacity = '1';
+              });
+
+              // scroll active into view
+              var active = el.querySelector('.fancybox__thumb--active, .active');
+              if (active && active.scrollIntoView) active.scrollIntoView({ inline: 'center', behavior: 'smooth' });
+            }
+          });
+        } catch (err) {
+          // fail silently
+        }
+      }, 260);
+    }, false);
+
     document.querySelectorAll(".event-gallery-slider").forEach(function (slider) {
       const slides = slider.querySelectorAll(".event-gallery-slide");
       const thumbs = slider.querySelectorAll(".event-gallery-thumb");
