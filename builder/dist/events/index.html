@@ -120,16 +120,24 @@
 
   <section class="causes-area upcoming-event-area upcoming-event-area2">
     <div class="container">
+      <button type="button" id="floatingSearchToggle" class="floating-search-toggle">
+        Ara
+      </button>
 
-      <div class="event-search-box">
-        <input type="text" id="eventSearchInput" class="event-search-input" placeholder="Etkinlik ara..."
-          autocomplete="off" />
-        <button type="button" id="eventSearchButton" class="event-search-button">
-          Ara
-        </button>
-        <button type="button" id="eventSearchClear" class="event-search-clear">
-          Temizle
-        </button>
+      <div id="eventSearchPanel" class="event-search-panel">
+        <div class="event-search-box">
+          <input type="text" id="eventSearchInput" class="event-search-input" placeholder="Etkinlik ara..."
+            autocomplete="off" />
+          <button type="button" id="eventSearchButton" class="event-search-button">
+            Ara
+          </button>
+          <button type="button" id="eventSearchClear" class="event-search-clear">
+            Temizle
+          </button>
+          <button type="button" id="eventSearchClose" class="event-search-close">
+            ×
+          </button>
+        </div>
       </div>
 
       <p id="eventSearchResult" class="event-search-result"></p>
@@ -1693,6 +1701,7 @@
     </div>
   </section>
 
+
   
 <section class="footer-area">
   <div class="newsletter-area">
@@ -1755,8 +1764,22 @@
       const input = document.getElementById("eventSearchInput");
       const searchButton = document.getElementById("eventSearchButton");
       const clearButton = document.getElementById("eventSearchClear");
+      const closeButton = document.getElementById("eventSearchClose");
+      const toggleButton = document.getElementById("floatingSearchToggle");
+      const panel = document.getElementById("eventSearchPanel");
       const resultText = document.getElementById("eventSearchResult");
       const eventCards = document.querySelectorAll("#eventList > .col-lg-4");
+
+      function openSearchPanel() {
+        panel.classList.add("is-open");
+        setTimeout(function () {
+          input.focus();
+        }, 100);
+      }
+
+      function closeSearchPanel() {
+        panel.classList.remove("is-open");
+      }
 
       function searchEvents() {
         const query = normalizeTurkishText(input.value);
@@ -1780,13 +1803,21 @@
         } else {
           resultText.textContent = "Aramanıza uygun etkinlik bulunamadı.";
         }
+
+        closeSearchPanel();
       }
 
+      toggleButton.addEventListener("click", openSearchPanel);
+      closeButton.addEventListener("click", closeSearchPanel);
       searchButton.addEventListener("click", searchEvents);
 
       input.addEventListener("keydown", function (event) {
         if (event.key === "Enter") {
           searchEvents();
+        }
+
+        if (event.key === "Escape") {
+          closeSearchPanel();
         }
       });
 
@@ -1796,6 +1827,7 @@
           card.style.display = "";
         });
         resultText.textContent = "";
+        closeSearchPanel();
       });
     });
   </script>
