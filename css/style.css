@@ -5373,7 +5373,7 @@ a:hover {
     width: 58px;
     height: 58px;
     border-radius: 50%;
-    background: #f8b864;
+    background: #f7a50a;
     color: #fff;
     border: none;
     font-weight: 700;
@@ -5434,7 +5434,7 @@ a:hover {
 
 .event-search-desktop .event-search-input:focus,
 .mobile-search-input:focus {
-  border-color: #f8b864;
+  border-color: #f7a50a;
   box-shadow: 0 0 0 3px rgba(248, 184, 100, 0.18);
 }
 
@@ -5451,7 +5451,7 @@ a:hover {
 }
 
 .event-search-button {
-  background: #f8b864;
+  background: #f7a50a;
   color: #fff;
 }
 
@@ -5514,7 +5514,7 @@ a:hover {
     padding: 0 18px;
     border: none;
     border-radius: 10px;
-    background: #f8b864;
+    background: #f7a50a;
     color: #fff;
     font-weight: 800;
     white-space: nowrap;
