@@ -1031,7 +1031,7 @@ a:hover {
   border-radius: 50%;
   background: rgba(0, 0, 0, 0.6) !important;
   border: none !important;
-  display: none;
+  display: flex !important;
   align-items: center;
   justify-content: center;
   cursor: pointer;
@@ -1043,7 +1043,11 @@ a:hover {
   position: relative;
   overflow: visible;
 }
-
+.event-gallery .owl-dots {
+  position: relative;
+  bottom: auto;
+  margin-top: 20px;
+}
 .event-gallery .owl-item img {
   width: 100%;
   height: auto;
