@@ -221,7 +221,11 @@ const FOOTER = `
     <div class="container"><div class="row"><div class="col-lg-12"><div class="copyright-desc"><p>© CFTC BrandTech By <a href="https://www.cftcbrandtech.com/" target="_blank">cftcbrandtech.com</a></p></div></div></div></div>
   </div>
 </section>
-<div id="back-to-top"><i class="fa fa-angle-up" title="Go top"></i></div>`;
+<div id="back-to-top" class="back-btn-shown" aria-label="Yukarı">
+  <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M12 5l7 7-1.4 1.4L13 8.8V20h-2V8.8L6.4 13.4 5 12z"></path>
+  </svg>
+</div>`;
 
 const SCRIPTS = `
 <script src="/js/jquery.min.js"></script>
