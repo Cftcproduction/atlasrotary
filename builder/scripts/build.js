@@ -243,66 +243,94 @@ const SCRIPTS = `
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    if (!window.Fancybox) return;
-
-    Fancybox.bind("[data-fancybox]", {
-      Thumbs: {
-        type: "modern"
-      },
-      Toolbar: {
-        display: {
-          left: ["infobar"],
-          middle: [],
-          right: ["slideshow", "thumbs", "close"]
+    if (window.Fancybox) {
+      Fancybox.bind("[data-fancybox]", {
+        Thumbs: {
+          type: "modern"
+        },
+        Toolbar: {
+          display: {
+            left: ["infobar"],
+            middle: [],
+            right: ["slideshow", "thumbs", "close"]
+          }
+        },
+        Carousel: {
+          infinite: true
         }
-      },
-      Carousel: {
-        infinite: true
-      }
-    });
+      });
+    }
 
-    document.querySelectorAll(".event-main-gallery").forEach(function (gallery) {
-      const mainButton = gallery.querySelector(".event-main-image");
-      const mainImg = gallery.querySelector(".event-main-image img");
-      const thumbs = gallery.querySelectorAll(".event-thumb");
-      const fancyboxLinks = gallery.querySelectorAll("[data-fancybox]");
+    document.querySelectorAll(".event-gallery-slider").forEach(function (slider) {
+      const slides = slider.querySelectorAll(".event-gallery-slide");
+      const thumbs = slider.querySelectorAll(".event-gallery-thumb");
+      const prevBtn = slider.querySelector(".event-gallery-prev");
+      const nextBtn = slider.querySelector(".event-gallery-next");
+
+      if (!slides.length) return;
+
+      let currentIndex = 0;
+      let autoplayTimer = null;
+
+      function showSlide(index) {
+        currentIndex = (index + slides.length) % slides.length;
+
+        slides.forEach(function (slide, i) {
+          slide.classList.toggle("active", i === currentIndex);
+        });
+
+        thumbs.forEach(function (thumb, i) {
+          thumb.classList.toggle("active", i === currentIndex);
+        });
+      }
+
+      function nextSlide() {
+        showSlide(currentIndex + 1);
+      }
+
+      function prevSlide() {
+        showSlide(currentIndex - 1);
+      }
+
+      function startAutoplay() {
+        if (slides.length <= 1) return;
+
+        stopAutoplay();
+        autoplayTimer = setInterval(nextSlide, 4000);
+      }
+
+      function stopAutoplay() {
+        if (autoplayTimer) {
+          clearInterval(autoplayTimer);
+          autoplayTimer = null;
+        }
+      }
+
+      if (nextBtn) {
+        nextBtn.addEventListener("click", function () {
+          nextSlide();
+          startAutoplay();
+        });
+      }
+
+      if (prevBtn) {
+        prevBtn.addEventListener("click", function () {
+          prevSlide();
+          startAutoplay();
+        });
+      }
 
       thumbs.forEach(function (thumb) {
         thumb.addEventListener("click", function () {
-          const full = thumb.dataset.full;
-          const index = thumb.dataset.index;
-
-          mainImg.src = full;
-          mainButton.dataset.index = index;
-
-          thumbs.forEach(function (item) {
-            item.classList.remove("active");
-          });
-
-          thumb.classList.add("active");
+          showSlide(Number(thumb.dataset.index || 0));
+          startAutoplay();
         });
       });
 
-      mainButton.addEventListener("click", function () {
-        const index = Number(mainButton.dataset.index || 0);
+      slider.addEventListener("mouseenter", stopAutoplay);
+      slider.addEventListener("mouseleave", startAutoplay);
 
-        Fancybox.fromNodes(Array.from(fancyboxLinks), {
-          startIndex: index,
-          Thumbs: {
-            type: "modern"
-          },
-          Toolbar: {
-            display: {
-              left: ["infobar"],
-              middle: [],
-              right: ["slideshow", "thumbs", "close"]
-            }
-          },
-          Carousel: {
-            infinite: true
-          }
-        });
-      });
+      startAutoplay();
     });
   });
 </script>`;
@@ -406,9 +434,7 @@ function renderGallery(event) {
   const groupName = `event-${safeSlug(event)}`;
   const title = escapeHtml(event.title || "Etkinlik fotoğrafı");
 
-  const mainImage = escapeHtml(images[0]);
-
-  const hiddenLinks = images
+  const slides = images
     .map((src, index) => {
       const image = escapeHtml(src);
 
@@ -417,9 +443,10 @@ function renderGallery(event) {
           href="/${image}"
           data-fancybox="${groupName}"
           data-caption="${title}"
-          class="event-hidden-fancybox-link"
-          data-index="${index}"
-        ></a>`;
+          class="event-gallery-slide ${index === 0 ? "active" : ""}"
+        >
+          <img src="/${image}" alt="${title}" loading="${index === 0 ? "eager" : "lazy"}" />
+        </a>`;
     })
     .join("\n");
 
@@ -428,33 +455,30 @@ function renderGallery(event) {
       const image = escapeHtml(src);
 
       return `
-        <button
-          type="button"
-          class="event-thumb ${index === 0 ? "active" : ""}"
-          data-full="/${image}"
-          data-index="${index}"
-        >
+        <button type="button" class="event-gallery-thumb ${index === 0 ? "active" : ""}" data-index="${index}">
           <img src="/${image}" alt="${title}" loading="lazy" />
         </button>`;
     })
     .join("\n");
 
   return `
-    <div class="event-main-gallery" data-fancybox-group="${groupName}">
-      <button type="button" class="event-main-image" data-index="0">
-        <img src="/${mainImage}" alt="${title}" />
-      </button>
+    <div class="event-gallery-slider" data-autoplay="true">
+      <div class="event-gallery-stage">
+        ${slides}
 
-      <div class="event-thumbs">
-        ${thumbs}
+        ${
+          images.length > 1
+            ? `
+              <button type="button" class="event-gallery-arrow event-gallery-prev" aria-label="Önceki görsel">‹</button>
+              <button type="button" class="event-gallery-arrow event-gallery-next" aria-label="Sonraki görsel">›</button>
+            `
+            : ""
+        }
       </div>
 
-      <div class="event-hidden-fancybox">
-        ${hiddenLinks}
-      </div>
+      ${images.length > 1 ? `<div class="event-gallery-thumbs">${thumbs}</div>` : ""}
     </div>`;
 }
-
 function renderContent(event) {
   return (event.content || [])
     .filter((section) => section.heading || (section.paragraphs || []).some(Boolean))
