@@ -246,7 +246,9 @@ const SCRIPTS = `
     if (window.Fancybox) {
       Fancybox.bind("[data-fancybox]", {
         Thumbs: {
-          type: "classic"
+          type: "classic",
+          // Open the thumbnail strip automatically (useful on mobile)
+          autoStart: true
         },
         Toolbar: {
           display: {

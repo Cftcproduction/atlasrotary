@@ -999,6 +999,46 @@
   }
 }
 
+/* Fancybox thumbnails override to ensure thumbnails appear correctly on mobile */
+.fancybox__thumbs {
+  display: flex !important;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+.fancybox__thumb {
+  flex: 0 0 auto !important;
+  width: 72px !important;
+  height: 48px !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12) !important;
+}
+.fancybox__thumb img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+  opacity: 0.75 !important;
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease !important;
+}
+.fancybox__thumb--active img,
+.fancybox__thumb:hover img {
+  opacity: 1 !important;
+  transform: translateY(-2px) !important;
+}
+
+@media (max-width: 767px) {
+  .fancybox__thumb {
+    width: 56px !important;
+    height: 36px !important;
+  }
+}
+
 /* Thumbnails as dots for event gallery */
 .event-gallery .owl-dots {
   text-align: center;
