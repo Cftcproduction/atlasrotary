@@ -246,7 +246,7 @@ const SCRIPTS = `
     if (window.Fancybox) {
       Fancybox.bind("[data-fancybox]", {
         Thumbs: {
-          type: "scrollable"
+          type: "classic"
         },
         Toolbar: {
           display: {
