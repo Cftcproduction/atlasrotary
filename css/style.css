@@ -5341,7 +5341,6 @@ a:hover {
   padding: 0 22px;
   border: none;
   cursor: pointer;
-  border-radius: 6px;
   white-space: nowrap;
 }
 
@@ -5443,7 +5442,6 @@ a:hover {
   height: 52px;
   padding: 0 24px;
   border: none;
-  border-radius: 8px;
   cursor: pointer;
   white-space: nowrap;
   font-weight: 700;
