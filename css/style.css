@@ -1044,9 +1044,20 @@ a:hover {
   overflow: visible;
 }
 .event-gallery .owl-dots {
-  position: relative;
-  bottom: auto;
-  margin-top: 20px;
+  text-align: center;
+  margin-top: 18px;
+}
+
+.event-gallery .owl-dot {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  border-radius: 50%;
+  background: #cfcfcf !important;
+}
+
+.event-gallery .owl-dot.active {
+  background: #2b82d9 !important;
 }
 .event-gallery .owl-item img {
   width: 100%;

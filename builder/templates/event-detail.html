@@ -84,31 +84,30 @@
   {{FOOTER}}
   {{SCRIPTS}}
   <script>
-    // $(function () {
-    //   if ($(".event-gallery").length && $.fn.owlCarousel) {
-    //     $(".event-gallery").owlCarousel({
-    //       items: 1,
-    //       loop: $(".event-gallery img").length > 1,
-    //       nav: $(".event-gallery img").length > 1,
-    //       dots: true,
-    //       autoplay: $(".event-gallery img").length > 1,
-    //       autoplayTimeout: 4000,
-    //       navText: ['<span class="gallery-arrow left">&#10094;</span>', '<span class="gallery-arrow right">&#10095;</span>']
-    //     });
-    //   }
-    // });
-  </script>
-  <script>
-    const imgCount = $(".event-gallery img").length;
+    $(function () {
+      const $gallery = $(".event-gallery");
 
-    $(".event-gallery").owlCarousel({
-      items: 1,
-      loop: imgCount > 1,
-      nav: imgCount > 1,
-      dots: imgCount > 1,
-      autoplay: imgCount > 1,
-      autoplayTimeout: 4000,
-      navText: ['<span class="gallery-arrow left">&#10094;</span>', '<span class="gallery-arrow right">&#10095;</span>']
+      if (!$gallery.length || !$.fn.owlCarousel) return;
+
+      const slideCount = $gallery.children().length;
+      const hasMultipleSlides = slideCount > 1;
+
+      $gallery.owlCarousel({
+        items: 1,
+        loop: hasMultipleSlides,
+        nav: hasMultipleSlides,
+        dots: hasMultipleSlides,
+        autoplay: hasMultipleSlides,
+        autoplayTimeout: 4000,
+        navText: [
+          '<span class="gallery-arrow left">&#10094;</span>',
+          '<span class="gallery-arrow right">&#10095;</span>'
+        ]
+      });
+
+      if (!hasMultipleSlides) {
+        $gallery.find(".owl-nav, .owl-dots").remove();
+      }
     });
   </script>
 </body>
