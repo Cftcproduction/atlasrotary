@@ -115,7 +115,7 @@
           <div class="breadcrumb-content">
             <ul class="breadcrumb__list">
               <li class="active__list-item"><a href="/">Anasayfa</a></li>
-              <li>ETKİNLİKLER</li>
+              <li><a href="/events/">ETKİNLİKLER</a></li>
             </ul>
           </div>
         </div>
@@ -131,7 +131,7 @@
             <div class="blog-item">
               <div class="blog-img">
                 <div class="event-gallery owl-carousel">
-                  <img src="/images/etkinlikler/RYLA-egitimi.jpg" alt="Atlas Rotary Kulübü RYLA Eğitimi" loading="lazy" />
+                  <div class="item" data-dot='<img src="/images/etkinlikler/RYLA-egitimi.jpg" alt="Atlas Rotary Kulübü RYLA Eğitimi" />'><img src="/images/etkinlikler/RYLA-egitimi.jpg" alt="Atlas Rotary Kulübü RYLA Eğitimi" loading="lazy" /></div>
                 </div>
                 <span class="blog_tag">
                   <span class="date__num-text">19</span>
@@ -213,16 +213,24 @@
 <script src="/js/main.js"></script>
   <script>
     $(function () {
-      if ($(".event-gallery").length && $.fn.owlCarousel) {
-        $(".event-gallery").owlCarousel({
-          items: 1,
-          loop: $(".event-gallery img").length > 1,
-          nav: $(".event-gallery img").length > 1,
-          dots: false,
-          autoplay: $(".event-gallery img").length > 1,
-          autoplayTimeout: 4000,
-          navText: ['<span class="gallery-arrow left">&#10094;</span>', '<span class="gallery-arrow right">&#10095;</span>']
-        });
+      const $gallery = $(".event-gallery");
+
+      if (!$gallery.length || !$.fn.owlCarousel) return;
+
+      const slideCount = $gallery.children().length;
+      const hasMultipleSlides = slideCount > 1;
+
+      $gallery.owlCarousel({
+        items: 1,
+        loop: hasMultipleSlides,
+        nav: false,
+        dots: hasMultipleSlides,
+        autoplay: hasMultipleSlides,
+        autoplayTimeout: 4000,
+      });
+
+      if (!hasMultipleSlides) {
+        $gallery.find(".owl-nav, .owl-dots").remove();
       }
     });
   </script>
