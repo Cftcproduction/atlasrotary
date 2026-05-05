@@ -5214,7 +5214,6 @@ a:hover {
   height: 52px;
   padding: 0 18px;
   border: 1px solid #ddd;
-  border-radius: 4px;
 }
 
 .event-search-button,
@@ -5331,7 +5330,6 @@ a:hover {
   height: 52px;
   padding: 0 18px;
   border: 1px solid #ddd;
-  border-radius: 6px;
 }
 
 .event-search-button,
@@ -5356,57 +5354,6 @@ a:hover {
   font-weight: 600;
 }
 
-@media (max-width: 767px) {
-  /* Normal search box gizlenir */
-  .event-search-box {
-    display: none;
-  }
-
-  /* Floating buton aktif */
-  .floating-search-toggle {
-    display: block;
-    position: fixed;
-    right: 16px;
-    bottom: 16px;
-    z-index: 9999;
-    width: 58px;
-    height: 58px;
-    border-radius: 50%;
-    background: #f7a50a;
-    color: #fff;
-    border: none;
-    font-weight: 700;
-  }
-
-  /* Panel aktif */
-  .event-search-panel {
-    display: block;
-    position: fixed;
-    left: 50%;
-    bottom: 16px;
-    width: calc(100% - 24px);
-    transform: translateX(-50%) translateY(130%);
-    opacity: 0;
-    pointer-events: none;
-    transition: 0.25s;
-    z-index: 9998;
-  }
-
-  .event-search-panel.is-open {
-    transform: translateX(-50%) translateY(0);
-    opacity: 1;
-    pointer-events: auto;
-  }
-
-  .event-search-panel .event-search-box {
-    display: flex;
-    flex-direction: column;
-    background: #fff;
-    padding: 15px;
-    border-radius: 10px;
-  }
-}
-
 /* =====================================================
    EVENTS SEARCH - desktop inline / mobile sticky bar
    ===================================================== */
@@ -5417,7 +5364,6 @@ a:hover {
   margin-bottom: 35px;
   padding: 16px;
   background: #fff;
-  border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 
@@ -5426,7 +5372,6 @@ a:hover {
   height: 52px;
   padding: 0 18px;
   border: 1px solid #ddd;
-  border-radius: 8px;
   font-size: 15px;
   outline: none;
 }
@@ -5502,7 +5447,6 @@ a:hover {
     min-width: 0;
     padding: 0 14px;
     border: 1px solid #ddd;
-    border-radius: 10px;
     font-size: 14px;
     outline: none;
   }
@@ -5511,7 +5455,6 @@ a:hover {
     height: 46px;
     padding: 0 18px;
     border: none;
-    border-radius: 10px;
     background: #f7a50a;
     color: #fff;
     font-weight: 800;
