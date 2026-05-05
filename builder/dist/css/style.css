@@ -5279,14 +5279,14 @@ a:hover {
 
 .floating-search-toggle {
   position: fixed;
-  right: 24px;
-  bottom: 24px;
+  right: 20%;
+  bottom: 40%;
   z-index: 9999;
   width: 64px;
   height: 64px;
   border: none;
   border-radius: 50%;
-  background: #f8b864;
+  background: #f7a50a;
   color: #fff;
   font-weight: 700;
   cursor: pointer;
@@ -5355,7 +5355,6 @@ a:hover {
 @media (max-width: 767px) {
   .floating-search-toggle {
     right: 16px;
-    top: 16px;
     width: 58px;
     height: 58px;
   }
