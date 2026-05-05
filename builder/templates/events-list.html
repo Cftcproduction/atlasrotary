@@ -1,48 +1,129 @@
 <!doctype html>
 <html lang="tr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <title>{{SEO_TITLE}}</title>
-    <meta name="description" content="{{SEO_DESCRIPTION}}" />
-    <link rel="canonical" href="{{CANONICAL_URL}}" />
-    <link rel="icon" href="/images/favicon.png" />
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="/css/animate.min.css" />
-    <link rel="stylesheet" href="/css/owl.carousel.min.css" />
-    <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
-    <link rel="stylesheet" href="/css/magnific-popup.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/responsive.css" />
-  </head>
-  <body>
-    {{HEADER}}
 
-    <section class="breadcrumb-area" style="background-image: url(/images/events.jpg)">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="breadcrumb-content">
-              <ul class="breadcrumb__list">
-                <li class="active__list-item"><a href="/">Anasayfa</a></li>
-                <li>ETKİNLİKLER</li>
-              </ul>
-            </div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <title>{{SEO_TITLE}}</title>
+  <meta name="description" content="{{SEO_DESCRIPTION}}" />
+  <link rel="canonical" href="{{CANONICAL_URL}}" />
+  <link rel="icon" href="/images/favicon.png" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/animate.min.css" />
+  <link rel="stylesheet" href="/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
+  <link rel="stylesheet" href="/css/magnific-popup.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/responsive.css" />
+</head>
+
+<body>
+  {{HEADER}}
+
+  <section class="breadcrumb-area" style="background-image: url(/images/events.jpg)">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrumb-content">
+            <ul class="breadcrumb__list">
+              <li class="active__list-item"><a href="/">Anasayfa</a></li>
+              <li>ETKİNLİKLER</li>
+            </ul>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="causes-area upcoming-event-area upcoming-event-area2">
-      <div class="container">
-        <div class="row blog-content-wrap">
-          {{EVENT_CARDS}}
-        </div>
+  <section class="causes-area upcoming-event-area upcoming-event-area2">
+    <div class="container">
+
+      <div class="event-search-box">
+        <input type="text" id="eventSearchInput" class="event-search-input" placeholder="Etkinlik ara..."
+          autocomplete="off" />
+        <button type="button" id="eventSearchButton" class="event-search-button">
+          Ara
+        </button>
+        <button type="button" id="eventSearchClear" class="event-search-clear">
+          Temizle
+        </button>
       </div>
-    </section>
 
-    {{FOOTER}}
-    {{SCRIPTS}}
-  </body>
+      <p id="eventSearchResult" class="event-search-result"></p>
+
+      <div class="row blog-content-wrap" id="eventList">
+        {{EVENT_CARDS}}
+      </div>
+    </div>
+  </section>
+
+  {{FOOTER}}
+  {{SCRIPTS}}
+  <script>
+    function normalizeTurkishText(text) {
+      return text
+        .toLocaleLowerCase("tr-TR")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/ı/g, "i")
+        .replace(/İ/g, "i")
+        .replace(/ğ/g, "g")
+        .replace(/ü/g, "u")
+        .replace(/ş/g, "s")
+        .replace(/ö/g, "o")
+        .replace(/ç/g, "c")
+        .trim();
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const input = document.getElementById("eventSearchInput");
+      const searchButton = document.getElementById("eventSearchButton");
+      const clearButton = document.getElementById("eventSearchClear");
+      const resultText = document.getElementById("eventSearchResult");
+      const eventCards = document.querySelectorAll("#eventList > .col-lg-4");
+
+      function searchEvents() {
+        const query = normalizeTurkishText(input.value);
+        let visibleCount = 0;
+
+        eventCards.forEach(function (card) {
+          const cardText = normalizeTurkishText(card.textContent);
+
+          if (!query || cardText.includes(query)) {
+            card.style.display = "";
+            visibleCount++;
+          } else {
+            card.style.display = "none";
+          }
+        });
+
+        if (!query) {
+          resultText.textContent = "";
+        } else if (visibleCount > 0) {
+          resultText.textContent = visibleCount + " etkinlik bulundu.";
+        } else {
+          resultText.textContent = "Aramanıza uygun etkinlik bulunamadı.";
+        }
+      }
+
+      searchButton.addEventListener("click", searchEvents);
+
+      input.addEventListener("keydown", function (event) {
+        if (event.key === "Enter") {
+          searchEvents();
+        }
+      });
+
+      clearButton.addEventListener("click", function () {
+        input.value = "";
+        eventCards.forEach(function (card) {
+          card.style.display = "";
+        });
+        resultText.textContent = "";
+      });
+    });
+  </script>
+</body>
+
 </html>

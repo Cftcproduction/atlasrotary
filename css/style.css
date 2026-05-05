@@ -1051,7 +1051,6 @@ a:hover {
   object-fit: contain;
 }
 
-
 /* Mobil */
 @media (max-width: 768px) {
   .blog-img {
@@ -5183,5 +5182,52 @@ a:hover {
     font-size: 15px;
     line-height: 1.8;
     margin: 14px 0;
+  }
+}
+.event-search-box {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 25px;
+}
+
+.event-search-input {
+  width: 100%;
+  height: 52px;
+  padding: 0 18px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.event-search-button,
+.event-search-clear {
+  height: 52px;
+  padding: 0 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.event-search-button {
+  background: #f8b864;
+  color: #fff;
+}
+
+.event-search-clear {
+  background: #222;
+  color: #fff;
+}
+
+.event-search-result {
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+@media (max-width: 575px) {
+  .event-search-box {
+    flex-direction: column;
+  }
+
+  .event-search-button,
+  .event-search-clear {
+    width: 100%;
   }
 }

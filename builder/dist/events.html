@@ -1,23 +1,25 @@
 <!doctype html>
 <html lang="tr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <title>Etkinlikler | İstanbul Atlas Rotary Kulübü</title>
-    <meta name="description" content="İstanbul Atlas Rotary Kulübü etkinlikleri, toplantıları ve sosyal sorumluluk projeleri." />
-    <link rel="canonical" href="https://www.atlasrotary.org/events/" />
-    <link rel="icon" href="/images/favicon.png" />
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="/css/animate.min.css" />
-    <link rel="stylesheet" href="/css/owl.carousel.min.css" />
-    <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
-    <link rel="stylesheet" href="/css/magnific-popup.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/responsive.css" />
-  </head>
-  <body>
-    
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <title>Etkinlikler | İstanbul Atlas Rotary Kulübü</title>
+  <meta name="description" content="İstanbul Atlas Rotary Kulübü etkinlikleri, toplantıları ve sosyal sorumluluk projeleri." />
+  <link rel="canonical" href="https://www.atlasrotary.org/events/" />
+  <link rel="icon" href="/images/favicon.png" />
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/animate.min.css" />
+  <link rel="stylesheet" href="/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
+  <link rel="stylesheet" href="/css/magnific-popup.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/responsive.css" />
+</head>
+
+<body>
+  
 <header class="header-area">
   <div class="header-top-action">
     <div class="container">
@@ -101,25 +103,39 @@
   </div>
 </header>
 
-    <section class="breadcrumb-area" style="background-image: url(/images/events.jpg)">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="breadcrumb-content">
-              <ul class="breadcrumb__list">
-                <li class="active__list-item"><a href="/">Anasayfa</a></li>
-                <li>ETKİNLİKLER</li>
-              </ul>
-            </div>
+  <section class="breadcrumb-area" style="background-image: url(/images/events.jpg)">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrumb-content">
+            <ul class="breadcrumb__list">
+              <li class="active__list-item"><a href="/">Anasayfa</a></li>
+              <li>ETKİNLİKLER</li>
+            </ul>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="causes-area upcoming-event-area upcoming-event-area2">
-      <div class="container">
-        <div class="row blog-content-wrap">
-          
+  <section class="causes-area upcoming-event-area upcoming-event-area2">
+    <div class="container">
+
+      <div class="event-search-box">
+        <input type="text" id="eventSearchInput" class="event-search-input" placeholder="Etkinlik ara..."
+          autocomplete="off" />
+        <button type="button" id="eventSearchButton" class="event-search-button">
+          Ara
+        </button>
+        <button type="button" id="eventSearchClear" class="event-search-clear">
+          Temizle
+        </button>
+      </div>
+
+      <p id="eventSearchResult" class="event-search-result"></p>
+
+      <div class="row blog-content-wrap" id="eventList">
+        
           <div class="col-lg-4 col-md-6">
             <div class="blog-content">
               <div class="blog-item blog-item1">
@@ -1673,11 +1689,11 @@
               </div>
             </div>
           </div>
-        </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    
+  
 <section class="footer-area">
   <div class="newsletter-area">
     <div class="container">
@@ -1707,7 +1723,7 @@
   </div>
 </section>
 <div id="back-to-top"><i class="fa fa-angle-up" title="Go top"></i></div>
-    
+  
 <script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
@@ -1719,5 +1735,70 @@
 <script src="/js/smooth-scrolling.js"></script>
 <script src="/js/wow.js"></script>
 <script src="/js/main.js"></script>
-  </body>
+  <script>
+    function normalizeTurkishText(text) {
+      return text
+        .toLocaleLowerCase("tr-TR")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/ı/g, "i")
+        .replace(/İ/g, "i")
+        .replace(/ğ/g, "g")
+        .replace(/ü/g, "u")
+        .replace(/ş/g, "s")
+        .replace(/ö/g, "o")
+        .replace(/ç/g, "c")
+        .trim();
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const input = document.getElementById("eventSearchInput");
+      const searchButton = document.getElementById("eventSearchButton");
+      const clearButton = document.getElementById("eventSearchClear");
+      const resultText = document.getElementById("eventSearchResult");
+      const eventCards = document.querySelectorAll("#eventList > .col-lg-4");
+
+      function searchEvents() {
+        const query = normalizeTurkishText(input.value);
+        let visibleCount = 0;
+
+        eventCards.forEach(function (card) {
+          const cardText = normalizeTurkishText(card.textContent);
+
+          if (!query || cardText.includes(query)) {
+            card.style.display = "";
+            visibleCount++;
+          } else {
+            card.style.display = "none";
+          }
+        });
+
+        if (!query) {
+          resultText.textContent = "";
+        } else if (visibleCount > 0) {
+          resultText.textContent = visibleCount + " etkinlik bulundu.";
+        } else {
+          resultText.textContent = "Aramanıza uygun etkinlik bulunamadı.";
+        }
+      }
+
+      searchButton.addEventListener("click", searchEvents);
+
+      input.addEventListener("keydown", function (event) {
+        if (event.key === "Enter") {
+          searchEvents();
+        }
+      });
+
+      clearButton.addEventListener("click", function () {
+        input.value = "";
+        eventCards.forEach(function (card) {
+          card.style.display = "";
+        });
+        resultText.textContent = "";
+      });
+    });
+  </script>
+</body>
+
 </html>
