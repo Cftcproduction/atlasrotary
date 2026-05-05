@@ -5676,6 +5676,9 @@ a:hover {
     width: 38px;
     height: 38px;
     font-size: 28px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
   }
 
   .event-gallery-prev {
@@ -5687,7 +5690,7 @@ a:hover {
   }
 
   .event-gallery-thumbs {
-    display: flex;
+    display: flex !important;
     gap: 8px;
     margin-top: 12px;
     overflow-x: auto;
@@ -5715,5 +5718,25 @@ a:hover {
     width: 100%;
     height: 100%;
     object-fit: cover;
+  }
+}
+
+@media (max-width: 575px) {
+  .event-gallery-stage {
+    height: 260px;
+  }
+
+  .event-gallery-arrow {
+    width: 38px;
+    height: 38px;
+    font-size: 28px;
+  }
+
+  .event-gallery-prev {
+    left: 10px;
+  }
+
+  .event-gallery-next {
+    right: 10px;
   }
 }
