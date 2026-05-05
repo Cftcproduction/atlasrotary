@@ -132,23 +132,51 @@
               <div class="blog-img">
                 <div class="event-gallery fancybox-gallery">
                   
+    <div class="event-main-gallery" data-fancybox-group="event-gelecek-donem-baskanlar">
+      <button type="button" class="event-main-image" data-index="0">
+        <img src="/images/etkinlikler/gelecek-donem-baskanlar.jpg" alt="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)" />
+      </button>
+
+      <div class="event-thumbs">
+        
+        <button
+          type="button"
+          class="event-thumb active"
+          data-full="/images/etkinlikler/gelecek-donem-baskanlar.jpg"
+          data-index="0"
+        >
+          <img src="/images/etkinlikler/gelecek-donem-baskanlar.jpg" alt="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)" loading="lazy" />
+        </button>
+
+        <button
+          type="button"
+          class="event-thumb "
+          data-full="/images/etkinlikler/gelecek-donem-baskanlar-2.jpg"
+          data-index="1"
+        >
+          <img src="/images/etkinlikler/gelecek-donem-baskanlar-2.jpg" alt="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)" loading="lazy" />
+        </button>
+      </div>
+
+      <div class="event-hidden-fancybox">
+        
         <a
           href="/images/etkinlikler/gelecek-donem-baskanlar.jpg"
           data-fancybox="event-gelecek-donem-baskanlar"
           data-caption="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)"
-          class="event-gallery-item is-main"
-        >
-          <img src="/images/etkinlikler/gelecek-donem-baskanlar.jpg" alt="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)" loading="lazy" />
-        </a>
+          class="event-hidden-fancybox-link"
+          data-index="0"
+        ></a>
 
         <a
           href="/images/etkinlikler/gelecek-donem-baskanlar-2.jpg"
           data-fancybox="event-gelecek-donem-baskanlar"
           data-caption="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)"
-          class="event-gallery-item "
-        >
-          <img src="/images/etkinlikler/gelecek-donem-baskanlar-2.jpg" alt="İstanbul Atlas Rotary Kulübü Gelecek Dönem Başkanlar Eğitimi - (Çorlu)" loading="lazy" />
-        </a>
+          class="event-hidden-fancybox-link"
+          data-index="1"
+        ></a>
+      </div>
+    </div>
                 </div>
                 <span class="blog_tag">
                   <span class="date__num-text">29</span>
@@ -251,6 +279,50 @@
       Carousel: {
         infinite: true
       }
+    });
+
+    document.querySelectorAll(".event-main-gallery").forEach(function (gallery) {
+      const mainButton = gallery.querySelector(".event-main-image");
+      const mainImg = gallery.querySelector(".event-main-image img");
+      const thumbs = gallery.querySelectorAll(".event-thumb");
+      const fancyboxLinks = gallery.querySelectorAll("[data-fancybox]");
+
+      thumbs.forEach(function (thumb) {
+        thumb.addEventListener("click", function () {
+          const full = thumb.dataset.full;
+          const index = thumb.dataset.index;
+
+          mainImg.src = full;
+          mainButton.dataset.index = index;
+
+          thumbs.forEach(function (item) {
+            item.classList.remove("active");
+          });
+
+          thumb.classList.add("active");
+        });
+      });
+
+      mainButton.addEventListener("click", function () {
+        const index = Number(mainButton.dataset.index || 0);
+
+        Fancybox.fromNodes(Array.from(fancyboxLinks), {
+          startIndex: index,
+          Thumbs: {
+            type: "modern"
+          },
+          Toolbar: {
+            display: {
+              left: ["infobar"],
+              middle: [],
+              right: ["slideshow", "thumbs", "close"]
+            }
+          },
+          Carousel: {
+            infinite: true
+          }
+        });
+      });
     });
   });
 </script>

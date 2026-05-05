@@ -260,6 +260,50 @@ const SCRIPTS = `
         infinite: true
       }
     });
+
+    document.querySelectorAll(".event-main-gallery").forEach(function (gallery) {
+      const mainButton = gallery.querySelector(".event-main-image");
+      const mainImg = gallery.querySelector(".event-main-image img");
+      const thumbs = gallery.querySelectorAll(".event-thumb");
+      const fancyboxLinks = gallery.querySelectorAll("[data-fancybox]");
+
+      thumbs.forEach(function (thumb) {
+        thumb.addEventListener("click", function () {
+          const full = thumb.dataset.full;
+          const index = thumb.dataset.index;
+
+          mainImg.src = full;
+          mainButton.dataset.index = index;
+
+          thumbs.forEach(function (item) {
+            item.classList.remove("active");
+          });
+
+          thumb.classList.add("active");
+        });
+      });
+
+      mainButton.addEventListener("click", function () {
+        const index = Number(mainButton.dataset.index || 0);
+
+        Fancybox.fromNodes(Array.from(fancyboxLinks), {
+          startIndex: index,
+          Thumbs: {
+            type: "modern"
+          },
+          Toolbar: {
+            display: {
+              left: ["infobar"],
+              middle: [],
+              right: ["slideshow", "thumbs", "close"]
+            }
+          },
+          Carousel: {
+            infinite: true
+          }
+        });
+      });
+    });
   });
 </script>`;
 
@@ -359,23 +403,56 @@ function renderEventCards(events) {
 function renderGallery(event) {
   const images = Array.isArray(event.gallery) && event.gallery.length ? event.gallery : [event.heroImage].filter(Boolean);
 
-  return images
+  const groupName = `event-${safeSlug(event)}`;
+  const title = escapeHtml(event.title || "Etkinlik fotoğrafı");
+
+  const mainImage = escapeHtml(images[0]);
+
+  const hiddenLinks = images
     .map((src, index) => {
       const image = escapeHtml(src);
-      const title = escapeHtml(event.title || "Etkinlik fotoğrafı");
-      const groupName = `event-${safeSlug(event)}`;
 
       return `
         <a
           href="/${image}"
           data-fancybox="${groupName}"
           data-caption="${title}"
-          class="event-gallery-item ${index === 0 ? "is-main" : ""}"
-        >
-          <img src="/${image}" alt="${title}" loading="lazy" />
-        </a>`;
+          class="event-hidden-fancybox-link"
+          data-index="${index}"
+        ></a>`;
     })
     .join("\n");
+
+  const thumbs = images
+    .map((src, index) => {
+      const image = escapeHtml(src);
+
+      return `
+        <button
+          type="button"
+          class="event-thumb ${index === 0 ? "active" : ""}"
+          data-full="/${image}"
+          data-index="${index}"
+        >
+          <img src="/${image}" alt="${title}" loading="lazy" />
+        </button>`;
+    })
+    .join("\n");
+
+  return `
+    <div class="event-main-gallery" data-fancybox-group="${groupName}">
+      <button type="button" class="event-main-image" data-index="0">
+        <img src="/${mainImage}" alt="${title}" />
+      </button>
+
+      <div class="event-thumbs">
+        ${thumbs}
+      </div>
+
+      <div class="event-hidden-fancybox">
+        ${hiddenLinks}
+      </div>
+    </div>`;
 }
 
 function renderContent(event) {
