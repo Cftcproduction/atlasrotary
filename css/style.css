@@ -5657,10 +5657,6 @@ a:hover {
   right: 18px;
 }
 
-.event-gallery-thumbs {
-  display: none;
-}
-
 @media (max-width: 991px) {
   .event-gallery-stage {
     height: 380px;
