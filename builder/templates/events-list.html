@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>{{SEO_TITLE}}</title>
+    <meta name="description" content="{{SEO_DESCRIPTION}}" />
+    <link rel="canonical" href="{{CANONICAL_URL}}" />
+    <link rel="icon" href="/images/favicon.png" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/animate.min.css" />
+    <link rel="stylesheet" href="/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="/css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="/css/magnific-popup.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/responsive.css" />
+  </head>
+  <body>
+    {{HEADER}}
+
+    <section class="breadcrumb-area" style="background-image: url(/images/events.jpg)">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="breadcrumb-content">
+              <ul class="breadcrumb__list">
+                <li class="active__list-item"><a href="/">Anasayfa</a></li>
+                <li>ETKİNLİKLER</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="causes-area upcoming-event-area upcoming-event-area2">
+      <div class="container">
+        <div class="row blog-content-wrap">
+          {{EVENT_CARDS}}
+        </div>
+      </div>
+    </section>
+
+    {{FOOTER}}
+    {{SCRIPTS}}
+  </body>
+</html>
