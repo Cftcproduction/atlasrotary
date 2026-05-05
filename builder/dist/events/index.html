@@ -1719,14 +1719,28 @@
 <script src="/js/smooth-scrolling.js"></script>
 <script src="/js/wow.js"></script>
 <script src="/js/main.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    if (window.Fancybox) {
-      Fancybox.bind("[data-fancybox]", {
-        Thumbs: false
-      });
-    }
+    if (!window.Fancybox) return;
+
+    Fancybox.bind("[data-fancybox]", {
+      Thumbs: {
+        type: "modern"
+      },
+      Toolbar: {
+        display: {
+          left: ["infobar"],
+          middle: [],
+          right: ["slideshow", "thumbs", "close"]
+        }
+      },
+      Carousel: {
+        infinite: true
+      }
+    });
   });
 </script>
   <script>

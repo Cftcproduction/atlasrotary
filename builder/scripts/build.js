@@ -238,14 +238,28 @@ const SCRIPTS = `
 <script src="/js/smooth-scrolling.js"></script>
 <script src="/js/wow.js"></script>
 <script src="/js/main.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    if (window.Fancybox) {
-      Fancybox.bind("[data-fancybox]", {
-        Thumbs: false
-      });
-    }
+    if (!window.Fancybox) return;
+
+    Fancybox.bind("[data-fancybox]", {
+      Thumbs: {
+        type: "modern"
+      },
+      Toolbar: {
+        display: {
+          left: ["infobar"],
+          middle: [],
+          right: ["slideshow", "thumbs", "close"]
+        }
+      },
+      Carousel: {
+        infinite: true
+      }
+    });
   });
 </script>`;
 
@@ -349,11 +363,12 @@ function renderGallery(event) {
     .map((src, index) => {
       const image = escapeHtml(src);
       const title = escapeHtml(event.title || "Etkinlik fotoğrafı");
+      const groupName = `event-${safeSlug(event)}`;
 
       return `
         <a
           href="/${image}"
-          data-fancybox="event-${safeSlug(event)}"
+          data-fancybox="${groupName}"
           data-caption="${title}"
           class="event-gallery-item ${index === 0 ? "is-main" : ""}"
         >
