@@ -555,6 +555,35 @@
       }, 260);
     }, false);
 
+    // Robust fallback: observe DOM for Fancybox container nodes and force-show thumbs
+    (function () {
+      var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (m) {
+          m.addedNodes && m.addedNodes.forEach(function (node) {
+            try {
+              if (!node || !node.querySelector) return;
+
+              var thumbs = node.querySelector('.fancybox__thumbs') || node.querySelector('.fancybox-thumbs') || node.querySelector('.fancybox__thumbs-wrap') || node.querySelector('.fancybox__thumbs-container');
+              if (thumbs) {
+                thumbs.style.display = 'flex';
+                thumbs.style.overflowX = 'auto';
+                thumbs.style.webkitOverflowScrolling = 'touch';
+                thumbs.style.justifyContent = 'center';
+                thumbs.style.gap = '8px';
+                Array.prototype.slice.call(thumbs.querySelectorAll('img')).forEach(function (img) {
+                  img.style.opacity = '1';
+                });
+                var active = thumbs.querySelector('.fancybox__thumb--active, .active');
+                if (active && active.scrollIntoView) active.scrollIntoView({ inline: 'center', behavior: 'smooth' });
+              }
+            } catch (err) {}
+          });
+        });
+      });
+
+      observer.observe(document.body, { childList: true, subtree: true });
+    })();
+
     document.querySelectorAll(".event-gallery-slider").forEach(function (slider) {
       const slides = slider.querySelectorAll(".event-gallery-slide");
       const thumbs = slider.querySelectorAll(".event-gallery-thumb");
