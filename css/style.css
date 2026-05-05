@@ -5387,7 +5387,9 @@ a:hover {
   opacity: 0;
   visibility: hidden;
   z-index: 1;
-  transition: opacity 0.45s ease, visibility 0.45s ease;
+  transition:
+    opacity 0.45s ease,
+    visibility 0.45s ease;
 }
 
 .event-gallery-slide.active {
@@ -5432,9 +5434,9 @@ a:hover {
   right: 18px;
 }
 
-.event-gallery-thumbs {
+/* .event-gallery-thumbs {
   display: none;
-}
+} */
 
 .event-gallery-thumb {
   flex: 0 0 64px;
