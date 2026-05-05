@@ -233,13 +233,17 @@
         items: 1,
         loop: hasMultipleSlides,
         nav: false,
+        navText: ["", ""],
         dots: hasMultipleSlides,
         autoplay: hasMultipleSlides,
         autoplayTimeout: 4000,
+        autoplayHoverPause: true
       });
 
+      $gallery.find(".owl-nav, .owl-prev, .owl-next").remove();
+
       if (!hasMultipleSlides) {
-        $gallery.find(".owl-nav, .owl-dots").remove();
+        $gallery.find(".owl-dots").remove();
       }
     });
   </script>
