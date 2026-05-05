@@ -330,7 +330,14 @@ function renderEventCards(events) {
 
 function renderGallery(event) {
   const images = Array.isArray(event.gallery) && event.gallery.length ? event.gallery : [event.heroImage].filter(Boolean);
-  return images.map(src => `<img src="/${escapeHtml(src)}" alt="${escapeHtml(event.title)}" loading="lazy" />`).join('\n                    ');
+  // Wrap each image in a container and provide a data-dot attribute
+  // so Owl Carousel can use the image as a thumbnail in the dots area.
+  return images.map(src => {
+    const thumb = `<img src=\"/${escapeHtml(src)}\" alt=\"${escapeHtml(event.title)}\" />`;
+    return `<div class="item" data-dot='${thumb}'>` +
+           `<img src="/${escapeHtml(src)}" alt="${escapeHtml(event.title)}" loading="lazy" />` +
+           `</div>`;
+  }).join('\n                    ');
 }
 
 function renderContent(event) {
