@@ -5365,6 +5365,8 @@ a:hover {
   padding: 16px;
   background: #fff;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  position: sticky;
+  top: 0;
 }
 
 .event-search-desktop .event-search-input {
