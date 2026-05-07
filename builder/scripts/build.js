@@ -185,13 +185,15 @@ const HEADER = `
   <div class="side-nav-container">
     <div class="humburger-menu"><div class="humburger-menu-lines side-menu-close"></div></div>
     <div class="side-menu-wrap">
-      <ul>
-          <li class="sidenav__item"><a href="index.html">Anasayfa</a></li>
-          <li class="sidenav__item"><a href="/team/">Ekibimiz</a></li>
-          <li class="sidenav__item"><a href="/presentation/">Sunum</a></li>
-          <li class="sidenav__item"><a href="/events/">Etkinlikler</a></li>
-          <li class="sidenav__item"><a href="/about/">Hakkımızda</a></li>
-          <li class="sidenav__item"><a href="/contact/">İletişim</a></li>
+      <ul class="side-menu-ul">
+          <ul>
+              <li class="sidenav__item"><a href="index.html">Anasayfa</a></li>
+              <li class="sidenav__item"><a href="/team/">Ekibimiz</a></li>
+              <li class="sidenav__item"><a href="/presentation/">Sunum</a></li>
+              <li class="sidenav__item"><a href="/events/">Etkinlikler</a></li>
+              <li class="sidenav__item"><a href="/about/">Hakkımızda</a></li>
+              <li class="sidenav__item"><a href="/contact/">İletişim</a></li>
+          </ul>
       </ul>
       <ul class="side-social">
         <li><a href="https://www.instagram.com/istanbulatlasrotarykulubu/"><i class="fa fa-instagram"></i></a></li>
