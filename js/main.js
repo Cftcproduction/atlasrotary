@@ -75,16 +75,16 @@ Author Email:   layerdrops@gmail.com
         {
           scrollTop: 0,
         },
-        800
+        800,
       );
       return false;
     });
 
     /*==== Counter up =====*/
-    $(".counter").counterUp({
-      delay: 10,
-      time: 1000,
-    });
+    // $(".counter").counterUp({
+    //   delay: 10,
+    //   time: 1000,
+    // });
 
     /*==== barfiller =====*/
     $("#bar1").barfiller({ barColor: "#50bac3", duration: 3000 });

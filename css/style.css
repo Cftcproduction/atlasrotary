@@ -1930,9 +1930,10 @@ a:hover {
   line-height: 55px;
   font-weight: 800;
   margin-bottom: 13px;
+  color: #fff;
 }
 .fun-content-wrap .fun-content .fun-item p {
-  color: #17458f;
+  color: #fff;
 }
 
 /*=== fun-content-slide ===*/
@@ -3436,11 +3437,10 @@ a:hover {
   border-bottom: 2px solid #f2f0ec;
 }
 .helping-area2 .fun-content .fun-item {
-  padding-left: 0;
+  padding: 16px 0;
   margin-bottom: 0;
   border-bottom: none;
   margin-right: 0;
-  padding-bottom: 58px;
 }
 .helping-area2 .fun-content .fun-item img {
   width: 100%;
@@ -3454,12 +3454,22 @@ a:hover {
   line-height: 30px;
 }
 /*=== helping-form ===*/
+
+.helping-form .section-heading {
+  max-width: 620px;
+}
+
+.helping-form .row {
+  max-width: 560px;
+}
 .helping-area2 .helping-form {
   background-color: #25488d;
-  padding: 10% 12%;
+  margin-left: 0;
+  padding: 24px;
   position: relative;
   z-index: 1;
-  margin-top: -55%;
+  transform: translateY(-361px);
+  overflow: hidden;
 }
 .helping-area2:after {
   background-color: #25488d;
