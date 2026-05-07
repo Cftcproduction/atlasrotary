@@ -95,17 +95,17 @@ Author Email:   layerdrops@gmail.com
     $("#bar6").barfiller({ barColor: "#17458f", duration: 3000 });
 
     /*==== homepage-slide1 =====*/
-    $(".homepage-slide1").owlCarousel({
-      items: 1,
-      nav: false,
-      dots: true,
-      autoplay: true,
-      loop: true,
-      smartSpeed: 1000,
-      animateOut: "slideOutDown",
-      animateIn: "fadeIn",
-      active: true,
-    });
+    // $(".homepage-slide1").owlCarousel({
+    //   items: 1,
+    //   nav: false,
+    //   dots: true,
+    //   autoplay: true,
+    //   loop: true,
+    //   smartSpeed: 1000,
+    //   animateOut: "slideOutDown",
+    //   animateIn: "fadeIn",
+    //   active: true,
+    // });
 
     $(".homepage-slide1.owl-carousel").on("translate.owl.carousel", function () {
       $(".single-slide-item .slider__title").removeClass("animated pulse").css("opacity", "0");

@@ -166,7 +166,7 @@ const HEADER = `
               <div class="navigation-top">
                 <nav class="main-navigation">
                   <ul>
-                      <li class="active"><a href="/">Anasayfa</a></li>
+                      <li><a href="/">Anasayfa</a></li>
                       <li><a href="/team/">Ekibimiz</a></li>
                       <li><a href="/presentation/">Sunum</a></li>
                       <li><a href="/events/">Etkinlikler</a></li>
