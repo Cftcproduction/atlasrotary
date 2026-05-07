@@ -166,16 +166,12 @@ const HEADER = `
               <div class="navigation-top">
                 <nav class="main-navigation">
                   <ul>
-                    <li><a href="/">Anasayfa</a></li>
-                    <li><a href="/about/">Hakkımızda</a>
-                      <ul class="dropdown-menu-item">
-                        <li><a href="/team/">Ekibimiz</a></li>
-                        <li><a href="/projects/">Projeler</a></li>
-                        <li><a href="/presentation/">Sunum</a></li>
-                      </ul>
-                    </li>
-                    <li class="active"><a href="/events/">Etkinlikler</a></li>
-                    <li><a href="/contact/">İletişim</a></li>
+                      <li class="active"><a href="index.html">Anasayfa</a></li>
+                      <li><a href="/team/">Ekibimiz</a></li>
+                      <li><a href="/presentation/">Sunum</a></li>
+                      <li><a href="/events/">Etkinlikler</a></li>
+                      <li><a href="/about/">Hakkımızda</a></li>
+                      <li><a href="/contact/">İletişim</a></li>
                   </ul>
                 </nav>
               </div>
@@ -191,8 +187,10 @@ const HEADER = `
     <div class="side-menu-wrap">
       <ul class="side-menu-ul">
         <li class="sidenav__item"><a href="/">Anasayfa</a></li>
-        <li class="sidenav__item"><a href="/about/">Hakkımızda</a></li>
+        <li class="sidenav__item"><a href="/team/">Ekibimiz</a></li>
+        <li class="sidenav__item"><a href="/presentation/">Sunum</a></li>
         <li class="sidenav__item"><a href="/events/">Etkinlikler</a></li>
+        <li class="sidenav__item"><a href="/about/">Hakkımızda</a></li>
         <li class="sidenav__item"><a href="/contact/">İletişim</a></li>
       </ul>
       <ul class="side-social">
