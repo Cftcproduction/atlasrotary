@@ -89,17 +89,30 @@ function copyAssets() {
   }
 }
 
-function buildStaticPages() {
+function buildStaticPages(events = []) {
   const built = [];
+
   for (const page of STATIC_PAGES) {
     const sourcePath = path.join(PROJECT_ROOT, page.source);
     if (!fs.existsSync(sourcePath)) continue;
+
     let html = read(sourcePath);
+
+    if (page.source === "index.html") {
+      html = html.replace(
+        /<div class="row blog-content-wrap">[\s\S]*?<\/div>\s*<!-- end row -->/,
+        `<div class="row blog-content-wrap">
+${renderLatestHomeEvents(events)}
+                </div><!-- end row -->`,
+      );
+    }
+
     html = cleanInternalLinks(html);
     html = injectCanonicalAndMeta(html, page);
     writeFile(outputFileForRoute(page.output), html);
     built.push(page.output);
   }
+
   return built;
 }
 
@@ -486,16 +499,16 @@ function renderEventCards(events) {
                 </div>
                 <div class="blog-inner-content">
                   <h3 class="blog__title"><a href="${EVENTS_INDEX_PATH}${slug}/">${title}</a></h3>
-                  <ul class="blog__list">
-                    <li class="blog__dot-active">${dateText}</li>
-                    <li>${location}</li>
-                  </ul>
+                  <p class="blog__desc">${escapeHtml(event.description || stripHtml(event.content?.[0]?.paragraphs?.[0] || "").slice(0, 100))}...</p>
                 </div>
               </div>
             </div>
           </div>`;
     })
     .join("\n");
+}
+function renderLatestHomeEvents(events) {
+  return renderEventCards(events.slice(0, 3));
 }
 
 function renderGallery(event) {
@@ -690,7 +703,6 @@ function main() {
   ensureDir(DIST_DIR);
 
   copyAssets();
-  const staticRoutes = buildStaticPages();
 
   const data = JSON.parse(read(DATA_FILE));
   const events = (data.events || []).filter((event) => event.status !== "draft" && event.status !== "passive");
@@ -714,6 +726,7 @@ function main() {
     const dateB = new Date(b.date.year, monthMap[b.date.month] - 1, b.date.day);
     return dateB - dateA; // yeni → eski
   });
+  const staticRoutes = buildStaticPages(events);
   const listTemplate = read(LIST_TEMPLATE);
   const detailTemplate = read(DETAIL_TEMPLATE);
 
