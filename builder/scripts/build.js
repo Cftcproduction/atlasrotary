@@ -166,7 +166,7 @@ const HEADER = `
               <div class="navigation-top">
                 <nav class="main-navigation">
                   <ul>
-                      <li class="active"><a href="index.html">Anasayfa</a></li>
+                      <li class="active"><a href="/">Anasayfa</a></li>
                       <li><a href="/team/">Ekibimiz</a></li>
                       <li><a href="/presentation/">Sunum</a></li>
                       <li><a href="/events/">Etkinlikler</a></li>
@@ -187,7 +187,7 @@ const HEADER = `
     <div class="side-menu-wrap">
       <ul class="side-menu-ul">
           <ul>
-              <li class="sidenav__item"><a href="index.html">Anasayfa</a></li>
+              <li class="sidenav__item"><a href="/">Anasayfa</a></li>
               <li class="sidenav__item"><a href="/team/">Ekibimiz</a></li>
               <li class="sidenav__item"><a href="/presentation/">Sunum</a></li>
               <li class="sidenav__item"><a href="/events/">Etkinlikler</a></li>
