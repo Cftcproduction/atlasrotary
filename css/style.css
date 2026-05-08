@@ -1465,7 +1465,7 @@ a:hover {
   padding-bottom: 60px;
   position: relative;
   z-index: 1;
-  border-bottom: 2px solid #f2f0ec;
+  /* border-bottom: 2px solid #f2f0ec; */
 }
 .entry-area:after {
   content: "";
@@ -1939,7 +1939,7 @@ a:hover {
 
 /*=== fun-content-slide ===*/
 .mixer-area2 .fun-content-slide {
-  margin-top: -40%;
+  margin-top: -25%;
   padding: clamp(16px, 4vw, 32px) clamp(16px, 5vw, 40px);
   position: relative;
   z-index: 1;
@@ -2309,6 +2309,24 @@ a:hover {
   padding: 0 15px 0 21px;
   line-height: 40px;
   z-index: 1;
+}
+.blog__tag.blog__tag1 {
+  background-color: #00a2e0 !important;
+}
+.blog__tag.blog__tag1:after {
+  background-color: #00a2e0 !important;
+}
+.blog__tag.blog__tag2 {
+  background-color: #17458f !important;
+}
+.blog__tag.blog__tag2:after {
+  background-color: #17458f !important;
+}
+.blog__tag.blog__tag3 {
+  background-color: #f7a50a !important;
+}
+.blog__tag.blog__tag3:after {
+  background-color: #f7a50a !important;
 }
 .causes-area .blog-content-wrap .blog-content .blog-item .blog-img .blog__tag:after {
   content: "";
@@ -5547,9 +5565,6 @@ a:hover {
   }
 }
 .primary-targets {
-  background-position: 50% 0;
-  background-repeat: repeat;
-  background-size: 71px 85px;
   background-color: #17418b;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
