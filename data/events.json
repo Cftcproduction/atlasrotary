@@ -4376,6 +4376,75 @@
         "description": "28 Nisan 2026 Olağan Toplantı",
         "keywords": ["28 Nisan 2026 Olağan Toplantı"]
       }
+    },
+    {
+      "id": 84,
+      "title": "Kuantum Boşluk - Ebru Demirhan Stand Up Gösterisi",
+      "slug": "kuantum-bosluk-ebru-demirhan-stand-up-gostermesi",
+      "status": "active",
+      "date": {
+        "day": "07",
+        "month": "Mayıs",
+        "year": "2026",
+        "time": "20:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Yaşam Tasarım Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.562750088523!2d29.049899877456063!3d40.969156671356124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac77941ffbcfb%3A0xcdc91cd4f0a48964!2zQsO8ecO8ayBLdWzDvHAgRGVybmXEn2k!5e0!3m2!1str!2str!4v1777899731713!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/28-Nisan/01.jpg",
+      "gallery": [
+        "images/etkinlikler/28-Nisan/01.jpg",
+        "images/etkinlikler/28-Nisan/02.jpg",
+        "images/etkinlikler/28-Nisan/03.jpg",
+        "images/etkinlikler/28-Nisan/04.jpg",
+        "images/etkinlikler/28-Nisan/05.jpg",
+        "images/etkinlikler/28-Nisan/06.jpg",
+        "images/etkinlikler/28-Nisan/07.jpg",
+        "images/etkinlikler/28-Nisan/08.jpg",
+        "images/etkinlikler/28-Nisan/09.jpg",
+        "images/etkinlikler/28-Nisan/10.jpg",
+        "images/etkinlikler/28-Nisan/11.jpg",
+        "images/etkinlikler/28-Nisan/12.jpg",
+        "images/etkinlikler/28-Nisan/13.jpg",
+        "images/etkinlikler/28-Nisan/14.jpg",
+        "images/etkinlikler/28-Nisan/15.jpg",
+        "images/etkinlikler/28-Nisan/16.jpg",
+        "images/etkinlikler/28-Nisan/17.jpg",
+        "images/etkinlikler/28-Nisan/18.jpg",
+        "images/etkinlikler/28-Nisan/19.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "Kuantum Boşluk - Ebru Demirhan Stand Up Gösterisi",
+          "paragraphs": [
+            "28 Nisan 2026 tarihinde Büyük Kulüp’te gerçekleştirdiğimiz olağan toplantımızı yoğun katılım ve güçlü bir birliktelik ile tamamladık.",
+            "Toplantımızda, kulübümüzün gerçekleştirdiği çalışmalar ve önümüzdeki dönem projeleri değerlendirilirken, toplumsal fayda yaratmaya yönelik hedeflerimiz üzerine verimli paylaşımlar yapıldı.",
+            "Bu anlamlı buluşmada, etkinliklerimizde yer alarak çalışmalarımıza değer katan ve desteklerini esirgemeyen Kreta Kadınlar Topluluğu’na teşekkür plaketimizi takdim ettik.",
+            "Katkılarıyla gücümüze güç katan tüm paydaşlarımızla birlikte, dayanışma içinde daha büyük ve sürdürülebilir projelere imza atmaya kararlılıkla devam ediyoruz."
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "20:00 – 22:00" },
+          { "label": "Tarih", "value": "07 Mayıs 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Stand-up" }
+        ]
+      },
+      "seo": {
+        "title": "Kuantum Boşluk - Ebru Demirhan Stand Up Gösterisi",
+        "description": "Kuantum Boşluk - Ebru Demirhan Stand Up Gösterisi",
+        "keywords": ["Kuantum Boşluk", "Ebru Demirhan", "Stand Up Gösterisi"]
+      }
     }
     
   ]
