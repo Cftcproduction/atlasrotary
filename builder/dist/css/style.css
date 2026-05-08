@@ -1904,7 +1904,7 @@ a:hover {
   right: 0;
   width: 50%;
   height: 120%;
-  background-color: #17418b;
+  /* background-color: #17418b; */
   z-index: -1;
 }
 .fun-content-wrap .fun-content .fun-item {
@@ -1948,7 +1948,7 @@ a:hover {
 .mixer-area2 .fun-content-slide .fun-slide-item {
   color: #fff;
   background: #17418b; /* arka plan yoksa yazı kaybolmasın */
-  border-radius: 12px;
+  /* border-radius: 12px; */
   padding: clamp(16px, 4vw, 24px);
 }
 .mixer-area2 .fun-content-slide .fun-slide-item .icon-quote {
@@ -3466,14 +3466,14 @@ a:hover {
 .helping-area2 .helping-form {
   background-color: #25488d;
   margin-left: 0;
-  padding: 24px;
+  padding: 48px;
   position: relative;
   z-index: 1;
   transform: translateY(-361px);
   overflow: hidden;
 }
 .helping-area2:after {
-  background-color: #25488d;
+  /* background-color: #25488d; */
   margin-top: -261px;
   height: 954px;
 }
@@ -5550,7 +5550,7 @@ a:hover {
   background-position: 50% 0;
   background-repeat: repeat;
   background-size: 71px 85px;
-  background-color: #263b4c;
+  background-color: #17418b;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #fff;
