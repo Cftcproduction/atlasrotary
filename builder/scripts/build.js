@@ -635,7 +635,18 @@ function extractMapSrc(mapEmbedSrc = "") {
   if (srcMatch) return srcMatch[1];
   return raw.split('"')[0];
 }
+function normalizeYoutubeEmbed(url = "") {
+  const raw = String(url || "").trim();
+  if (!raw) return "";
 
+  const videoIdMatch = raw.match(/youtube\.com\/embed\/([^?&/]+)/i) || raw.match(/youtu\.be\/([^?&/]+)/i) || raw.match(/[?&]v=([^?&/]+)/i);
+
+  if (!videoIdMatch) return raw;
+
+  const videoId = videoIdMatch[1];
+
+  return `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1`;
+}
 function renderMap(event) {
   const src = extractMapSrc(event.location?.mapEmbedSrc);
   if (!src) return "";
@@ -665,6 +676,22 @@ function buildDetailPages(events, template) {
     const slug = safeSlug(event);
     const pagePath = eventUrl(event);
     const description = event.seo?.description || stripHtml(event.content?.[0]?.paragraphs?.[0] || event.title).slice(0, 155);
+    const VIDEO_BLOCK = event.video
+      ? `
+
+      <div class="event-detail-video p-4">
+      <div class="entry-video-img">
+                                    <img src="/${event.video.thumbnail}"
+          alt="${escapeHtml(event.title)}">
+                                    <a class="mfp-iframe video-play-btn"
+          href="${normalizeYoutubeEmbed(event.video.youtubeEmbed)}"
+          title="Play Video">
+                                        <img src="/images/icons/play.svg" alt="Play" class="play-icon">
+                                    </a>
+                                </div>
+                                </div>
+  `
+      : "";
     const html = replaceTokens(template, {
       SEO_TITLE: escapeHtml(event.seo?.title || `${event.title} | İstanbul Atlas Rotary Kulübü`),
       SEO_DESCRIPTION: escapeHtml(description),
@@ -678,10 +705,12 @@ function buildDetailPages(events, template) {
       EVENT_CONTENT: renderContent(event),
       SIDEBAR_TITLE: escapeHtml(event.sidebar?.title || event.organizer || "İstanbul Atlas Rotary Kulübü"),
       SIDEBAR_ITEMS: renderSidebar(event),
+      VIDEO_BLOCK: VIDEO_BLOCK,
       MAP_BLOCK: renderMap(event),
       FOOTER,
       SCRIPTS,
     });
+
     writeFile(path.join(DIST_DIR, "events", slug, "index.html"), html);
   }
 }
