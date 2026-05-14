@@ -232,8 +232,6 @@
                                         title="Play Video">
                                         <img src="/images/icons/play.svg" alt="Play" class="play-icon">
                                     </a>
-                                    </a>
-                                    </a>
                                 </div>
                             </div>
                             <div class="col-lg-8">
@@ -708,8 +706,8 @@
     <!-- ================================
        START FOOTER AREA
 ================================= -->
-<footer class="site-footer">
-    <!-- <div class="footer-cta">
+    <footer class="site-footer">
+        <!-- <div class="footer-cta">
         <div class="container">
             <div class="footer-cta-content">
                 <div>
@@ -721,64 +719,65 @@
         </div>
     </div> -->
 
-    <div class="footer-main">
-        <div class="container">
-            <div class="footer-grid">
+        <div class="footer-main">
+            <div class="container">
+                <div class="footer-grid">
 
-                <div class="footer-col">
-                    <img src="images/logo-wihte.svg" alt="İstanbul Atlas Rotary Kulübü" class="footer-logo">
-                    <p>
-                        İstanbul Atlas Rotary Kulübü, toplum yararına sürdürülebilir projeler geliştiren,
-                        hizmet odaklı bir sivil toplum oluşumudur.
-                    </p>
+                    <div class="footer-col">
+                        <img src="images/logo-wihte.svg" alt="İstanbul Atlas Rotary Kulübü" class="footer-logo">
+                        <p>
+                            İstanbul Atlas Rotary Kulübü, toplum yararına sürdürülebilir projeler geliştiren,
+                            hizmet odaklı bir sivil toplum oluşumudur.
+                        </p>
+                    </div>
+
+                    <div class="footer-col">
+                        <h4>Hızlı Menü</h4>
+                        <ul>
+                            <li><a href="index.html">Ana Sayfa</a></li>
+                            <li><a href="hakkimizda.html">Hakkımızda</a></li>
+                            <li><a href="projeler.html">Projeler</a></li>
+                            <li><a href="etkinlikler.html">Etkinlikler</a></li>
+                            <li><a href="iletisim.html">İletişim</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-col">
+                        <h4>Son Etkinlikler</h4>
+                        <ul>
+                            <li><a href="#">Kuantum Boşluk “Özel Sahne Deneyimi”</a></li>
+                            <li><a href="#">28 Nisan 2026 Olağan Toplantı</a></li>
+                            <li><a href="#">Yönetim Kurulu Toplantısı</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-col">
+                        <h4>İletişim</h4>
+                        <p>Büyük Kulüp Derneği, Caddebostan<br>Operatör Cemil Topuzlu Cd. No:42<br>34728 Kadıköy /
+                            İstanbul</p>
+                        <p><a href="mailto:atlasrotary@gmail.com">atlasrotary@gmail.com</a></p>
+                        <p><a href="tel:+905335185388">+90 533 518 53 88</a></p>
+                    </div>
+
                 </div>
-
-                <div class="footer-col">
-                    <h4>Hızlı Menü</h4>
-                    <ul>
-                        <li><a href="index.html">Ana Sayfa</a></li>
-                        <li><a href="hakkimizda.html">Hakkımızda</a></li>
-                        <li><a href="projeler.html">Projeler</a></li>
-                        <li><a href="etkinlikler.html">Etkinlikler</a></li>
-                        <li><a href="iletisim.html">İletişim</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-col">
-                    <h4>Son Etkinlikler</h4>
-                    <ul>
-                        <li><a href="#">Kuantum Boşluk “Özel Sahne Deneyimi”</a></li>
-                        <li><a href="#">28 Nisan 2026 Olağan Toplantı</a></li>
-                        <li><a href="#">Yönetim Kurulu Toplantısı</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-col">
-                    <h4>İletişim</h4>
-                    <p>Büyük Kulüp Derneği, Caddebostan<br>Operatör Cemil Topuzlu Cd. No:42<br>34728 Kadıköy / İstanbul</p>
-                    <p><a href="mailto:atlasrotary@gmail.com">atlasrotary@gmail.com</a></p>
-                    <p><a href="tel:+905335185388">+90 533 518 53 88</a></p>
-                </div>
-
             </div>
         </div>
-    </div>
 
-    <div class="footer-bottom">
-    <div class="container">
-        <p>
-            © 2026 İstanbul Atlas Rotary Kulübü. Tüm hakları saklıdır.
-            <span class="divider">|</span>
-            Bu site 
-            <a href="https://www.cftcbrandtech.com" target="_blank" rel="noopener noreferrer">
-                CFTC BrandTech
-            </a> 
-            tarafından hazırlanmıştır.
-        </p>
-    </div>
-</div>
-</footer>
-<!-- ================================
+        <div class="footer-bottom">
+            <div class="container">
+                <p>
+                    © 2026 İstanbul Atlas Rotary Kulübü. Tüm hakları saklıdır.
+                    <span class="divider">|</span>
+                    Bu site
+                    <a href="https://www.cftcbrandtech.com" target="_blank" rel="noopener noreferrer">
+                        CFTC BrandTech
+                    </a>
+                    tarafından hazırlanmıştır.
+                </p>
+            </div>
+        </div>
+    </footer>
+    <!-- ================================
        END FOOTER AREA
 ================================= -->
     <!-- end back-to-top -->
@@ -799,6 +798,17 @@
     <script src="js/smooth-scrolling.js"></script>
     <script src="js/wow.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.mfp-iframe').magnificPopup({
+                type: 'iframe',
+                mainClass: 'mfp-fade',
+                removalDelay: 160,
+                preloader: false,
+                fixedContentPos: false
+            });
+        });
+    </script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
 
