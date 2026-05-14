@@ -183,21 +183,27 @@ Author Email:   layerdrops@gmail.com
     });
 
     /*==== magnific-popup =====*/
-    $(".video-play-btn").magnificPopup({
-      type: "iframe",
-      iframe: {
-        patterns: {
-          youtube: {
-            index: "youtube.com/",
-            id: function (url) {
-              var m = url.match(/(?:v=|youtu\.be\/)([A-Za-z0-9_-]+)/);
-              return m && m[1] ? m[1] : null;
+    if (window.jQuery && $.fn.magnificPopup) {
+      $(".mfp-iframe").magnificPopup({
+        type: "iframe",
+        mainClass: "mfp-fade",
+        removalDelay: 160,
+        preloader: true,
+        fixedContentPos: false,
+        iframe: {
+          patterns: {
+            youtube: {
+              index: "youtube.com/",
+              id: function (url) {
+                const match = url.match(/embed\/([^?&/]+)/i) || url.match(/[?&]v=([^?&/]+)/i);
+                return match ? match[1] : null;
+              },
+              src: "https://www.youtube.com/embed/%id%?autoplay=1&rel=0&modestbranding=1",
             },
-            src: "https://www.youtube.com/embed/%id%?autoplay=1&origin=" + encodeURIComponent(window.location.origin),
           },
         },
-      },
-    });
+      });
+    }
 
     /*==== lightbox =====*/
     lightbox.option({
