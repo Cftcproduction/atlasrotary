@@ -654,7 +654,7 @@ function normalizeYoutubeEmbed(url = "") {
 
   const videoId = match[1];
 
-  return `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1`;
+  return `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=0&mute=1&rel=0&modestbranding=1&playsinline=1`;
 }
 function renderMap(event) {
   const src = extractMapSrc(event.location?.mapEmbedSrc);
