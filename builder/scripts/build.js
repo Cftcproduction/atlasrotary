@@ -297,8 +297,17 @@ const SCRIPTS = `
 
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 
-<script>
+<script>  
   document.addEventListener("DOMContentLoaded", function () {
+  if (window.jQuery && window.jQuery.fn && window.jQuery.fn.magnificPopup) {
+  window.jQuery(".mfp-iframe").magnificPopup({
+    type: "iframe",
+    mainClass: "mfp-fade",
+    removalDelay: 160,
+    preloader: false,
+    fixedContentPos: false
+  });
+}
     if (window.Fancybox) {
       Fancybox.bind("[data-fancybox]", {
         Thumbs: {
