@@ -190,18 +190,6 @@ Author Email:   layerdrops@gmail.com
         removalDelay: 160,
         preloader: true,
         fixedContentPos: false,
-        iframe: {
-          patterns: {
-            youtube: {
-              index: "youtube.com/",
-              id: function (url) {
-                const match = url.match(/embed\/([^?&/]+)/i) || url.match(/[?&]v=([^?&/]+)/i);
-                return match ? match[1] : null;
-              },
-              src: "https://www.youtube.com/embed/%id%?autoplay=1&rel=0&modestbranding=1",
-            },
-          },
-        },
       });
     }
 
