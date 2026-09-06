@@ -4315,6 +4315,266 @@
         "description": "Kuantum Boşluk “Özel Sahne Deneyimi” Etkinliği",
         "keywords": ["Kuantum Boşluk", "Özel Sahne Deneyimi"]
       }
+    },
+    {
+      "id": 85,
+      "title": "Anne karnından çocukluğa, sağlıklı bir gelecek…",
+      "slug": "anne-karnindan-cocukluga-saglikli-bir-gelecek",
+      "status": "active",
+      "date": {
+        "day": "23",
+        "month": "Temmuz",
+        "year": "2026",
+        "time": "20:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Yaşam Tasarım Merkezi",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.613573854621!2d29.105343077342134!3d40.94613557135943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac724bc66faab%3A0xe985e995d3f82e1e!2sEbru%20Demirhan%20Ya%C5%9Fam%20Tasar%C4%B1m%20Merkezi!5e0!3m2!1str!2str!4v1778249591728!5m2!1str!2str"
+      },
+      "heroImage": "images/etkinlikler/anne-karnindan.png",
+      "gallery": ["images/etkinlikler/anne-karnindan.png", "images/etkinlikler/anne-karnindan1.png", "images/etkinlikler/anne-karnindan2.png"],
+
+      "content": [
+        {
+          "heading": "Anne karnından çocukluğa, sağlıklı bir gelecek…",
+          "paragraphs": [
+            "İstanbul Atlas Rotary Kulübü olarak, değerli konuğumuz Prof. Dr. Özlem ÜSTAY’ı ağırladığımız “Anne Karnından Çocukluğa Sağlıklı Bir Gelecek” başlıklı toplantımızı gerçekleştirdik.",
+            "Prof. Dr. Özlem Üstay’ın değerli anlatımıyla; günlük yaşamımızda farkında olmadan maruz kalabildiğimiz endokrin bozucu kimyasalların gebelik, bebeklik ve çocukluk dönemlerindeki etkilerini, bu maddelere maruziyeti azaltmanın yollarını ve sağlıklı nesiller için atılabilecek adımları ele aldık.",
+            "Bilimsel bilginin ışığında, bugün yaptığımız seçimlerin yalnızca kendi sağlığımızı değil, gelecek nesillerin sağlığını da şekillendirdiğini bir kez daha gördük.",
+            "Değerli bilgi ve deneyimlerini bizlerle paylaşan Prof. Dr. Özlem ÜSTAY’a ve toplantımıza katılarak bizlere eşlik eden tüm misafirlerimize teşekkür ederiz.",
+            "Ayrıca bu anlamlı buluşmayı birlikte gerçekleştirdiğimiz Adalar Rotary Kulübü, Anatolia International Rotary Kulübü ve Topkapı Rotary Kulübü’ne teşekkür ederiz.",
+            "Bilgi paylaştıkça çoğalır, farkındalık geleceği değiştirir.",
+            "#İstanbulAtlasRotary",
+            "#Rotary",
+            "#EndokrinBozucular",
+            "#SağlıklıNesiller",
+            "#SağlıklıGelecek",
+            "#AnneVeÇocukSağlığı",
+            "#Farkındalık",
+            "#Endokrinoloji",
+            "#RotaryInternational"
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "20:00 – 22:00" },
+          { "label": "Tarih", "value": "23 Temmuz 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Stand-up" }
+        ]
+      },
+      "seo": {
+        "title": "Anne karnından çocukluğa, sağlıklı bir gelecek…",
+        "description": "Anne karnından çocukluğa, sağlıklı bir gelecek…",
+        "keywords": ["#İstanbulAtlasRotary", "#Rotary", "#EndokrinBozucular", "#SağlıklıNesiller", "#SağlıklıGelecek", "#AnneVeÇocukSağlığı", "#Farkındalık", "#Endokrinoloji", "#RotaryInternational"]
+      }
+    },
+    {
+      "id": 86,
+      "title": "Her Yaşta Farkındalık – Deprem Farkındalık ve Uygulamalı Eğitim Buluşması",
+      "slug": "her-yasda-farkindalik-deprem-farkindaligi-ve-uygulamali-egitim-bulusmasi",
+      "status": "active",
+      "date": {
+        "day": "19",
+        "month": "Ağustos",
+        "year": "2026",
+        "time": "20:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Belediyesi Afet Eğitim ve Bilinçlendirme Parkı",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.6880182489294!2d29.09520087644258!3d40.97545342144466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac72be159ad4f%3A0xc4ee44ab060f9748!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Afet%20E%C4%9Fitim%20ve%20Bilin%C3%A7lendirme%20Park%C4%B1!5e1!3m2!1sen!2str!4v1788701923251!5m2!1sen!2str"
+      },
+      "heroImage": "images/etkinlikler/19-agustos/2.jpg",
+      "gallery": [
+        "images/etkinlikler/19-agustos/0.jpg",
+        "images/etkinlikler/19-agustos/1.jpg",
+        "images/etkinlikler/19-agustos/2.jpg",
+        "images/etkinlikler/19-agustos/3.jpg",
+        "images/etkinlikler/19-agustos/4.jpg",
+        "images/etkinlikler/19-agustos/5.jpg",
+        "images/etkinlikler/19-agustos/6.jpg",
+        "images/etkinlikler/19-agustos/7.jpg",
+        "images/etkinlikler/19-agustos/8.jpg",
+        "images/etkinlikler/19-agustos/9.jpg",
+        "images/etkinlikler/19-agustos/10.jpg",
+        "images/etkinlikler/19-agustos/11.jpg",
+        "images/etkinlikler/19-agustos/12.jpg",
+        "images/etkinlikler/19-agustos/13.jpg",
+        "images/etkinlikler/19-agustos/14.jpg",
+        "images/etkinlikler/19-agustos/15.jpg",
+        "images/etkinlikler/19-agustos/16.jpg",
+        "images/etkinlikler/19-agustos/17.jpg",
+        "images/etkinlikler/19-agustos/18.jpg",
+        "images/etkinlikler/19-agustos/19.jpg",
+        "images/etkinlikler/19-agustos/20.jpg",
+        "images/etkinlikler/19-agustos/21.jpg",
+        "images/etkinlikler/19-agustos/22.jpg",
+        "images/etkinlikler/19-agustos/23.jpg",
+        "images/etkinlikler/19-agustos/24.jpg",
+        "images/etkinlikler/19-agustos/25.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "Her Yaşta Farkındalık – Deprem Farkındalık ve Uygulamalı Eğitim Buluşması",
+          "paragraphs": [
+            "17 Ağustos’un ardından: Hatırlıyoruz, öğreniyoruz, hazırlanıyoruz. ",
+            "İstanbul Atlas Rotary Kulübü olarak, 19 Ağustos 2026 tarihinde Kadıköy Belediyesi BAK Ekibi ve Kadıköy Belediyesi Sosyal Yaşam Evi iş birliğiyle “Her Yaşta Farkındalık – Deprem Farkındalık ve Uygulamalı Eğitim Buluşması” etkinliğimizi gerçekleştirdik.",
+            "Kadıköy Belediyesi Afet Eğitim ve Bilinçlendirme Parkı’nda gerçekleşen buluşmamızda, Sosyal Yaşam Evi katılımcılarıyla birlikte afetlere karşı hazırlıklı olmanın ve doğru bilgiyle hareket etmenin önemini deneyimleyerek ele aldık.",
+            "Program kapsamında 5 boyutlu sinema, deprem simülasyonu ve yangın simülasyonu uygulamalarına katılarak afet öncesinde, sırasında ve sonrasında sergilenmesi gereken doğru davranışlar konusunda farkındalığımızı güçlendirdik.",
+            "Buluşmamızın en anlamlı bölümlerinden birinde ise 17 Ağustos 1999 Marmara Depremi’ni andık. O geceyi yaşamış katılımcılarımızın deneyimlerini ve hatıralarını dinleyerek geçmişin bize bıraktığı dersleri birlikte hatırladık.",
+            "Çünkü afetlere hazırlıklı olmak yaşla sınırlı değil; bilgi, farkındalık ve dayanışmayla güçlenen ortak bir sorumluluk.",
+            "Bu anlamlı çalışmanın gerçekleşmesine katkı sağlayan Kadıköy Belediyesi BAK Ekibi’ne, Kadıköy Belediyesi Sosyal Yaşam Evi’ne, katılımcılarımıza ve emeği geçen tüm üyelerimize teşekkür ediyoruz.",
+            "Geçmişi unutmuyor, bilgiyi paylaşıyor ve daha dirençli bir toplum için Kalıcı Etki Yaratıyoruz. ",
+            "#İstanbulAtlasRotary #Rotary #RotaryInternational #Rotary2420 #KalıcıEtkiYarat #17Ağustos #Deprem #DepremFarkındalığı #AfetBilinci #AfeteHazırlık #Kadıköy #SosyalSorumluluk #ToplumHizmeti"
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "20:00 – 22:00" },
+          { "label": "Tarih", "value": "19 Ağustos 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Stand-up" }
+        ]
+      },
+      "seo": {
+        "title": "Her Yaşta Farkındalık – Deprem Farkındalık ve Uygulamalı Eğitim Buluşması",
+        "description": "Her Yaşta Farkındalık – Deprem Farkındalık ve Uygulamalı Eğitim Buluşması",
+        "keywords": ["#İstanbulAtlasRotary", "#Rotary", "#RotaryInternational", "#Rotary2420", "#KalıcıEtkiYarat", "#17Ağustos", "#Deprem", "#DepremFarkındalığı", "#AfetBilinci", "#AfeteHazırlık", "#Kadıköy", "#SosyalSorumluluk", "#ToplumHizmeti"]
+      }
+    },
+    {
+      "id": 87,
+      "title": "24 Ağustos 2026 Olağan Toplantı",
+      "slug": "24-agustos-2026-olagan-toplanti",
+      "status": "active",
+      "date": {
+        "day": "24",
+        "month": "Ağustos",
+        "year": "2026",
+        "time": "20:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Belediyesi Afet Eğitim ve Bilinçlendirme Parkı",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.6880182489294!2d29.09520087644258!3d40.97545342144466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac72be159ad4f%3A0xc4ee44ab060f9748!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Afet%20E%C4%9Fitim%20ve%20Bilin%C3%A7lendirme%20Park%C4%B1!5e1!3m2!1sen!2str!4v1788701923251!5m2!1sen!2str"
+      },
+      "heroImage": "images/etkinlikler/24-agustos/2.jpg",
+      "gallery": [
+        "images/etkinlikler/24-agustos/0.jpg",
+        "images/etkinlikler/24-agustos/1.jpg",
+        "images/etkinlikler/24-agustos/2.jpg",
+        "images/etkinlikler/24-agustos/3.jpg",
+        "images/etkinlikler/24-agustos/4.jpg",
+        "images/etkinlikler/24-agustos/5.jpg",
+        "images/etkinlikler/24-agustos/6.jpg",
+        "images/etkinlikler/24-agustos/7.jpg",
+        "images/etkinlikler/24-agustos/8.jpg"
+      ],
+
+      "content": [
+        {
+          "heading": "24 Ağustos 2026 Olağan Toplantı",
+          "paragraphs": [""]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "20:00 – 22:00" },
+          { "label": "Tarih", "value": "24 Ağustos 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Stand-up" }
+        ]
+      },
+      "seo": {
+        "title": "24 Ağustos 2026 Olağan Toplantı",
+        "description": "24 Ağustos 2026 Olağan Toplantı",
+        "keywords": ["#İstanbulAtlasRotary", "#Rotary"]
+      }
+    },
+    {
+      "id": 88,
+      "title": "11 Ağustos 2026 Olağan Toplantı",
+      "slug": "11-agustos-2026-olagan-toplanti",
+      "status": "active",
+      "date": {
+        "day": "11",
+        "month": "Ağustos",
+        "year": "2026",
+        "time": "20:00 – 22:00"
+      },
+      "category": "Etkinlik",
+      "organizer": "İstanbul Atlas Rotary Kulübü",
+      "contact": {
+        "phone": "+90 542 295 79 90",
+        "website": "https://atlasrotary.org"
+      },
+      "location": {
+        "address": "Kadıköy Belediyesi Afet Eğitim ve Bilinçlendirme Parkı",
+        "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.6880182489294!2d29.09520087644258!3d40.97545342144466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac72be159ad4f%3A0xc4ee44ab060f9748!2sKad%C4%B1k%C3%B6y%20Belediyesi%20Afet%20E%C4%9Fitim%20ve%20Bilin%C3%A7lendirme%20Park%C4%B1!5e1!3m2!1sen!2str!4v1788701923251!5m2!1sen!2str"
+      },
+      "heroImage": "images/etkinlikler/11-agustos/2.jpeg",
+      "gallery": [
+        "images/etkinlikler/11-agustos/0.jpeg",
+        "images/etkinlikler/11-agustos/1.jpeg",
+        "images/etkinlikler/11-agustos/2.jpeg",
+        "images/etkinlikler/11-agustos/3.jpeg",
+        "images/etkinlikler/11-agustos/4.jpeg",
+        "images/etkinlikler/11-agustos/5.jpeg",
+        "images/etkinlikler/11-agustos/6.jpeg",
+        "images/etkinlikler/11-agustos/7.jpeg",
+        "images/etkinlikler/11-agustos/8.jpeg"
+      ],
+
+      "content": [
+        {
+          "heading": "11 Ağustos 2026 Olağan Toplantı",
+          "paragraphs": [
+            "Bir kulübü güçlü kılan; üyeleri, fikirleri ve birlikte harekete geçme gücüdür.",
+
+            "İstanbul Atlas Rotary Kulübü olarak 11 Ağustos 2026 tarihinde, 2026–2027 dönemimizin 5. Genel, 38. Kulüp Toplantısını gerçekleştirdik.",
+            "Toplantımızda kulübümüzün gelişimine ve yeni dönem çalışmalarımıza odaklandık. Üyelik ve asamble sunumlarımızın yanı sıra komite başkanlarımızla yürütülen ve planlanan projelerimizi değerlendirdik; önümüzdeki döneme ilişkin hedef ve çalışmalarımız üzerine fikir alışverişinde bulunduk.",
+            "Atlas Network Köşesi ile üyelerimiz arasındaki iletişimi ve iş birliğini güçlendirirken, üyelerimizin ve konuklarımızın görüşlerini dinleyerek farklı fikirlerin kulübümüze kattığı değeri bir kez daha deneyimledik. ",
+            "Rotary’nin temelinde yer alan dostluğu da unutmadık; Mutlu Günlerimizi birlikte kutlayarak toplantımıza keyifli anılar ekledik. ",
+            "Projeler üreten, bilgisini paylaşan, birbirinden öğrenen ve ortak hedefler doğrultusunda harekete geçen güçlü bir kulüp olma yolunda çalışmalarımıza devam ediyoruz.",
+            "Katılım sağlayan tüm üyelerimize ve değerli konuklarımıza teşekkür ediyoruz.",
+            "Dostlukla güçleniyor, fikirlerle gelişiyor, birlikte Kalıcı Etki Yaratıyoruz.",
+            "#İstanbulAtlasRotary #Rotary #RotaryInternational #Rotary2420 #KalıcıEtkiYarat #RotaryAilesi #Rotaryen #Üyelik #Networking #Dostluk #BirlikteÜretiyoruz"
+          ]
+        }
+      ],
+      "sidebar": {
+        "title": "İstanbul Atlas Rotary Kulübü ",
+        "items": [
+          { "label": "Saat", "value": "20:00 – 22:00" },
+          { "label": "Tarih", "value": "11 Ağustos 2026" },
+          { "label": "Kategori", "value": "Toplantı, Davet, Stand-up" }
+        ]
+      },
+      "seo": {
+        "title": "11 Ağustos 2026 Olağan Toplantı",
+        "description": "11 Ağustos 2026 Olağan Toplantı",
+        "keywords": ["#İstanbulAtlasRotary", "#Rotary"]
+      }
     }
   ]
 }
