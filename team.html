@@ -659,7 +659,7 @@
             ];
             const card = (person, hasRole) => {
                 const [nameOrRole, maybeName, maybeEmail, photo] = hasRole ? person : ["", person[0], person[1], person[2]];
-                const avatar = photo ? `<img class="team-member-photo" src="images/${photo}" alt="${maybeName}">` : '<div class="team-member-placeholder"><i class="fa fa-user"></i></div>';
+                const avatar = photo ? `<img class="team-member-photo" src="/images/${photo}" alt="${maybeName}">` : '<div class="team-member-placeholder"><i class="fa fa-user"></i></div>';
                 return `<div class="col-lg-6"><article class="team-member-card">${avatar}<div>${hasRole ? `<span class="team-member-role">${nameOrRole}</span>` : ""}<h4 class="team-member-name">${maybeName}</h4><a class="team-member-email" href="mailto:${maybeEmail}"><i class="fa fa-envelope"></i>${maybeEmail}</a></div></article></div>`;
             };
             const directory = document.getElementById("teamDirectory");
