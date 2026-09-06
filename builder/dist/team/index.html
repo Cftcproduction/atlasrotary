@@ -20,6 +20,80 @@
     <link rel="stylesheet" href="/css/lightbox.css">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/responsive.css">
+    <style>
+        .team-directory .team-member-card {
+            display: flex;
+            align-items: center;
+            min-height: 96px;
+            margin-bottom: 16px;
+            padding: 14px 18px;
+            border: 1px solid #194b66;
+            border-radius: 8px;
+            background: #fff;
+            text-align: left;
+        }
+
+        .team-directory .team-member-photo,
+        .team-directory .team-member-placeholder {
+            flex: 0 0 68px;
+            width: 68px;
+            height: 68px;
+            margin-right: 16px;
+            border-radius: 50%;
+        }
+
+        .team-directory .team-member-photo {
+            object-fit: cover;
+        }
+
+        .team-directory .team-member-placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #123d78;
+            background: #f5f7f8;
+            font-size: 42px;
+        }
+
+        .team-directory .team-member-role {
+            display: block;
+            margin-bottom: 2px;
+            color: #777;
+            font-size: 12px;
+        }
+
+        .team-directory .team-member-name {
+            margin: 0 0 4px;
+            color: #082e5b;
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .team-directory .team-member-email {
+            color: #102c4d;
+            font-size: 13px;
+        }
+
+        .team-directory .team-member-email i {
+            margin-right: 8px;
+            color: #19a8a5;
+        }
+
+        @media (max-width:575px) {
+            .team-directory .team-member-card {
+                min-height: 88px;
+                padding: 12px;
+            }
+
+            .team-directory .team-member-photo,
+            .team-directory .team-member-placeholder {
+                flex-basis: 58px;
+                width: 58px;
+                height: 58px;
+                margin-right: 12px;
+            }
+        }
+    </style>
   <meta name="description" content="Ekibimiz sayfası. İstanbul Atlas Rotary Kulübü çalışmaları, etkinlikleri ve sosyal sorumluluk projeleri." />
   <link rel="canonical" href="https://www.atlasrotary.org/team/" />
   <meta property="og:title" content="Ekibimiz | İstanbul Atlas Rotary Kulübü" />
@@ -156,7 +230,8 @@
                     </div><!-- end section-heading -->
                 </div><!-- end col-md-8 -->
             </div><!-- end row -->
-            <div class="row team-content-wrap">
+            <div class="row team-directory" id="teamDirectory"></div>
+            <div class="row team-content-wrap" style="display:none">
                 <div class="col-lg-3 col-sm-6">
                     <div class="team-item team-item1">
                         <div class="team__img">
@@ -566,6 +641,37 @@
     <script src="/js/smooth-scrolling.js"></script>
     <script src="/js/wow.js"></script>
     <script src="/js/main.js"></script>
+    <script>
+        (function () {
+            const leadership = [
+                ["Kulüp Sekreteri", "Birce Ergenekon", "bircergenekon@gmail.com"], ["Kulüp Gelişim Komite Başkanı", "Candan Balto", "cdemirdik@hotmail.com"],
+                ["Kulüp İdari Direktör Asistanı", "Ebru Demirhan", "kuantumebru@gmail.com"], ["Kulüp Halkla İlişkiler Komite Başkanı", "Erkan Çiftçi", "erkancftc@gmail.com", "Erkan-Ciftci.jpg"],
+                ["Kulüp Hizmet Projeleri Komite Başkanı", "Leyla Terzi", "leylaterzi123@gmail.com", "Leyla-Terzi.jpg"], ["Kulüp Üyelik Komite Başkanı", "Mehmet Abacı", "mehmetabaci62@gmail.com", "mehmet-abaci.jpg"],
+                ["Kulüp Saymanı", "Mehmet Zeki Kanadıkırık", "kanadikirikmzeki@gmail.com"], ["Kulüp Başkanı", "Nur Topçu", "nurtopcu68@gmail.com", "Nur-Topcu.jpg"],
+                ["Kulüp Vakıf Başkanı", "Nurcan Mescigil", "nurcanmescigil@gmail.com"], ["Kulüp Başkan Yardımcısı", "Özlem Abacı", "zibzi27887@gmail.com", "Ozlem-Abaci.jpg"],
+                ["Kulüp Genç Liderler Temsilcisi", "Selcan Aslan", "selcanarslan@gmail.com", "Selcan-Arslan.jpg"], ["Kulüp İdari Sekreteri", "Yücel Çağdaş Turan", "turanyuceltr@gmail.com", "yucel-cagdas-turan.jpg"]
+            ];
+            const members = [
+                ["Ayşe Sibel Kıribrahim", "skiribrahim@gmail.com"], ["Belgin Aydın", "belgin.aydin2022@gmail.com", "Belgin-Aydin.jpg"], ["Belgin Büyük", "belginbyk@gmail.com"],
+                ["Birce Ergenekon", "bircergenekon@gmail.com"], ["Bülent Sarıgül", "bulent@binaraklam.com"], ["Candan Balto", "cdemirdik@hotmail.com"], ["Devrim Doluel", "baris.doluel@oditymm.com.tr"],
+                ["Ebru Demirhan", "kuantumebru@gmail.com"], ["Enver Tayla Koray", "taylakoraymuzik@gmail.com"], ["Erkan Çiftçi", "erkancftc@gmail.com", "Erkan-Ciftci.jpg"], ["Esma Altay", "esmaaltay@gmail.com"],
+                ["Esra Fazlıoğlu", "esrafazlioglu21@gmail.com"], ["Funda Şimşirel", "fundasimsirel@gmail.com"], ["Gülfem Başol", "gfem1412010@hotmail.com"], ["İmren Hacımustafa", "imrenhacimustafa@gmail.com"],
+                ["İpek Elmacıoğlu", "ipekelmacioglu95@gmail.com"], ["Leyla Terzi", "leylaterzi123@gmail.com", "Leyla-Terzi.jpg"], ["Mehmet Abacı", "mehmetabaci62@gmail.com", "mehmet-abaci.jpg"],
+                ["Mehmet Cem Beyhan", "mcbeyhan86@gmail.com"], ["Mehmet Zeki Kanadıkırık", "kanadikirikmzeki@gmail.com"], ["Nazik Alanbay", "alanbaynazik@gmail.com", "Nazik-Alanbay.jpg"],
+                ["Nur Topçu", "nurtopcu68@gmail.com", "Nur-Topcu.jpg"], ["Nurcan Mescigil", "nurcanmescigil@gmail.com"], ["Özlem Abacı", "zibzi27887@gmail.com", "Ozlem-Abaci.jpg"],
+                ["Özlem Duşhi", "ozlemdushi@yahoo.co.uk"], ["Saadet Garan", "saadetgaran@gmail.com", "Saadet-Garan.jpg"], ["Selcan Aslan", "selcanarslan@gmail.com", "Selcan-Arslan.jpg"],
+                ["Serkan Taş", "serkantas@outlook.com"], ["Sinem Sandıkçı", "sndkcsinem@gmail.com", "sinem-sandikci.jpg"], ["Uğur Yalçın", "ugyalcin@gmail.com"],
+                ["Yücel Çağdaş Turan", "turanyuceltr@gmail.com", "yucel-cagdas-turan.jpg"], ["Zeliha Büge Önal", "zeliha.bugeonal@gmail.com"], ["Zeynep Karabekir", "zeynepkarabekir@gmail.com"]
+            ];
+            const card = (person, hasRole) => {
+                const [nameOrRole, maybeName, maybeEmail, photo] = hasRole ? person : ["", person[0], person[1], person[2]];
+                const avatar = photo ? `<img class="team-member-photo" src="images/${photo}" alt="${maybeName}">` : '<div class="team-member-placeholder"><i class="fa fa-user"></i></div>';
+                return `<div class="col-lg-6"><article class="team-member-card">${avatar}<div>${hasRole ? `<span class="team-member-role">${nameOrRole}</span>` : ""}<h4 class="team-member-name">${maybeName}</h4><a class="team-member-email" href="mailto:${maybeEmail}"><i class="fa fa-envelope"></i>${maybeEmail}</a></div></article></div>`;
+            };
+            const directory = document.getElementById("teamDirectory");
+            directory.innerHTML = '<div class="col-12"><h3 class="text-left mb-4">Kulüp Yönetimi</h3></div>' + leadership.map(person => card(person, true)).join("") + '<div class="col-12"><h3 class="text-left mb-4 mt-4">Kulüp Üyeleri</h3></div>' + members.map(person => card(person, false)).join("");
+        }());
+    </script>
 </body>
 
 </html>
