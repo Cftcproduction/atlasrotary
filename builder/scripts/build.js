@@ -784,6 +784,7 @@ function main() {
   ensureDir(DIST_DIR);
 
   copyAssets();
+  copyRecursive(DATA_FILE, path.join(DIST_DIR, "data", "events.json"));
 
   const data = JSON.parse(read(DATA_FILE));
   const events = (data.events || []).filter((event) => event.status !== "draft" && event.status !== "passive");
